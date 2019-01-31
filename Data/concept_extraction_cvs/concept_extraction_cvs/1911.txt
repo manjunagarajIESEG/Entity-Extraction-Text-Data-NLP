@@ -1,0 +1,3 @@
+Present Senior Statistician, Research analytics and Development
+TrueCar, Inc - San Francisco, CA
+-Develop models to optimize dealer ranking to increase conversion rate and close rate -Build algorithm to compare vehicle similarity and build pipeline to computer score in a large scale -Develop internal modeling tools using both SAS and python to improve the work efficiency -Create implementable design of A/B testing for different web experience and build tableau dashboard to track test performance -Create SEM seasonal campaigns and conduct online and offline marketing analysis -Evaluate third party data quality and usefulness to reduce company expense

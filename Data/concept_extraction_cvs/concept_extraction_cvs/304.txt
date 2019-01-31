@@ -1,0 +1,3 @@
+Softwaer Engineer
+WorkForce Software - Livonia, MI
+Responsibilities Backend Java development for a web based software application Wrote JavaScript scripts for use in Rhino Event-driven Python programming for a Linux based client-server application Daily tasks include use of Perforce Version control, IntelliJ IDEA and PyCharm IDEs, and the Apache Ant build tool  Skills Used Java/JavaScript Python ANT IntelliJ Idea PyCharm Test Track Perforce Linux Windows

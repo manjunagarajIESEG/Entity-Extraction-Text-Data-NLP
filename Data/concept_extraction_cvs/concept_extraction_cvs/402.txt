@@ -1,0 +1,3 @@
+IT Quality Assurance Intern
+Taco Bell Corporate - Irvine, CA
+• Involved in unit testing and the creation of test cases for the Front Of House (FOH) and Above Store team. • Create VB scripts to automate services, run SQL queries, and configure lab setups. • Create Python scripts to modify text files and manipulate the placement of files (File I/O). • Set up test lab environments with configurations managed by ini files and Microsoft SQL Server databases. • Record and document defects which are found during testing. • Provide great documentation on the defects found as well as create thorough test cases which can be recycled for future testing. • Integrating Sikuli, Eclipse, and Java to create jar executable files for Graphical User Interface (GUI) automation.

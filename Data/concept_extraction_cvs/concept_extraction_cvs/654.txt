@@ -1,0 +1,3 @@
+Graduate Assistant
+DePaul University
+Grading homework, providing feedback to students on Discrete Math, Python, and Java. Reporting students' performance to DePaul CDM faculty.

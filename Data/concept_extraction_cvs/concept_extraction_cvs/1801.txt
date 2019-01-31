@@ -1,0 +1,3 @@
+Microsoft Certified Technology Specialist
+Chat APP
+2016). Creating a Client-Client chat application such that one system will act as server and other two  systems will connect to server and can interactively chat with each other. Core Java  ADDITIONAL EXPERIENCE AND AWARDS • Microsoft Certified Technology Specialist. (MCTS-C#, ASP.NET 3.5)  • Participated in 3 National level paper presentation  • Innovative and patient with good communication skills  • Enjoy working as team player as well as independently  •   Core Java; SQL; NodeJS; Python; AngularJS; JSP; Servlets; •   Microsoft SQL Server; Eclipse; PyCharm.

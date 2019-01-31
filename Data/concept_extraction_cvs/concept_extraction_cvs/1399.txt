@@ -1,0 +1,3 @@
+GIS Intern
+The Nature Conservancy Colorado - Boulder, CO
+•     Support pilot study on the effects of rapid rest rotation agriculture on the biomass of native grasses. •     Manage large datasets with the creation and maintenance of Geodatabases. •     Digitize maps into Shapefiles. •     Creation, editing, and processing of Multi Spectral Index Raster files. •     Write Python scripts to automate the processing of large datasets. •     Create maps using cartographic principles to display research data.  GIS Skills ArcGIS (10.2) •    Arc Map, Arc Catalog, Spatial Analyst Basic Python Scripting Remote Sensing •    Usage of Multi Spectral Indices Excel •    Usage of formulas, creating CSV files

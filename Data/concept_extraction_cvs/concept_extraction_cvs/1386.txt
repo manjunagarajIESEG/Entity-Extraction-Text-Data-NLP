@@ -1,0 +1,3 @@
+Visiting Researcher / Collaborator 
+Stanford University
+Responsibilities Stanford Crowd Research Collective led by Michael Bernstein in Stanford CS  http://hci.stanford.edu/publications/2015/crowdresearch/daemo-uist.pdf  • Working to design the Next-Generation Crowd-sourcing Platform.  • Contributing to the Stanford Crowdsource Github repository. (https://github.com/crowdresearch/crowdsource-platform) • Focused on data analytics   Skills Used Python, Data Analytics, Machine Learning

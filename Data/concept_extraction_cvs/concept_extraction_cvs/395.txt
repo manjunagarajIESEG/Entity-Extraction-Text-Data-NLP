@@ -1,0 +1,3 @@
+GIS Technician
+Department of Defense contractors - Fort Collins, CO
+Working with Department of Defense contractors on a world map using ArcMap 10.2 and spatial analysis as well as image interpretation. Bachelors degree in Geography with an emphasis in GIS, imagery analysis experience of satellite images and creating accurate maps using these skills. Two years of Advanced GIS classes, creating atlases, using Excel in tandem with ArcMap, ESRI Spatial Analysis courses, advanced web mapping, experience with coding in python and setting up databases and layer files.

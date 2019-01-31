@@ -1,0 +1,3 @@
+Science Associate and Web Designer 
+Tech-X - Boulder, CO
+Responsibilities Science Associate and Web Designer             (07/15-Present)  Tech-X, Boulder, CO  Design Django websites for user access to weather Big Data for solar energy market.  Extensive python and jQuery programming for calculating solar parameters and graphical displays through client-server website.   Accomplishments Created a django website to let users enter location and dates for accessing solar parameters  through Big Data centers.   Skills Used Python, django, math and science subject expert

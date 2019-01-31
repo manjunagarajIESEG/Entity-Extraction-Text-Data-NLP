@@ -1,0 +1,3 @@
+Professional Trainee at Advance Computing team
+TOTAL E&P USA - Houston, TX
+TOTAL Advance Computing Team is dedicated to develop HPC code for Oil & Gas industry, with different hardware architectures and parallelization paradigms. Through my professional trainee I developed a HPC code to simulate wave propagation. The simulation was parallelized and benchmarked with MPI and OpenMP, using CPU, GPU and mix CPU/GPU hardware architectures. The full development process included:   - Prototype the code with Python.   - Develop unitary test environment.   - Source code tracking with git.   - Document with markdown.   - Deploy with Bamboo(Altassian).  Reference: Henri Calandra - henri.calandra@total.com

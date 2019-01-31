@@ -1,0 +1,3 @@
+Founding Engineer
+xiQuant Inc - Fremont, CA
+Responsibilities Working for a pre-funded start-up as founding engineer building their cloud platform for analyzing fundamental and technical indicators and building backtesting and portfolio simulation platform.  Environment: Python stack(pyalgo, NumPy, pandas, SciPy, matplotlib), Django, AngularJS, Javascript, High Charts, Redis (No SQL data store), & Postgres, Heroku (CLOUD PLATFORM), Consumed 3rd party REST API and Explored AWS platform & Apache-SPARK

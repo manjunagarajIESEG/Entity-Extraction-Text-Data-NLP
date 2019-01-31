@@ -1,0 +1,3 @@
+Investment Strategies Intern
+Russell Investments
+Developed an automated data handling and modeling platform to manage Multi asset database, build macro-economic models and quantitative trading strategies. It allowed users to have a streamlined process from efficient data management to model building and forecast generation. Wrote trading strategies in python and R using contrarian indicators & transforming them into informative signals capturing market sentiment for FX and Equity calls. Worked with Senior Equity and Currency strategists to backtest models for incorporating combinations of Momentum and other Fundamental as well as Technical signals to score countries in a cycle, value and a sentiment framework.

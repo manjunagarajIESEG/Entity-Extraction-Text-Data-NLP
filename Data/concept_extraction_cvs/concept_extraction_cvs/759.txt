@@ -1,0 +1,3 @@
+Quantitative Research Analyst
+US Securities and Exchange Commission - New York, NY
+Responsibilities I lead content development for NEAT, the SEC's quantitative analytics platform and I assist in bringing quantitative methodologies to bear in SEC examinations.  Skills Used C/C++, Python, algorithms, quantitative analysis, JavaScript, q, kdb+, react

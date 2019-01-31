@@ -1,0 +1,3 @@
+Research Assistant, Graduate School of Education
+Stanford University
+• Created python classes to extract information from JSON files • Programmed codes with softwares such as PyCharm and IDLE

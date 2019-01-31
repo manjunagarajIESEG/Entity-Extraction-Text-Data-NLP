@@ -1,0 +1,3 @@
+Consulting Backend Python Engineer
+Beyond (bynd.com) - San Francisco, CA
+As a member of the backend development team, collaborate with front-end developers, designers, and other backend developers to build Django and AngularJS applications for multiple clients.  • Develop REST APIs using the Django REST Framework • Design and build CMS interfaces • Translate requirements and business logic into Python code  Project: Google Train Up (https://trainup.withgoogle.com/)  Skills Used: Python, Django, South, Django REST Framework, MySQL, Google App Engine, Git

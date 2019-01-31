@@ -1,0 +1,3 @@
+Software developer
+Dazysoft Ltd, http://dazysoft.com - Дубна
+During my work in company I started to develop mobile applications department (hybrid apps on Ionic/AngularJS).   Responsibilities: Develop and maintain issue tracking software Develop frontend and backend parts of hybrid mobile applications Customer helpdesk  Skills Used Python, MySQL, Javascript/AngularJS/Ionic, PHP, Apache Cordova

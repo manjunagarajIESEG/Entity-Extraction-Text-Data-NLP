@@ -1,0 +1,3 @@
+Trainee Intern
+Qualität Systems - Pune, Maharashtra
+* Researched PIC, ARM and AVR ISA, Memory Architecture and SPI communication protocol * Designed, simulated and implemented Web Based Monitoring and Control Devices using Static IP Address * Devised, tested and debugged circuits for digital lock with RFID. TECHNICAL SKILLS Programming languages: C, C++, Python, Visual Basic, VHDL, Verilog, Assembly level language (x86), MATLAB Tools: Cadence, Open CV, Eclipse, Diptrace, HSPICE/SPICE, Virtuoso, Proteus ISIS, Multisim, Simulink, Eldo Simulator, Questasim, Precision, Keil uvision, WinAVR, MPLab, Arduino, Xilinx ISE, ModelSim, Altera Operating Systems: Linux Ubuntu and Redhat, UNIX, MAC and Windows

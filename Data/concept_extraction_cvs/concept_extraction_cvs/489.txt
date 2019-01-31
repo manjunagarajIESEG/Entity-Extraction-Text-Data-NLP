@@ -1,0 +1,3 @@
+Tola Intern
+Mercy Corps - Portland, OR
+Responsibilities Containerize and automate Python based apps using Docker over CentOS. Investigate and research hosting services and plans based on cost of a static hosting plan vs an elastic hosting plan.  Skills Used Docker, Virtualization, Linux, Django.

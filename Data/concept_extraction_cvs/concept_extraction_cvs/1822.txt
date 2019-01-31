@@ -1,0 +1,3 @@
+Data Scientist Intern
+Alibaba Group - Hangzhou, China
+Responsibilities Large scale customer credit analysis based on statistical machine learning Mined data based on the whole Alibaba customer trade history Enhanced the accuracy, efficiency and maintainability of credit rating model Manipulated R and Python skills with practice in industry  Skills Used R, Python

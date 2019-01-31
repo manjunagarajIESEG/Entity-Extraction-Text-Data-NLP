@@ -1,0 +1,3 @@
+Instructor and Designer
+Build It - Redding, CA
+Created curriculum to teach Arduino, circuitry, and 3D modeling concepts to 24 children, ages 8 to 13 • Created laser maze using Arduinos and a Python score recording GUI • Utilized JavaScript to design modular 3D printed fixtures

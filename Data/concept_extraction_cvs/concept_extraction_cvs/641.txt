@@ -1,0 +1,3 @@
+Backend Developer
+Medios e Ideas
+Architecture, implementation and testing of PHP apps. Write code, with care to make clean, readable, scalable and maintainable. Use Facebook and Google+ APIs. Maintenance of other web applications, with another frameworks. Propose new features in development. Safe code and available for future developers in Bitbucket and Github accounts. Techologies: PHP (Laravel, Zend, Codeigniter), Javascript (Jquery, Ajax, Coffescript), LAMP, HTML5 (Jade, HAML), Linux (CentOS, Ubuntu), Mac OS.

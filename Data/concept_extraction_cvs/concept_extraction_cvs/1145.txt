@@ -1,0 +1,3 @@
+Consultant
+Velexi Corporation
+• Utilizing data modeling and clustering techniques to match consumers with service providers. • Developing python software to parse data sources and analyzing data in conjunction with scikit-learn.

@@ -1,0 +1,3 @@
+Stage en laboratoire de recherche
+LATTICE (Laboratoire de recherche en Traitement Automatique des Langues) - Montrouge (92)
+Responsabilités Thème : Reconnaissance automatique des mentions référentielles dans du texte brut français - Implémentation des méthodes d’apprentissage automatique supervisé CRF et SVM - Manipulation de corpus textuel (Java, Python)  Réalisations J'ai accompli une tâche dans le sujet le plus globale qui est : la résolution des mentions référentielles  Compétences J'ai découvert le domaine de traitement automatique des langues et la recherche en informatique en générale, j'ai également travaillé pour la première fois avec le langage Python pour manipuler un corpus textuel

@@ -1,0 +1,3 @@
+Research Associate
+MesoWest - Salt Lake City, UT
+Responsibilities Answer emails from data users, write algorithms for quality control of meteorological data and metadata, update company website to reflect new features of API download system, assist in teaching for ATMOS 5020 during Fall 2015.  Skills Used Computer programming (IDL, R, Fortran, Matlab, Python), statistics, mathematics, microsoft office

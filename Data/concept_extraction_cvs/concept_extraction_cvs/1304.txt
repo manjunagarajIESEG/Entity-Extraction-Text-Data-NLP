@@ -1,0 +1,3 @@
+Software Engineer
+ANGEL TECHNOLOGY AUTO SERVICES (Startup) - Foster City, CA
+Responsible for designing web apps such as buy, sell, order, shopping cart for the e-commerce website using Django and Bootstrap web framework. Integrated backend code written in Python with frontend code written in Javascript, HTML and CSS. Configured the server through SSH to be able to execute Django framework and deploy code to the server with Cyberduck. Mentored members of the team about Django framework and the use of third party apps like crispy form and registration redux.

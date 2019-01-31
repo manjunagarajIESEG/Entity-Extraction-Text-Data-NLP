@@ -1,0 +1,3 @@
+Mechanical Engineering Intern
+Jet Propulsion Laboratory, NASA - Pasadena, CA
+• Designed structural mounting hardware to house sensors, stereo cameras, computing platforms on micro air vehicles • Tested mounting components by running vibration analysis • Produced the hardware by rapid prototyping  • Tested stabilization of Vicon camera systems by using MatLab and Python

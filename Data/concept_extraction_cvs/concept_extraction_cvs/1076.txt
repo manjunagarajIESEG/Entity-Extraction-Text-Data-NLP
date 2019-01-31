@@ -1,0 +1,3 @@
+python developer
+staffing at google - Mountain View, CA
+Responsibilities application development.  python, django, google app engine, mysql, html/css/javascript,   Skills Used json, apis, cloud services

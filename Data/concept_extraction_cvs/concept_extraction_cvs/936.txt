@@ -1,0 +1,3 @@
+Java Developer
+RJ Lee Group - Pittsburgh, PA
+• Design the mockup of configuration page. • Programmed the configuration tool which can transfer the content in excel to xml files automatically. • Using Hyperic SIGAR and JODConverter to convert the odt documents into pdf through OpenOffice.

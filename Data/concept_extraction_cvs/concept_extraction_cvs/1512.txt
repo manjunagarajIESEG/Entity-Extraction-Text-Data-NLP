@@ -1,0 +1,3 @@
+Senior QA Engineer
+AccessData Corporation - Lindon, UT
+Contractor with Robert Half Technology) - Updated the ResOne 5.5-5.7 security software through regression testing. - Refreshed with Python in setting up automated scripts for ResOne. - Worked with Microsoft Visual Studio Team Foundation 2013 in logging in ResOne bugs. - Worked with TestLink in marking test cases. - Did daily SCRUM meetings in keeping track of software updates and to-do items with the team. - Took initiative to understand Cerberus scoring, which is a threat score of files, detected on agents through our site server software. - Recognized by manager, Jana Frary, as a hard-working, self-initiative, and dedicated worker.

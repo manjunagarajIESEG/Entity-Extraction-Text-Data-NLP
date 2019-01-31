@@ -1,0 +1,3 @@
+Volunteer Research Assistant
+Institute of Insight, Georgia State University
+- Dec 2016 • Working an a model that predict outages of electricity using GIS, and implemeting outage management techniques • Developing a search engine in Python, using  vector modelling technique.                             Sept 2015-Nov 2015

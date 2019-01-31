@@ -1,0 +1,3 @@
+Python Volunteer
+Department of Molecular Biology , USC - Los Angeles, CA
+Responsibilities Wrote scripts for the analysis of polynucleotide sequences of HIV patients' DNA for the project to find the patients who will have highest impact of HIV vaccine.  Accomplishments Successful in isolating gag pol and vif sequences from time based data and aligning it.   Skills Used Python Bio python Muscle

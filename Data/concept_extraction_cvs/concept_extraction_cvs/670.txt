@@ -1,0 +1,3 @@
+Business Analyst/Project Manager
+BELVEDERE TRADING - Chicago, IL
+Chicago, IL Proprietary trading firm that specializes in equity index and commodity derivatives Business Analyst/Project Manager • Managed teams of software engineers, linux admins, and quantitative • Led agile software projects from idea generation to product delivery • Collaborated directly with traders and software developers to innovate and improve proprietary software • Coordinated the automation of daily software deployments and configurations for our proprietary software • Automated interaction between Gerrit, Redmine and Jenkins to streamline the development process • Developed a python script that emails daily profit and loss to the executive leaders of the firm

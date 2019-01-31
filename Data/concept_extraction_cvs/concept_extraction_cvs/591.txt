@@ -1,0 +1,3 @@
+Machine Learning Intern
+M.I.N.D. Lab, Syracuse University Newhouse School
+The M.I.N.D. Lab conducts multiple experiments related on brain data. ● Wrote Python code that takes raw data and output processed data file that is ready for machine learning, which could be used for multiple experiment data. ● Reviewed raw data, and indicate errors that will affect machine leaning result. ● Conducted machine learning using data mining program, Orange, and outputted accuracy results for multiple learning algorithms. ● Collaborated with a group of students from Hamilton College to automate the machine learning process. ● Lead a team of interns who were new to machine learning, and guide them on principles of machine learning.

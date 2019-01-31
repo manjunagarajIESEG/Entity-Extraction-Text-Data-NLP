@@ -1,0 +1,3 @@
+Software Engineer at Context Relevant
+Band of America Merrill Lynch
+Relevant I am currently employed as a software engineer for Context Relevant, a big data startup that has raised $42 million from Formation 8, Goldman Sachs, Band of America Merrill Lynch, New York Life, and Bloomberg Beta.  • Programmed machine learning algorithm to detect credit card compromises for a major American bank and its validation in Python.

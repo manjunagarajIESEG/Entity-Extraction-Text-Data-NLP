@@ -1,0 +1,3 @@
+Business Analyst Intern
+Wavetronix - Provo, UT
+• Used classification analysis and historical sales data, helped the company to better understand the process of customer acquisition and development. • Identified 9 key new potentially successful markets in which the company can focus marketing and sales efforts. • Utilized internal travel and expenditure data to assign "grades" to employees for using the company's money responsibly. • Analyzed historical shipment data to the United Kingdom and, in order to better understand the true costs of shipping, calculated the hidden fees that each shipping vendor charged. • Wrote a "shipping calculator" in Python that can calculate the true cost of a shipment based on current exchange rates.

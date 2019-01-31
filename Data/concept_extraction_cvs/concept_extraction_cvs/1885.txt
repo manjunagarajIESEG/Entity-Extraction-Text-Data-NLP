@@ -1,0 +1,3 @@
+Solutions Architect/Developer
+Mutatis IT – NimbusPC - Miami, FL
+Responsibilities Defining, designing and developing software solutions.  Skills Used C#, Windows Forms, LINQ, ADO.net, MSSQL, SQLite, Python.

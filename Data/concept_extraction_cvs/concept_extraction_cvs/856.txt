@@ -1,0 +1,3 @@
+Intern
+TID - Pasadena, CA
+* Use Python scripting language as well as VBA to help the Radiation Effects Group schedule tests as well as analyze test data more easily and efficiently * Engineer and build tests/test fixtures for the Radiation Effects Group * Solder test fixtures

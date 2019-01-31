@@ -1,0 +1,3 @@
+Senior Java/J2EE Developer
+Wells Fargo, CA
+Responsibilities: • Working on business, and persistence tier using Core Java (Multithreading, Collections, exceptions etc.), Spring and JUnit frameworks. • Involved in development and testing phases of project. • Involved in design, analysis and architectural meetings. Created Architecture Diagrams, and Flow Charts using Microsoft Visio. • Extensively used Pentaho ETL tool along with SQL & PL/SQL • Using STS Integrated Development Environment (IDE) in entire project development.  Environment: Java 1.7, STS, Spring, Log4j 1.4, Pentaho ETL Tool, SQL, PL/SQL

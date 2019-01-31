@@ -1,0 +1,3 @@
+Graduate Research Assistant
+Prairie View A&M University - Prairie View, TX
+•    Applied systems approach to drug therapeutics and disease modeling and to evaluate interactions between the genes and proteins of gene regulatory network. •    Analyzed higher order nonlinear and hybrid PK/PD models and  implemented approximating methods to study their interaction, and occurrence and stability of limit cycles. •    Developed input/output models using autoregressive (ARX) structures and least squares based identification methods   Skills Used Mathematical Modeling, Nonlinear Systems Analysis, Python and MATLAB

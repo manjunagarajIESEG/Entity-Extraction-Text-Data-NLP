@@ -1,0 +1,3 @@
+Software Engineer Intern
+Cisco Systems
+As part of the technical marketing group for Nexus 3k and 9k ACI switches, develop open source software in Python and PHP. Currently testing and documenting use of automation tools Puppet & Chef with NX-OS.

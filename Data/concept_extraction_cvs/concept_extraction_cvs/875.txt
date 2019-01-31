@@ -1,0 +1,3 @@
+Materials Analyst
+Pinnacle Group
+Contractor for Oncor Electric Delivery, Dallas TX • Write queries to gather data from Maximo tables for analysis • Analyze and make projections to optimize inventory levels • Monitor the state of and identify problems with inventory and assets; examine data for solutions and create detailed reports • Write python or VBA scripts for efficiently munging data

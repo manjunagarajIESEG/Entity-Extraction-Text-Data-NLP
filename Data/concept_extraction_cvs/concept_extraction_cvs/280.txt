@@ -1,0 +1,3 @@
+Trustwave Spiderlabs - Security Researcher
+Trustwave Holdings, Inc
+Responsibilities •    Researched email security threats, created blog posts for public and industry awareness.  •    Coded Python scripts for tools to support security research.  •    Continued improving the mailMAX spam filter. •    Continued writing daily rules to update the spam content filter.

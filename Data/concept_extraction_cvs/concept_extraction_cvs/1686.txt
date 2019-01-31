@@ -1,0 +1,3 @@
+Software Engineering Student
+CODING DOJO - Burbank, CA
+Full Stack Knowledge • Python/Django Stack   • MEAN Stack • Ruby/Rails Stack      • LAMP Stack  Front End Knowledge • HTML5        • jQuery/UI   • Bootstrap   • CoffeeScript • CSS3         • AJAX        • LESS        • HAML • JavaScript   • APIs        • SASS        • MVC • MYSQL        • SQLite      • MongoDB     • PostgreSQL • NodeJS       • AngularJS   • ExpressJS   • Socket.io • OOP          • TDD  Deployed Projects • Python/Django Mini Facebook: http://theoanderson33.pythonanywhere.com • Ruby/Rails Events Application: http://traevents.herokuapp.com • MEAN Stack Mini Store: http://traministore.herokuapp.com/ • Personal Portfolio Site: http://traportfolio.herokuapp.com/  Certifications and Training

@@ -1,0 +1,3 @@
+Research Assistant, under Professor Jelena Vuckovic
+Stanford University - Stanford, CA
+• Developed new techniques for quantum information processing and non-classical light generation by coupling quantum dots to photonic crystal cavities. • Designed and simulated nanophotonic devices with a variety of tools, including MATLAB, COMSOL Multiphysics, finite-difference time-domain modeling, and QuTiP (Quantum Toolbox in Python) • Fabricated structures in silicon and GaAs using e-beam lithography and reactive ion etching. • Gained extensive optics lab experience, with both free-space and fiber-coupled configurations. • Published 15 articles in peer-reviewed journals. • Presented talks at five scientific conferences, in both the United States and Germany.

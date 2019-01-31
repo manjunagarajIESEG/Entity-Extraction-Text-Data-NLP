@@ -1,0 +1,3 @@
+Student Researcher
+Price Lab, Brigham Young University - Provo, UT
+Worked as part of a team to develop new methods to measure protein turnover rates and understand the effects of diet and caloric intake on overall wellbeing ● Developed new algorithms and tested software written in Python to extract isotopic envelopes from mass spectrometry data ● Prepared protein samples for mass spectrometric analysis ● Presented research at university and national conferences and prepared a manuscript for publication

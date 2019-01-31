@@ -1,0 +1,3 @@
+Java Web Developer
+Acenonyx - New Jersey
+Responsibilities Depth1 Enterprise Risk Management, June – August 2015 •    Enterprise Risk Management is to provide a better way to provide governance, manage risks, and compliance that is data driven by supporting the Three Lines of Defense (3LoD) model to risk management by default. •    Developed UML diagrams in genmymodel website. •    Working on the Risk Register module in the Operation Risk Management Department. In the front-end we used Play Framework for java, scala and for the back-end we used the Cassandra Database. •    Importing and extracting files from Github.   Skills Used Cassandra, Github, Scala, Java, HTML, Bootstrap, JavaScript,JSON, AngularJS.

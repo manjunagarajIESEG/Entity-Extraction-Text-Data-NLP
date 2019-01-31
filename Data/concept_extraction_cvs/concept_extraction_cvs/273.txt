@@ -1,0 +1,3 @@
+Systems Engineering Intern
+iRobot - Bedford, MA
+• Perform various tasks as a Systems Engineering Intern including executing test procedures, compiling and presenting data, and designing and building test fixtures • Work on projects covering different engineering disciplines such as developing an Arduino component to count battery disconnections and writing Python scripts to interface between LabVIEW and four motor fixtures. • Analyze data utilizing Excel: creating charts, pivot tables, and using VBA to write custom functions and subroutines.

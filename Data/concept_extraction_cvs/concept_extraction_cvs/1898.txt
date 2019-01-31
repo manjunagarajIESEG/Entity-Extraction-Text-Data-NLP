@@ -1,0 +1,3 @@
+engineer intern
+Electrical Test
+•              Run functional test of Volt-VAR Control products •               Execute Python test scripts to collect data

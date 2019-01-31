@@ -1,0 +1,3 @@
+Tools developer
+Brocade Communications - San Jose, CA
+Developed XML to C/C++ compilers and UMLbased graphical modelers for network management development.  Skills used:  C++ with Xerces xml parser,  Python with xml.etree parser, Eclipse Modeling Framework and Sirius Modeling tool development system.

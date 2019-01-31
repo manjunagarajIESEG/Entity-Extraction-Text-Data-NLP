@@ -1,0 +1,3 @@
+Junior Python Developer
+VTG Software - Yerevan
+Gathered business requirements and translated them into functional and technical specifications. ➢ Used Python 3.0 for generating IP access frequency lists in different data logs. ➢ Wrote Python scripts to read from Excel files and generate XML configuration files. ➢ Worked under the agile methodology in a sprint of 2 weeks and monthly releases. ➢ Used Django 1.5 as the web application framework to maintain the customer facing website. ➢ Implemented the data model using MySQL as the relational database system. ➢ Primarily worked on Linux (Ubuntu) based systems.

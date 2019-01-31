@@ -1,0 +1,3 @@
+Projects
+UC Berkeley
+• Designed various machine learning algorithms including decision tree, random forests, linear SVM and Neural Network • Built prototypes classifiers by using python • Evaluated performances of different classifiers on MNIST Digit Recognition and improved the algorithms, the highest accuracy is 96% by using neural network  R Packages for Adaptive Rejection Sampling, UC Berkeley        Fall 2015 • Built functions for Gibbs Sampling by using adaptive rejection sampling algorithms • Evaluated and tested package for stability • Wrapped functions and documents as R package TECHNICAL & OTHER SKILLS

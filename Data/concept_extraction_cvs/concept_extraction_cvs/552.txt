@@ -1,0 +1,3 @@
+Software engineer
+OAT Checkpoint Systems, Inc - Waltham, MA
+●  Designs and executes functional tests with documentation for AutoUpdate, Printing, Tracking, Task Management etc. ●   Assists on data migration for customer with pre-uploading and monitoring, etc. ●   Develops some tools to get data from client with perl and python.  Related technology: Java, C#, Python, Perl,  Oracle, SQL Server, Xml, SoapUI

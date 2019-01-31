@@ -1,0 +1,3 @@
+Software Engineer
+Waston Innovations at IBM Watson
+Create automated unit tests, integration tests, and build verification tests ● Architect content ingestion pipelines (i.e. transform unstructured data, understand, store) ● Design and develop large scale distributed content ingestion process ● Create/modify build process to produce ingestion specific builds ● Design and develop Unstructured Information Management Architecture (UIMA) analysis engines and tests ● Design and develop python framework to manage UIMA pipeline execution ● Analyze source documents and ingested data ● Create DevOps tooling primarily in python ● Convert Policy Advisor primary ingestion persistence to EclipseLink JPA

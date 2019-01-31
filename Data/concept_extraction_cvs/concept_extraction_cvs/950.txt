@@ -1,0 +1,3 @@
+Software Developer
+AgiVox Inc
+* Hands-free internet utilizing speech recognition, speech synthesis, machine learning * Python, Web2py, Google App Engine

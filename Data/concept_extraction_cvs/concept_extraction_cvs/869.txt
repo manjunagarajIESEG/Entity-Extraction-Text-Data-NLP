@@ -1,0 +1,3 @@
+VP Product and Chief Architect
+zCrowd, Inc
+As VP Product: "What should we build next?  How much of it should we build?" Identified 3, 6, and 12 month product roadmap, metrics, and milestones. Updated 3, 6, and 12 month roadmap after changes from clients, team, and funding. Created product content video, blog entries, and in-person presentations. As Architect: "How do we make this prototype production-ready?" Led the creation of automated unit and integration tests for team of 5 developers. Led conversion of hand-rolled servers to Ansible-managed Amazon EC2 instances. Implemented features in Java, Javascript, and Python.

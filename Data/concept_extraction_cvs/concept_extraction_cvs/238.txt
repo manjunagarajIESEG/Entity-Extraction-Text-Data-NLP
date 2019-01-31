@@ -1,0 +1,3 @@
+Systems and Cloud Engineer, Python Developer
+PostgreSQL - Atlanta, GA
+Python, Django, PostgreSQL, Amazon EC2/RDS/S3/IAM/CloudFront (AWS)  grocerylist.johnhazelwood.org [production, Twitter auth] Grocery list application.  pyventory.johnhazelwood.org [beta with demo] An inventory and ticketing system. Write and deploy Python code to Amazon's Elastic Beanstalk service. Managing EC2 instances including load balancers, SSL certs, security groups and auto­scaling groups. Using CloudFront+S3 for static file (css/js/img) storage. Code bases managed via git; most code is currently available on GitHub.

@@ -1,0 +1,3 @@
+Software Developer
+Freelance - San Jose, CA
+• Developed an Audio Plugin in C++ that allows users to create their own MIDI FX plugins by writing JavaScript code.  Used Juce, C++ and JavaScript. • Developed an audio fingerprinting platform in Python designed to bring radio metrics to professional musicians.  Used Google App Engine, MySQL and Flask.

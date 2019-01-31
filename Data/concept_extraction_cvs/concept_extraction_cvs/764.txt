@@ -1,0 +1,3 @@
+Java / Salesforce Developer / Consultant
+Societe Generale Equipment Finance - Jersey City, NJ
+• Gathered business needs in order to develop and maintain applications and reports • Coordinated the maintenance of SGEF websites • Developed and maintained old and new interfaces between the different internal and external systems on SalesForce using Eclipse and the Developer Console. • Developed and maintained up to date planning and documentation on SalesForce projects. • Assisted with IT Support tickets • Worked on various integration projects on Salesforce using Apex Classes, Apex Triggers, Visualforce, HTML5, JavaScript, JQuery and others.

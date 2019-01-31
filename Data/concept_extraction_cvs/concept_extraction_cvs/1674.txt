@@ -1,0 +1,3 @@
+Data Analyst Intern
+Edward Real Estate Service
+o    Collected the real estate raw big data using MLS(Multiple Listing Service) program and data munging/wrangling with Python(data cleaning with script) and Excel( pivot table, Vlookup, index match, countif, macro, various complex IF statements, etc)  o    Analyzed real estates trend in LA K-Town and provided statistical graphs to marketing team for making better strategic marketing decision  o    Visualized the data sets using R and Excel pivot chart for intuitive understanding of the data  o    Conducted quantitative and qualitative analysis of real estate trend for customers based on expected budget; purpose of purchasing properties; financial circumstance

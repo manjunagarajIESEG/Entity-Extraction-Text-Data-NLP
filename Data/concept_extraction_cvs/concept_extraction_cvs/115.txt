@@ -1,0 +1,3 @@
+Python Development Internship
+NUANCE COMMUNICATIONS, Inc
+Project: Analyzed map data using Python and related algorithms, established a unified massive navigation address DB • Participated in European map data project held by Nuance and Fiat. Be responsible for processing map data and extracting POI through Python, complete developing document, analyze and build navigation database • Participated in project held by Nuance and Delphi. Be responsible for processing map data provided by NavInfo using Python, ana1yzing big city navigation addresses in China according to word segmentation

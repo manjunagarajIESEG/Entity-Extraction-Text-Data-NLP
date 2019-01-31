@@ -1,0 +1,3 @@
+Java Developer
+Forté Group - Chicago, IL
+Internal project: Time tracking system  * Implemented Java and J2EE Design patterns like Business Delegate and Data Transfer Object (DTO), Data Access Object and Service Locator * Involved in documentation, review, analysis and fixed post production issues * Maintained the Production and the Test systems * Worked on bug fixing and enhancements on change requests  Environment: Java EE, REST Web Services, Apache Tomcat, Spring MVC, Hibernate, MySQL, JSF, jQuery, Maven

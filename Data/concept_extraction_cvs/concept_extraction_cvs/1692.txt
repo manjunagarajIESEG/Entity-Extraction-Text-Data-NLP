@@ -1,0 +1,3 @@
+Consultant Informatique Conception et Développement Python 
+INTEL - Toulouse (31)
+Responsabilités Développer et maintenir des séquences de tests s'appuyant sur le framework PyUnit écrit en Python.  Compétences Gestion de configuration Connaissance en du langage Python

@@ -1,0 +1,3 @@
+Research Assistant Programmer under Prof. Jana Diesner
+Graduate School of Library and Information Science
+University of Illinois Research Assistant Programmer under Prof. Jana Diesner                                May 2015 - current Skills employed: Python •        Working on developing classification tool for medical entities. •        Working on improvising stemming algorithm and enhancing features of ConText (Text-mining) tool.

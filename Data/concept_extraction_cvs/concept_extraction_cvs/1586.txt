@@ -1,0 +1,3 @@
+Python Developer
+Zaran Tech
+system to handle all the activities performed in the company to administer the employees. Environment: - Agile, SDLC, UML, Sql server,Python 2.7, Pyramid and SQLAlchemy.  Duties & Responsibilities: -requirement gathering and analysis -coding and testing -implementing activities notification system with mail notification, -implementing rights restriction system -Usage a variety of Python web frameworks: Flask, aiorest, Django-REST-Framework.

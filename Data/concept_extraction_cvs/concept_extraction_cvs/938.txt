@@ -1,0 +1,3 @@
+CAD/CAE System Engineer
+American Axel Manufacturing, Inc
+Handle Windows and Linux licensing servers • Setup web interface for users to submit jobs to High Performance Cluster using python cgi, html, javascript and css. • Programming in Python to create Comet Modules. • Help users with any system problems concerning CAD/CAE software. • Create documentation and collect log files to create reports. • Using c programming language to create reports. • Configuring and installing software for VDI through VMware.

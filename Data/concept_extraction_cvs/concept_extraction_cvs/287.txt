@@ -1,0 +1,3 @@
+Python Developer
+US Army Corps
+• Developed script in Python for 3D mapping using raspberry pi and quad-copter • Developed system for processing data in parallel with data collection • Redesigned tracking systems to work with tabular data • Developed tools in Python for vehicle tracking and post-data-collection processing o Used to track military vehicles and model human-driven mobility o Data parsing, statistical analysis

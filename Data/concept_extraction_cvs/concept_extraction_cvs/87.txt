@@ -1,0 +1,3 @@
+Volunteer Research Assistant - Robotics Lab
+San Diego State University - San Diego, CA
+•   Developing C++/Python codes for controlling NAO humanoid robot. •   Performing troubleshooting, maintenance and repair of robots.

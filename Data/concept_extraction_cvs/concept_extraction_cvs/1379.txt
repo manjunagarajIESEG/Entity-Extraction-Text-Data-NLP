@@ -1,0 +1,3 @@
+Software Engineering Intern
+Vaultive - New York, NY
+- Developed a web user interface that conducts survey for customer information (Python, Django, HTML) - Design and built a database to be connected to the web interface (Python, Django)

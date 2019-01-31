@@ -1,0 +1,3 @@
+Full Stack Developer, Co-Founder
+BachinIt - Remote
+Collaborative bachelor and bachelorette party planning platform • Responsible for platform architecture, implementation, and deployment • Python and Django backend including database and RESTful API design • Intuitive and responsive front end design and user interface using AngularJS • Managed part-time, remote web development team

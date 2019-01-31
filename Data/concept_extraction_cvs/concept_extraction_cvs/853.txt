@@ -1,0 +1,3 @@
+Research Assistant for Prof. Antonio Bento
+Cornell University - Ithaca, NY
+• Collected and cleaned large dataset of highway traffic • Built a GIS traffic flow model with Python and ArcGIS to predict highway traffic under different policy shock • Created a model with diff-in-diff Regression-Discontinuity hybrid approach that examine actual traffic change after LA expo line opens • Built a general equilibrium welfare model using Stata (Mata) that calculated the welfare change of LA Expo line • Participated in environmental economics workshop and collaborated with classmates from own and other departments

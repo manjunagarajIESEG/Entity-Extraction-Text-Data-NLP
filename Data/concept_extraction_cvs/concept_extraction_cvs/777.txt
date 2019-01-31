@@ -1,0 +1,3 @@
+Digital Inventory Manager
+CybrTrayd - East Brunswick, NJ
+Create​ and upload spreadsheets and other data collections to list thousands of items simultaneously on multiple online retailers. ●    Write Python scripts to meet a variety of needs, including but not limited to manipulating spreadsheets, analyzing and processing data, and using assorted data structures to solve problems in the most efficient way possible. ●    Created an Excel spreadsheet with formulas that read data from a central source and instantly modify said data to comply with the batch uploading requirements of five major online retailers.

@@ -1,0 +1,3 @@
+Project Support / Linux Specialist
+Two Point Conversion - Chicago, IL
+Contracted for temporary employment as a Project Support Specialist for large seasonal data migration/archiving processes. ● Utilizing specific Linux interfaces across multiple servers and IP addresses to oversee and correct any malfunctions within the conversion process while implementing conversion scripts written in the programming language Perl. ● Created Virtual Machines as interfaces for client's archived data to be accessible for both client and technician. ● Scripted shell scripts alongside Perl and Python executables.

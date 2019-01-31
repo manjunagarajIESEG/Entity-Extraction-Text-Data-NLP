@@ -1,0 +1,3 @@
+Database/Data Management
+Procter & Gamble - Cincinnati, OH
+Responsibilities Preparing product research data for client statisticians  Worked with the programmers of the questionnaires to limit rework done. Clean the data, formatting it as requested, and providing the easiest method for the statisticians to review their data. Involving multiple data merges and formatting  Skills Used Python, HTML, JavaScript, SPSS, Confirmit, EyeQuestion, Market Tools, Desktop Reporter, Consumer Opinions Pro, Survey Reporter, JMP, Leadership, Time Management

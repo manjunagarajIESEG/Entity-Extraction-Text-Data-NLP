@@ -1,0 +1,3 @@
+Java/Web Developer Intern
+Savannah River Nuclear Solutions - Jackson, SC
+•   Program using HTML, CSS, JavaScript, jQuery, Angular.js, Bootstrap, •   Set up a development environment using Spring Boot, Apache, Maven, Mercurial •   Requirement elicitation for the development of a website •   Configure server-side google-mini application for indexing of webpages •   Manipulate Ajax calls to populate data objects and create forms

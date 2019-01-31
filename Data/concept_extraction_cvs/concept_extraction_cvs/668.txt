@@ -1,0 +1,3 @@
+Assistant Researcher
+Temple University
+Department of Geography and Urban Studies Advisor: Dr. Kevin Henry • Performed textual cleaning and analysis on over 60,000 tweets using AWK, python, and R • Developed a web crawler in python to follow the link(s) posted in each tweet and store information about the site linked

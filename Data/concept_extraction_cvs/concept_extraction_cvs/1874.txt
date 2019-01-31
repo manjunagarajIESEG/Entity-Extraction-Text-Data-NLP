@@ -1,0 +1,3 @@
+Simulation Software Engineer
+Gulfstream Aerospace
+Performed software model design, code implementation, debug and investigation to serve the G500 aircraft systems  lab simulation; familiar with Java programming and python scripting. • Analyzed the time performance of stand-alone Simulink models for aircraft subsystems running on various real-timeembedded systems; raised the time specifications of overall systems by 5%.  • Actively worked on model-based software verification and validation by writing test cases/procedures, and created automated test tools; verified C/C++ software code designed for simulation system.

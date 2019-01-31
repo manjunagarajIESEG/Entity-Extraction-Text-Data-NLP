@@ -1,0 +1,3 @@
+Researcher
+ASU/UCLA BIOMECHATRONICS LAB - Tempe, AZ
+Tempe, AZ • Mar. 2012 - Nov. 2015 Robotics Lab at ASU/UCLA run by Dr. Veronica J. Santos; Focused on robotic hands and tactile sensing.  FURI (Fulton Undergraduate Research Initiative) Grant Recipient & Barrett Honors Thesis • Contributed to design of tendon-driven robotic hand with multi-modal tactile sensors. • Developed an object and hand gesture visual recognition system using the Microsoft Kinect, Linux, C++, Python, and ROS (Robotic Operating System).

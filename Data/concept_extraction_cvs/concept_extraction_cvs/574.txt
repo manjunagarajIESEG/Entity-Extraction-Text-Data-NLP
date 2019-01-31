@@ -1,0 +1,3 @@
+Software Engineer
+Tata Consultancy Services - Charlotte, NC
+Major Responsibility: Design, develop, document & test software in agile development Major Project: - ETL online workflow verification system (ASP.Net, HTML, Javascript) - Data visualization for project resource management (HTML, D3.JS, Javascript) - Data modeling for defaulted loan management (Oracle Data Modeler, Oracle SQL) Other Project: - Data pattern visualization POC project (Java) - RSA Archer application development

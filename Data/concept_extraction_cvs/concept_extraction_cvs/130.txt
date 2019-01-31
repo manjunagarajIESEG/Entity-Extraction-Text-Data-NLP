@@ -1,0 +1,3 @@
+Information Technologies Manager
+Hill Tire Company
+Daily Responsibilities: • Oversee technical projects in alignment with organizational goals and working closely with management, external vendors, and advisors. • Data analysis of tire production and daily goals. • Administrator for IBM AS/400 system (point of sale, inventory, and accounting). • Maintain computer workgroup, network, server, and company phones. Achievements: • Created an advanced Excel workbook to calculate plant productivity and determine if and where production is not up to par. • Used Python and Excel to calculate sales tax codes and percentages for every city in the United States. • Created product number and accounting cross reference tables for company acquisition.

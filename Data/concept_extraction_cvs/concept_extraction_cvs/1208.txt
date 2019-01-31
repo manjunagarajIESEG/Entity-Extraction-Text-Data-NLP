@@ -1,0 +1,3 @@
+Software Engineer
+Cognitive Medical Systems
+Technologies/Standards used: HL7v2, FHIR, HAPI, Mirth, Java, Spring, Hibernate, Tomcat, MySQL, JSON, XML, MongoDB, JavaScript, AngularJS, Maven, Git, Jira, Jenkins  ● Developing Decision Support Systems to assist clinicians. ● Participating in R&D projects to develop applications for VA Healthcare Systems. ● Using Secure RESTful/SOAP APIs to communicate with external system. M ● Working closely with content providers such as  otive Medical Intelligence     to dynamically generate smartforms and transforming them to LEGOs and FHIR bundles.

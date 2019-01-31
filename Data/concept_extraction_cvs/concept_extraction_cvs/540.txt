@@ -1,0 +1,3 @@
+SLO, CA, Co­founder, Hardware Engineer
+Upward Automation
+Upward makes home automation simple, useful, and affordable. We received grant and office space as part of the CIE's Hothouse Accelerator program, and are now in their Incubator program. Working as a team of 10 engineers and entrepreneurs. Gaining knowledge of various programming languages to create smart devices(C++, Python, Go) Selecting components, and designing & reflowing PCB's for several consumer electronics. Pushing limits of FDM 3D printing designing mating components and RTV silicone molds in Solidworks. Conducted and documented customer development interviews. Designed and built an interactive home set to demonstrate our system.

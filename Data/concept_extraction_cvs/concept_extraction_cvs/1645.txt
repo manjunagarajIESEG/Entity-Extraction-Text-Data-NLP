@@ -1,0 +1,3 @@
+Practicum Technical Lead
+UNC Health Care System - Chapel Hill, NC
+Responsibilities Currently using statistical methodology to leverage large volumes of hospital records and patient-reported free text response survey data in order to improve patient health, safety, and satisfaction outcomes via analytical models  Skills Used Python, SQL, SAS, Enterprise Miner, Big Data, Analytics

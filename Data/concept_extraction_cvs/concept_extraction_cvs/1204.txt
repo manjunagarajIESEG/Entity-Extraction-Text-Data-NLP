@@ -1,0 +1,3 @@
+Data entry and processing
+Thomas Computer Solutions
+Data analysis  Relevant Projects - ‌Event Planner (Python): An infrastructure for a calendar application that can store events and check if two events overlap - ‌Dictionaries, File I/O: Read and write files in CSV format (Python, Java and C) - Encrypting and decrypting files using srandom() (C) - Infinite Gomoku game using Arraylists and Linkedlists (Java) - Single-level floor plan simulation for evacuation (Java) - Encrypting and decrypting files (Java) - Packing shapes into fixed size containers, Gate Simulator (Java) - IPhone Application HotSpots in development backend (Ruby)

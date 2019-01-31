@@ -1,0 +1,3 @@
+Teaching Assistant (TA)
+Coding House - Fremont, CA
+Responsibilities I develop full stack applications as well as help new students understand basic and advanced aspects of full stack development.   Skills Used JavaScript, MEAN Stack, Unix, Git, Heroku

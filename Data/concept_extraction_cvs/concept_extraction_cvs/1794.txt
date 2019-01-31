@@ -1,0 +1,3 @@
+Acedemic Project
+South Dakota State University - Brookings, SD
+Project on Digit Dataset analysis from KAGGLE. ♦ Analyzed large scale datasets and made conclusions for datasets selection using principal component analysis. ♦ Extensively used R programming and various packages for classification in data modeling. ♦ Fitted a model with 97% accuracy using K-Nearest Neighbors classification method. ♦ Used Python  in analyzing the movie database of IMDB.com ♦ Worked effectively with the team members in eliminating null values from datasets. ♦ Used SAS programming and Linear programming in operations research area for decision theory and Transportation problems

@@ -1,0 +1,3 @@
+Python Developer
+UNIV. OF CALIFORNIA BERKELEY - Berkeley, CA
+Berkeley, California A world-leading public university renowned for research, distinction in students and faculty       August 2015 - Present Python Developer for Psychology Dept. • Main Project: Visual Noise in natural scene reveals human classification of images • Worked on the REVEAL algorithm (Representations Envisioned Via Evolutionary Algorithm) which generates visual noise generated from natural image statistics and categories • Developed a sampling algorithm interacting with participants and obtaining results of human image classifications

@@ -1,0 +1,3 @@
+Software Engineer
+CDI corporation - Orlando, FL
+-Developed tools for the Engineering of turbo generator using PySide, NumPy, matplotlib and Python. -Migrated Visual Basic application to JAVA improving portability across different operating systems. -Maintained Engineering legacy tools written in C and FORTRAN. -Worked as part of a distributed team in Charlotte, Orlando, and Germany. -Used CVS and GIT for source control.

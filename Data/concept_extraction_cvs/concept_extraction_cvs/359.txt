@@ -1,0 +1,3 @@
+Senior Software Development Engineer in Test
+Renovate America - Rancho Bernardo, CA
+Responsibilities • Develop scripts, tools, and frameworks for automated test execution using C#, SpecFlow, and Python.

@@ -1,0 +1,3 @@
+Software Engineer
+Grey Ocean Analytics - Bangalore, Karnataka
+• Developed modules of an Artificial Intelligence project for the financial sector using Neo4j, Python, SNS and SQS. • Led a team of five junior developers during the project ensuring high performance and completion before deadline. • Designed and deployed MongoDB and Neo4j databases on Amazon Web Services EC2. • Tested a product based on Drupal and guaranteed top user experience by finding and removing minor flaws.

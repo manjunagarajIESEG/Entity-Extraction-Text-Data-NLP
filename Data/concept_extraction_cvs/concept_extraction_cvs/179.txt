@@ -1,0 +1,3 @@
+Software developer & Networking Engineer Intern
+NASA
+• Wrote Perl/Python scripts using regex and Linux commands to send alerts to network in case of overloading and other network issues. • Wrote/maintained PHP, HTML, and JavaScript codes of network management's web application. • Wrote server scripts using Perl to work with IPv6 instead of IPv4. • Configured and troubleshoot Cisco routers and switches to work with new devices using BGP, EIGRP, and OSPF protocols.

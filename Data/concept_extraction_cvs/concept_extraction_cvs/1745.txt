@@ -1,0 +1,3 @@
+Systems Analyst
+Aon Hewitt - Bridgewater, NJ
+Responsibilities • Configured new setups for the Total Benefits Administration System to fix system defects or complete client requests and changes and ensured that the system performed accurately and reflected updates based on the requirement document. • Created and submitted SQL queries to identify and pull test subject from a client database. • Executed test plans and performed complex calculations to verify expected results. • Hosted ICAT meetings with client team to handoff the new updates and strategies at the end of each iteration.  Skills Used Language: Python, Java, HTML Software: MatLab, R, Word, Excel, PowerPoint, Adobe Photoshop, Flash, Database: Access, SQL, DB2

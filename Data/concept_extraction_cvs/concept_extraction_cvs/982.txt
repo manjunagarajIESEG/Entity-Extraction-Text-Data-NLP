@@ -1,0 +1,3 @@
+Data Science Teaching Assistant (TA)
+NYC Data Science Academy - New York, NY
+Responsibilities -    Provided teaching assistance for Data Science Bootcamp classes such as Data Analytics, Machine Learning and Big Data with Hadoop&Spark. -    Assisted students with methodologies and techniques in practical data science, including data scraping, data cleaning and machine learning, with tools in R and Python.

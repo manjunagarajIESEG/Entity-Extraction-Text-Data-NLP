@@ -1,0 +1,3 @@
+Software Engineer Intern
+Two Internships at Dycom Industries Inc
+o Worked with GIS group to create an automated process that creates dynamic legend for previously-created mapping software and Facilities Management System interface o Gained experience with FME (Feature Manipulation Engine), Python, Django, HTML5, CSS3, AngularJS, and Javascript for real world applications

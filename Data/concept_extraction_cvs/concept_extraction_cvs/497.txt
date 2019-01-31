@@ -1,0 +1,3 @@
+Team Member (Developer/ Tester)
+GoShare - San Diego, CA
+• Test Planning, Test Cases, Test Execution and Issue  Debugging • Android application testing using Robotium, in Eclipse IDE  and Espresso  in Android Studio. • Writing Python Script using oops concepts to test application REST APIs.

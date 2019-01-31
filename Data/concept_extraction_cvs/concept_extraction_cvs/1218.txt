@@ -1,0 +1,3 @@
+PYTHON DEVELOPER
+SEPTA BUS LOCATOR - Philadelphia, PA
+Built application interface and web scrapping scripts using OO designing, UML modeling and dynamic data structures • Implemented discretization and binning, data wrangling: cleaning, transforming, merging and reshaping data frames logic using Python 2.7 libraries like pandas, NumPy(ndarray), SciPy for data analysis • Determined optimal business logic implementations, applying best design patterns • Increased speed and memory efficiency by implementing code migration to convert python code to C/C++ using Cython

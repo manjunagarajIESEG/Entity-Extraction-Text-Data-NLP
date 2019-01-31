@@ -1,0 +1,3 @@
+Développeur Python
+Institut de recherche Xlim-Sic
+Suivi de visage dans une séquence vidéo en utilisant le Modèle Actif d'Apparence et des méthodes d'apprentissage automatique pour la détection d'émotion et l'animation d'avatar  - Création et développement d'une API Python pour le suivi de visage - Développement d'un modèle d'apprentissage automatique - Implémentation de OpenCV et Scikit (sklearn, skimage)

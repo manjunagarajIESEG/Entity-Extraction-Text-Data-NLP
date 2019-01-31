@@ -1,0 +1,3 @@
+Software Engineer (Contract)
+Self Employed - San Jose, CA
+Developed a cross-platform, browser based BitTorrent client capable of streaming incomplete torrents using Python, Flask, libtorrent-rasterbar, jQuery, HTML, CSS, Video.js

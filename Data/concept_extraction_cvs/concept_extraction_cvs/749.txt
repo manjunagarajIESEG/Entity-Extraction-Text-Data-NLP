@@ -1,0 +1,3 @@
+Data Scientist
+Happiest Minds Technologies Pvt. Ltd.
+Responsibilities Algorithm development, worked with data in Hadoop, wrote a collaborative filtering recommender system in Python and SciPy, wrote a matrix library for MapReduce on MongoDB, preparing to deploy on Spark.  Accomplishments devised an algorithm which increased conversion at a retail kiosk from <10% to 15%.  Skills Used Python, SciPy, statistical analysis, programming in Python

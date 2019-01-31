@@ -1,0 +1,3 @@
+Senior Software Developer
+Bloomerg LP - New York, NY
+• Support existing applications, design and develop new features in Bloomberg News Speed Desk and Lockups group. • Special attention is given to meet strict latency requirements, high reliability. C++, Python, AIX/SPARC/LINUX environments.

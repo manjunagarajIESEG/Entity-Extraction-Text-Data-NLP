@@ -1,0 +1,3 @@
+Research Assistant
+California Water Institute - Fresno, CA
+Currently working as a Research Assistant under Shawn Ashkan and contributing to the project for water resource management for CALIFORNIA IRRIGATION MANAGEMENT INFORMATION SYSTEM(CIMIS) ➢ Grabbing live data in a csv file format on a daily basis from CIMIS's FTP server using python script ➢ Worked with MySQL for insertion of the csv file into the database ➢ Automation for running the python script is achieved using Task Scheduler ➢ Remote access and certain privileges given to authentic users using SQL queries ➢ ODBC connection and Excel-MySQL connector used for loading data from MySQL into Excel  WORK EXPERIENCE

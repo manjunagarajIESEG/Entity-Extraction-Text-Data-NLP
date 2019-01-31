@@ -1,0 +1,3 @@
+Student
+Movie Trailer Website - Udacity
+l Designed a server-side code written in Python to store list of movies including imagery, URL

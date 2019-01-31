@@ -1,0 +1,3 @@
+Junior Software and QA Engineer
+Pakedge device & software - Huntington Beach, CA
+Responsibilities Testing routers, switches, and wireless access points. Programming scripts in Python to automate some of the tests. Building and configuring networks using high end devices.  Skills Used Python, Networking knowledge

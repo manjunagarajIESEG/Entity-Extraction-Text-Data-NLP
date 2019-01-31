@@ -1,0 +1,3 @@
+IT Manager
+LendingTree - Charlotte, NC
+Responsibilities • Managed a team of 7 supporting developers and 80 Member call center. • Implemented Automation using saltstack and other tools • Managed and maintained monitoring tools such as solarwinds, sum logic and Alerting tools. • Built managed and maintained AWS services for both production and staging worded with RDS,ELB,S3 and policy creation for over 200 AWS instances. • Developed scripts for the deployment of AWS and configuration management. • Created team workflow for the infux of requests from DEV team. • Managed a 24/7 Team that would monitor and manage site reliability for lendingtree.com  Skills Used AWS Python,Saltstack, Management, Windows

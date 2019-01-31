@@ -1,0 +1,3 @@
+Technical Operations Engineer
+8z Real Estate
+Developed/modified scripts written in Python, BASH, and Google Apps Script (JavaScript). Created automated reports using API queries. Configured Apache, MySQL, and Linux server settings. Analyzed log files and investigated bug reports. Setup virtual/dev machines using Vagrant. Replaced Squid proxy with Nginx. Used git in concert with BitBucket.

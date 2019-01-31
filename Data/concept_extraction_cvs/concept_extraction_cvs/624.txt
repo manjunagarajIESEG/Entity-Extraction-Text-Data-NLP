@@ -1,0 +1,3 @@
+serveur sur Raspberry (Python)
+Raspberry (Python) - Argenteuil (95)
+Projet informatique scolaire, Développement logicielle et embarqué Argenteuil Missions et tâches réalisées: • Développement d'une interface graphique (Qt, C++) • Développement d'un client/serveur sur Raspberry (Python) • Développement d'un site web en lien avec une base de donnée (HTML, PHP, SQL) • Développement d'un algorithme sur une arduino pour manipuler différents matérielles (robot, drône   )

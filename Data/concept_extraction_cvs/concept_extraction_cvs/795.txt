@@ -1,0 +1,3 @@
+Senior Software Design Project
+Oregon State University
+OSU) • Developing a primarily python-based web application for managing subversion repositories in a school-based setting

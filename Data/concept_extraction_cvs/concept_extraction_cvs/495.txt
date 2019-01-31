@@ -1,0 +1,3 @@
+Software Engineer III
+Global Analytics India Pvt. Ltd - Chennai, Tamil Nadu
+• Developed iOS Mobile Application for "Lending Stream" with Django/Python server as backend. • Integrated iOS App with Pixate FreeStyle for fetching and applying theme from server, Appsee Framework for recording the user activities. • Built DevOps tool for "LendingStream" web application using native Python libraries.

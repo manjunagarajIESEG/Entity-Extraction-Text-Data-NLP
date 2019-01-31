@@ -1,0 +1,3 @@
+Développeur Web 
+World like Home - Le Mans (72)
+Le Mans: Construction du site web: www.world-like-home.com, frontend, pages statiques et traductions --> Compétences acquises: Python, Flask, JinJa, HTML5

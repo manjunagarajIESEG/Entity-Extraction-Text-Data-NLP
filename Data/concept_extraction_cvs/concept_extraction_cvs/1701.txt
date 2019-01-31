@@ -1,0 +1,3 @@
+Research Assistant
+UNC Charlotte - Charlotte, NC
+Responsibilities Research project, seeking relations between activity levels and cardiovascular fitness level using Python.  Accomplishments Find relations between the two desired variable using different methods.  Skills Used Python, R, Statistical Modeling, Machine Learning, Data Extraction

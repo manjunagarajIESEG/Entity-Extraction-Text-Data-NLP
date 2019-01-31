@@ -1,0 +1,3 @@
+Vice President
+Bank of America
+* development of 2nd generation Quartz Core in-memory data table component (C++, Python, Linux & Windows) * developed real-time distributed monitoring systems for Hugs grid computing management system (Python, C++, AMPS, protobuf's) * contributed to design and development of Hugs load balancer, schedulers improvements, and compute node processing pools. (Python, C++, Linux & Windows)

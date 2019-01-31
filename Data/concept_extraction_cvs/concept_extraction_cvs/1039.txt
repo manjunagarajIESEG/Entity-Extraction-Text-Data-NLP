@@ -1,0 +1,3 @@
+FX Developer, AVP
+Bank of America - Chicago, IL
+Developer for FX Trading application. Project focus on decommissioning 3rd party legacy system to new in- house platform using python based platform, Quartz. Primary responsibilities include creation, maintenance and enhancement of code. Code includes services, reports, maintenance, migration and bug fixes. Primary team member for report creation (EOD, Recon, user requested trade report, etc). Work closely with BA's, QA team, Support and End Users. Create stored procedures, test environment troubleshooting and application/reporting issue investigations for legacy application. Handle weekly release work. 24/7 On-Call.

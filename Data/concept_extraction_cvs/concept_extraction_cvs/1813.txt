@@ -1,0 +1,3 @@
+Freelance
+Self Employed - New York, NY
+Responsibilities I am a software developer coding in Python, JavaScript and HTML. I am proficient at both front and back end development.  Accomplishments RYB STUDENT MANAGEMENT SOFTWARE * Designed and developed the RYB Student Management Software for RYB Art School. * Used to manage student and teacher database as well as timeclock and various statistical analysis to maximize revenue. * Programmed in Python and SQL with AES 128-bit encryption.  Skills Used Coding: JavaScript, Python, HTML/CSS

@@ -1,0 +1,3 @@
+Wireless Networking Intern
+Jasper Technologies Inc
+•   Worked on network infrastructure of IoT powered cars and devices •   Network Maintenance over Unix based servers •   Developed a Python script to automate the data processing mechanism for the network

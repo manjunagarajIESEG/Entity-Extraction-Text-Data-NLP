@@ -1,0 +1,3 @@
+LAMMPS, MD++, Python
+Research Assistantship, Stanford University
+Superviser: Pr Wei Cai. to now Study of fracture properties in conducting polymers through molecular dynamics for applications to stretchable electronic devices (financed by Samsung). (Molecular Dynamics, computation: LAMMPS, MD++, Python)

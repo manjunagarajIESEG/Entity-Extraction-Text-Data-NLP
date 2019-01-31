@@ -1,0 +1,3 @@
+System Engineering and Validation Intern
+Supercomputer Company - Austin, TX
+• Performed validation testing and debugging on motherboards, microprocessors, and on-board power systems • Developed a Python script to automate a weekly system update and power sequencing process for a tester • Diagnosed a power-up failure on a PCB using schematics, state machines, and reading memory mapped registers • Gained experience with logic analyzers, oscilloscopes, signal generators, power analyzers, and digital multimeters

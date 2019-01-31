@@ -1,0 +1,3 @@
+Research Assistant
+Oregon State University, Department of Mechanical Engineering - Corvallis, OR
+Worked as a Research Assistant in DARPA Robotics Challenge Team. ●    Research focuses on Grasp Quality Prediction using Machine Learning Algorithms ●    Used Robotiq hand and Takktile sensors in our project as a part of data collection ●    Working on different software's like ROS (Robotic Operating System), Python, MATLAB, SolidWorks  allanis@onid.oregonstate.edu Sai Krishna Allani

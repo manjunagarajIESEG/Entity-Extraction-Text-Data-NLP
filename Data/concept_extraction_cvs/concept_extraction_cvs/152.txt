@@ -1,0 +1,3 @@
+Intern Programmer, Bioinformatics Computational Core Lab (BCCL)
+Virginia Commonwealth University - Richmond, VA
+Responsibilities Generated a pipeline that employs the NCBI taxonomy to summarize and order an alignment result. The algorithm reads to taxa such that the taxonomical level of the assigned taxon reflects the level of conservation in a Sequence Alignment (sam) file. The pipeline incorporated scripts in python and Unix/Linux and assimilated SNAP-Aligner and BWA alignment tools.  Skills Used Python Unix/Linux

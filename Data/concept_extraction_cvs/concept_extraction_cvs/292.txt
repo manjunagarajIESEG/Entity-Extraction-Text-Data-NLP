@@ -1,0 +1,3 @@
+C++/Python/Software Developer
+Techmahindra Ltd - San Diego, CA
+CLIENT - CYMER • Programming in C++ and Python. • Developed Timing and Energy Control error logging mechanism. • Developed diagnostics tests for Energy Sensor interface connectivity. • Worked on issue where logic control device was stuck in INIT state after reboot. • Created System Impact Analysis and design documents for all task. • Created Test Plan Specification documents for Unit Testing of developed code. • Generated Test Analysis Report for all test cases on Test Bench. • Worked on end to end delivery of patch to integration team.

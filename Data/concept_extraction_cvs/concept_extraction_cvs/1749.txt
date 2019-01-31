@@ -1,0 +1,3 @@
+Python Developer
+WALT DISNEY WORLD - Orlando, FL
+Responsible for training ETL developers to utilize existing python framework Developed RESTful web-services, for upstream and downstream web-applications using Django restframe work. Developed Job dashboard monitor UI using Django/Flask. Developed Table Management System replacement, Dinetime written in Django Flask and deployed to production Supported Table Management System webapps written in Django/Flask. Involved in working with large teams to support existing ETL framework written in python.

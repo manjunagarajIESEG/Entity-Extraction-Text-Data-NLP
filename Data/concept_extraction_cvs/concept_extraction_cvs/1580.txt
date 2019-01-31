@@ -1,0 +1,3 @@
+Java Developer
+Dizer Corp - Painesville, OH
+•   Actively participated in requirements gathering, analysis and design and testing phases. •   Responsible for the designing, coding and development of applications in J2EE using Spring MVC Architecture. •   Developed/involved in creating web application using Enterprise JAVA technologies like Spring and Hibernate. •   Implemented AGILE methodology throughout the project development lifecycles. •   Developed a REST services using Spring Framework. •   Developed the Admin screens using JSP and JAVASCRIPT.  Environment: Core Java, J2EE, HTML, JSP, Spring, Hibernate, MVC, SOAP, Agile /Scrum Methodology, CSS, JAVASCRIPT, Struts, UI Framework, Maven, UML, Eclipse, Web Services, Apache, SQL, POJO, XML, Oracle, PL/SQL, Windows.

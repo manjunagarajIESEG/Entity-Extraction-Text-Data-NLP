@@ -1,0 +1,3 @@
+Software Tester
+Epic Games Inc. - Cary, NC
+Responsibilities Designing test cases based off developer story requirements. Setting up Test Cycles for new implementation, critical path, and regression testing. Writing Test Case Automation Scripts using SikuliX and Python Reporting bugs in JIRA Investigating bugs using delogs and tools such as Charles Debugging Proxy

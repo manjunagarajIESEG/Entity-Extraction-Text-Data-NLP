@@ -1,0 +1,3 @@
+Software Consultant
+Quixey - Mountain View, CA
+Project: Collect API(REST) -  Exploited and implemented load-testing, unit testing of bulk entries sending to Kafka -  Performance tuning Collect API Python code -  Skills used: Python 2.7, Scala 2.11, Java 1.8, Gatling, Kafka -  Environment: Mac and Linux (Ubuntu)

@@ -1,0 +1,3 @@
+Application Developer
+Demere.co - College Park, MD
+•   Developed and trained Python pickle files for distinguishing between clothing categories •   Scraped clothing sites with scrapy spiders and wrote scripts for downloading and resizing images •   Maintained data with team members via Amazon S3 and code via GitHub and Bitbucket

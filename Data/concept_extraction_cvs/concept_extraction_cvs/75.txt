@@ -1,0 +1,3 @@
+Python Developer (Contract)
+Air Force Defense Cyber Crime Center (Allstaff) - Timonium, MD
+Acted as SME for PKI digital signature Python integration into a RESTFUL web services platform. Created application features involving STIX and TAXII. Wrote unit and functional tests for new and existing Python and PostgreSQL code. Developed and applied testing metrics to troubleshoot performance bottlenecks. Resolved Python code bugs. Made and modified PHP and jQuery code to add features. Patched insecure code according to Fortify findings. Developed secure Oracle PL/SQL Queries for page interactions. Created pages with multiple layers of asynchronous interactions. Documented bugs.

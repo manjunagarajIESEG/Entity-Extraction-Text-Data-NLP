@@ -1,0 +1,3 @@
+Python Developer
+Outbox Technology
+Develop software solution to replace current existing event building and ticket selling system on Excel sheet • Determines operational feasibility by evaluating analysis, requirements, and proposed solutions • Maintain and improve transactional API's using SQLAlchemy and MySQL in SQL Server 2005

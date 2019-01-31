@@ -1,0 +1,3 @@
+Co-founder
+Michelangelo Robotics
+Responsibilities • Developing a 6mm path-following robotic endoscope •Experience in rapid prototyping through 3D printing and mechanical design •Experience in various programming languages and middleware toolkits such as MATLAB, Python and Robot Operating System (ROS), Arduino.  Accomplishments Winner of Summer Founder Program  Skills Used Matlab, Simulink, Solidworks, Arduino

@@ -1,0 +1,3 @@
+Software Engineer
+Applied Optimization - Dayton, OH
+Design, implement, and maintain software tools used for space object characterization. Develop Electro-Optical Data Conversion software to standardize different data formats for Space Situational Awareness community. Integrate specialized software tools to the automated observation data analysis environments with different use cases.

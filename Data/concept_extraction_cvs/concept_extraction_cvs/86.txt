@@ -1,0 +1,3 @@
+Head of Fraud Prevention
+Algorithms, Statistical Inference and Modeling - San Francisco, CA
+Artificial Intelligence, Computational Theory, • Established new fraud prevention department, developed low-latency        Principles of Data Science, Discrete Math, predictive learning service and dashboards which saved $1M in 2015          Numerical Optimization, Parallel Computing • Managed product deliverables, budgeting, hiring, mentoring, and performance reviews for 4 software engineers and 2 data analysts • Implemented low-latency search, feed, and tagging across 9 countries • Profiled core APIs with low-level instrumentation and rewrote critical sections, resulting in a 600% optimization to mean route performance Programming Python, R, C++, C, MATLAB, Excel/VBA,

@@ -1,0 +1,3 @@
+Python Client -server File Transfer
+San Jose State University
+Implemented Python based Client-Server communication for transfer of files among our websites. •   Developed on Yahoo Web Hosting and Yahoo PhP Server, PhPMyAdmin and MySQL Database. •   Developed Clients: Python Client. Additional Clients: Java Swings Client, and Android client. •   Programming Language Used: Python, Java, Java Swings, HTML, PhP, cURL.

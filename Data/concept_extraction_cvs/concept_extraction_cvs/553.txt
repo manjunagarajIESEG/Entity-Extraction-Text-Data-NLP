@@ -1,0 +1,3 @@
+Freelance Software Developer
+Evan Siroky
+Responsibilities I do contract work focusing in full-stack web development of transportation technologies.  I'm a full-stack developer with experience in all levels. On the client side, I'm most familiar with jQuery and ExtJS. On the server side, I'm a big fan of Node.js, although I'll also use python and Java when they make sense. I'm proficient with SQL databases including the use of PostGIS.  Accomplishments Developed Transit App OnTransit that won "Popular Choice Award" at the Hack My Ride 2.0 Hackathon.

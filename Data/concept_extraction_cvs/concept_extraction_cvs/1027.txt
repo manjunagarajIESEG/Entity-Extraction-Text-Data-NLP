@@ -1,0 +1,3 @@
+Systems Engineer
+Amazon - Seattle, WA
+Drove department-wide software migrations and peak preparedness events.  Designed, implemented, and documented tools and libraries in Ruby to provide department-wide Operational Excellence metrics.  Developed WebUI integration tests for a critical web application using Java and a UI test framework based on Selenium.  Took ownership of a legacy web application written in Python + Flask + EmberJS to manage team efforts. Developed unit and integration test batteries for the legacy code using Nose.  Designed and implemented various CLI tools (in Perl, Python, and Ruby) for an offshore support team.

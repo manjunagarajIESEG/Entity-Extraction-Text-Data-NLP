@@ -1,0 +1,3 @@
+Reliability, Asset, and Planning Engineer
+Pacific Gas & Electric Company - Sacramento, CA
+•Working in Electric Distribution Automation on the Fault Location, Isolation & Service Restoration (FLISR) Project to improve electric distribution reliability •Using CYME (Cooper Power Systems) software to model load flow and protective device settings •Troubleshooting, optimizing, and implementing automation schemes across the PG&E service area •Created the Distribution Automation database •Developed VBA & Python scripts to accelerate turnaround and automate tasks

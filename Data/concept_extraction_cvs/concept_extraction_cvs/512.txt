@@ -1,0 +1,3 @@
+Ecommerce Fulfillment Manager
+Bike Shop Hub - Tucson, AZ
+• Managed all shipping and receiving for over 4,000 product lines for Bike Shop Hub - An Ecommerce Bicycle Warehouse • Wrote a Python script and created .exe file that indexed and merged multiple input csv data files - Creating an output inventory manager dataset, which enabled our staff to query products by brand, item, price, quantity, location, etc • Assisting in ongoing frontend web-development for a website redesign

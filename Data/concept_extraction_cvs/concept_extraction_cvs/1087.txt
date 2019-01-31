@@ -1,0 +1,3 @@
+Lead Python Developer
+DinnerWire, Inc
+50000+ lines of Python, SQLAlchemy, PostgreSQL, TAL Page Templates, JavaScript, using Git Version Control. Startup of size 9, dinnerwire.com, developing social network for foodies and restaurants. Projects include 80% of Python backend for current website, 50% of Python backend for previous website, 20% of Python backend for mobile app server, 5% of JavaScript for current website, UnitTesting, website messaging functionality, etc.

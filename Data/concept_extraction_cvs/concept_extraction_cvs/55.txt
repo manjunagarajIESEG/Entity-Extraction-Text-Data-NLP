@@ -1,0 +1,3 @@
+Django Developer Intern at TreatSpace
+Python
+Developing and working on production code for a HealthCare startup. I am responsible for the Django backend and its optimization. Working on google cloud storage and 3rd party api.

@@ -1,0 +1,3 @@
+Engineer
+WorldQuant, LLC. - Austin, TX
+•    Implement novel data warehousing technologies and strategies using both MySQL and Vertica platforms •    Write scripts in Python, Perl, and Bash to automate reporting and recurring operational tasks •    Conduct analytics and optimization studies on real-time and historical trade data with R & Python •    Develop more accurate and decipherable reporting tools using Tableau & Datawatch

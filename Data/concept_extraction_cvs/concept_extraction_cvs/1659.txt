@@ -1,0 +1,3 @@
+Director, Business Intelligence
+Prosper Marketplace - San Francisco, CA
+Responsibilities Hired to build the analytics function for the Business Intelligence team at Prosper. Worked with various business functions (Marketing, Finance, Product, IT, Engineering, Risk, Operations) to collect requirements and implement solutions for data, reporting, and analytics. Created standardized dashboards with SQL, Tableau, Python and R to inform and drive optimization and strategy.  Recruited and coached analysts.

@@ -1,0 +1,3 @@
+GIS Analyst
+The State of South Carolina Department of Health and Environmental Control - Columbia, SC
+• Create, maintain, and analyze large spatial databases (millions of records) • Produce high quality cartographic materials using Adobe Creative Suite to refine ArcGIS exports  • Update and maintain metadata according to federal standards • Automate GIS update, analysis, and documentation workflows with Python programming language • Describe public health/ environmental data with spatial statistics and geovisualization

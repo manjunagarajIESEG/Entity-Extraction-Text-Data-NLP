@@ -1,0 +1,3 @@
+Big Data Management & Analysis (Hadoop, Spark, Java, Scala, Pig, Hive)
+University of Texas at Dallas - Richardson, TX
+• Setup Hadoop clusters and developed a MapReduce program in java to obtain top n average rating movies from IMDB movie datasets;                            • Used Hive/Pig Latin scripts and wrote UDFs for Pig/Hive to covert the genres of movie to a specified format by using UDFs;                                   • Used Apache Mahout and Spark to provide movie recommendation based on users’ ratings; • Applied K-means clustering (based on TF-IDF weighting functions) and naïve-bayes algorithm on the labeled Cornell movie reviews (4GB), used cross-validation to compare the precision. The program is written in Scala and run in Spark.

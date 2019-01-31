@@ -1,0 +1,3 @@
+Software Engineer
+ADOBE SYSTEMS
+Responsibilities using Java, Sikuli and Python. Tool executes daily checks of all critical functionalities of the product using test cases from an input matrix and publishes results that include success percentage, execution time, CPU usage parameters etc. • Developed modules in JavaScript that test the exposed APIs with various XML inputs and checks the validity of the response messages returned by the Prelude's core engine • Coded testing tool that created data structures and objects that can be inserted into the execution queue of Prelude's core engine and verify result with expected behavior of the application • Experienced in spinning up, optimizing, automating and managing virtual machines in AWS

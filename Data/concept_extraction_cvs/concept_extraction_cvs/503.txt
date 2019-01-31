@@ -1,0 +1,3 @@
+IT Architect
+IBM - Armonk, NY
+Responsibilities * Designed and developed the proof of concept for the internal software asset management system  * Played a key role in coding the global production software asset system  * Serve as a Senior Inventor with the responsibility of mentoring new inventors * Serve on both the Integrated Supply Chain Invention Development Team and the ISC Business Method Invention Development Team as an invention reviewer for potential patents  * Instrumental in documenting the global asset management tools for maintenance coding by teams in Brno CZ and China  Accomplishments Awards: three BRAVO awards and second Invention Plateau   Skills Used Java, hibernate, tomcat, DB2, R, Python, Django, and perl

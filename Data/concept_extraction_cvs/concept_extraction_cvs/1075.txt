@@ -1,0 +1,3 @@
+Senior Deployment Specialist
+SITA - Atlanta, GA
+Responsibilities Designed and developed software and scripts for the cleaning and migration of complex customer data in the airline industry.   Accomplishments Designed a suitable relational database model in PostgreSQL to enhance the efficiency of data migration between provider systems.  Skills Used Python, Perl, Javascript programming, SQL and PostgreSQL expertise

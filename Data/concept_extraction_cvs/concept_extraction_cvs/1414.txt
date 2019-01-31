@@ -1,0 +1,3 @@
+Test Development Engineer I, Contract
+SanDisk (West Valley Engineering) - Milpitas, CA
+Responsibilities Reliability engineering on 15nm 128G NAND qualification (JEDEC Program/Erase cycling, Data Retention Read Disturb, Program Disturb, etc.).  This involved test development in Python & C coding, parametric analysis and  data extraction to generate final graphs/reports.    Accomplishments * Completed qualification of 15nm 128G 18MB/s NAND devices allowing release to Market. * Led team to complete projects to resolve issues with factory-programmed values in NAND array * Elected Employee of the Quarter, Q1, 2015.  Skills Used Python/C support

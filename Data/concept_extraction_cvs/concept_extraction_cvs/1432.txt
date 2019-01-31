@@ -1,0 +1,3 @@
+DEVELOPER
+NWA MEDIA
+Maintain systems in Python and Django to interface with the Newspaper's online CMS, written in Python and Django, and wrote some new applications in Python using Django and Flask. Got development team using GitHub, and Travis CI.

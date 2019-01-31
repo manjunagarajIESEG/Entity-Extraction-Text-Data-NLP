@@ -1,0 +1,3 @@
+Python Tester
+KeyIngredient - Austin, TX
+Responsibilities Created functional tests using Python and Selenium  Accomplishments Identified bugs and worked with development team to fix before site deployment  Skills Used Python, Selenium, Git, Agile/Scrum

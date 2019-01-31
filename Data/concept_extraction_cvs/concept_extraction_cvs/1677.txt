@@ -1,0 +1,3 @@
+IC Design Intern
+Broadcom Corporation - Irvine, CA
+Held project level responsibilities such as running verification test and debugging regression failures for SOC(System On Chip) in C • Worked with designers to do additional tasks such as power measurement and writing test scripts in TCL and Python

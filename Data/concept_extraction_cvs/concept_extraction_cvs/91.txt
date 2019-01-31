@@ -1,0 +1,3 @@
+Senior Mission Systems Engineer
+SSL - Palo Alto, CA
+Responsible for satellite on-orbit operations.  Provide solutions to circumvent problems experienced by exiting fleet of SSL built satellites.  Perform technical analysis to provide rationale to Customer’s observation.  Devise, develop, and implement automated protocols using Python to provide an autonomous recovery from a fault event.  Command and control of satellite during launch to ensure proper guidance to its final orbiting slot.  Supervise on-orbit performance test to ensure all contractual performances are met.

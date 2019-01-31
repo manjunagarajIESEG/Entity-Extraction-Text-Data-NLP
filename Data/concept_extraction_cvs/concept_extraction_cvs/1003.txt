@@ -1,0 +1,3 @@
+Computer Lab Assistant
+Ensuring the smooth functioning of the Lab Computers
+Setting up/Troubleshooting Lab Computers/Network connection. • Overseeing installation of new hardware and software on the Lab platforms. TECHNICAL KNOWLEDGE Programming Languages   Java, C, C++, Python(2.7) Scripting languages     JavaScript, SQL, XML APIs                    J2EE, JSP, Servlets, Struts2 MVC, MySQL, Apache Tomcat, JDBC, TOAD API, Blender Python API

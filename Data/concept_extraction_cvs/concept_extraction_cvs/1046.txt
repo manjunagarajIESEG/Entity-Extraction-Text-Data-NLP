@@ -1,0 +1,3 @@
+Systems Engineer II
+Raytheon Missile Systems - Tucson, AZ
+•   Developing simulations for modeling weapon system performance in C++ •   Scripting of simulation runs and post-run analysis using Python, Perl, and Matlab •   Analysis and presentation of results for system performance assessment •   Awards: Team Achievement Award, July 2013

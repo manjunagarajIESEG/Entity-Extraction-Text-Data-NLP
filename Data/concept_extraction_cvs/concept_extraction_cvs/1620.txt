@@ -1,0 +1,3 @@
+Student
+Data Specializations
+Johns Hopkins, Data Science Specialization: Completed--9 courses + a natural language processing capstone project. R-based data cleaning, exploration, inference, regression, machine learning, and data products.  University of Michigan, Python Specialization: Enrolled--4 courses + capstone project. Data structures, web data, and databases using Python.  UC, San Diego, Big Data Specialization: Enrolled--5 courses + capstone project. Python- based, Hadoop HDFS, MapReduce, Sqoop, HiveQL, Impala, Pig Latin, Spark, and HBase.  University of Washington, Machine Learning Specialization: Enrolled--5 courses + capstone project. Python-based regression, classification, clustering, and recommender systems.

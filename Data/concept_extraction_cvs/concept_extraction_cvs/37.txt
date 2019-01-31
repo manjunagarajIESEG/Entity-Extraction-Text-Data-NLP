@@ -1,0 +1,3 @@
+Internship
+"SyncPy" project, Institute of Smart Systems and Robotics - Paris (75)
+Paris - (3 months) France). Software engineering - Programming modules for the "SyncPy" framework in Python. This framework is developed to help study interactional synchrony.

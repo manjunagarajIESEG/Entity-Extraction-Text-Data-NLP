@@ -1,0 +1,3 @@
+Stem Cell Researcher
+University of Cambridge, UK
+Autumn 2014 - Autumn 2015 University of Cambridge, Department of Genetics, UK • Research-centered master's degree student in the Alfonso Martinez Arias Lab • Lab work included mouse embryonic stem cell tissue culture, passaging, plating cells for embryoid body formation, confocal and widefield microscopy, immunostaining, and image and data processing using Micromanager, ImageJ, and basic Python script. • Thesis Project: using a novel embryonic stem cell model to explore axis formation and germ layer specification in early mammalian development.

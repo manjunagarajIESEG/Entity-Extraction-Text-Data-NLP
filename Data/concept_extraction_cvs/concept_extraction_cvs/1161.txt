@@ -1,0 +1,3 @@
+Python Web Project
+Personal Blog (https://nealwang.herokuapp.com/)
+Responsibilities •    Developed light-weight personal blog by Python bottle web framework and Python markdown implementation. •    Customized and tested on different devices to achieve responsive, maintained by Git, deployed on Heroku PaaS, •    Skill Sets: Python, Bottle framework, Markdown2, Git, Heroku.

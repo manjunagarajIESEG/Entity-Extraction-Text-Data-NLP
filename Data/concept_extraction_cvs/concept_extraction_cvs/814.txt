@@ -1,0 +1,3 @@
+DevOps Engineer QA Lead
+Sharp Electronics Corporation - Portland, OR
+Responsibilities •    Worked for Sharp Labs of America to set up build, tests, and QA environments. •    Project C/C++, CMake, C#, OpenCV based to accomplish visual analytics in Ubuntu and Windows 10 environments.   •    Docker, Jenkins, Github, Jira, BitBucket, Vsphere, and Python was used for DevOps.

@@ -1,0 +1,3 @@
+Software Engineer Intern
+Welch Allyn
+•  Wrote a Linux device driver for testing interrupt latency on GPIO pins. •  Designed and implemented a lightweight automated test framework in Python. Menus, tests to run, parameters, and scenarios were defined using XML. •  Wrote the test plan, test protocols, and integration tests for testing Welch Allyn's IPC framework. •  Wrote an XML-driven console program in Python for doing debugging and diagnostics on their embedded Linux system. •  Wrote an HTTP server and byte stream deserializer in Python for facilitating testing Ethernet over USB between Welch Allyn's custom embedded Linux system and a Windows 7 PC.

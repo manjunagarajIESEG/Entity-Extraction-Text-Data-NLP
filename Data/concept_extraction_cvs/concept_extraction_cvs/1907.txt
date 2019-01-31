@@ -1,0 +1,3 @@
+Quantitative Analyst
+LMG Capital LLC - New York, NY
+Designed and implemented trading strategies using various triggers and signals and created procedures in MySQL and Python, and updated information in summary sheets • Optimized portfolio construction and trading strategies based on backtesting in Python and extracted the best trading parameters based on each combination of those parameters • Improved the asset selection and portfolio performance by conducting statistical analysis and machine learning methods

@@ -1,0 +1,3 @@
+Python/Selenium Automation Framework Developer
+Exablox - Sunnyvale, CA
+Developing Python/Selenium automation script for exablox's private cloud application. • Attend daily standup with cloud development team. • Logging bugs that found from automation test in redmine and test bug fix. • Interacting with develop team and product manager team during daily work. • Setting up test environment to execute automation script. • Performing functional feature testing on Linux system.

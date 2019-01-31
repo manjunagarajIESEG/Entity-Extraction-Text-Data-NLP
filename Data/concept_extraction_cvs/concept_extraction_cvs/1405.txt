@@ -1,0 +1,3 @@
+Seismic Hazard Modeller
+Global Earthquake Model (GEM) Foundation - Pavia, Lombardia
+Probabilistic seismic hazard assessment of Mt Etna volcanic region and implementation into OpenQuake software (GEM Foundation's open-source software for seismic hazard and risk assessment, see http://www.globalquakemodel.org/); modification of software in Python to suit the needs to the project (e.g. adding new GMPEs and functionality to include topography in calculation)

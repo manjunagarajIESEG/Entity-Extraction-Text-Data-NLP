@@ -1,0 +1,3 @@
+Data Scientist 
+Agero, Inc. - Medford, MA
+Responsibilities Worked on various data science projects.  Accomplishments Developed regression models using neural networks and ensemble methods (SVM, gradient boosting, random  forests) for dispatches forecast. Designed a smart phone based platform to monitor dangerous driver behavior.  Implemented data fusion from smart phone sensors (accelerometers, gyroscope and GPS) and developed a robust  and reliable algorithm (in MATLAB and Python) to detect rash driving patterns. Developed trip recognition algorithm  using GPS data and Open Street Map.   Skills Used Python, Matlab, Image processing, Machine learning, Statistics.

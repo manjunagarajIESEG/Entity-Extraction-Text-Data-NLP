@@ -1,0 +1,3 @@
+Data Analysis Consultant
+Megaputer Intelligence Inc - Bloomington, MN
+Responsibilities •Addressing analytical business challenges, creating custom solutions using NLP and Predictive Modeling with the help of PolyAnalyst™ •Creating easy-to-use custom solutions and communicating project result to customers •Deploying, and maintaining the developed solution and serving as a bridge between customers and engineering team.  •Building, testing and maintaining Hadoop working environment with PolyAnalyst™  Skills Used PolyAnalyst, Perl, LinguaMark, R, Hadoop, SQL,Python

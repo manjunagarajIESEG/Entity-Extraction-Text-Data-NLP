@@ -1,0 +1,3 @@
+Virtual Reality Developer
+AppliedVR - Century City, CA
+Responsibilities Developed and modified virtual reality experiences. Developed a data collection back end to help visualize data. Maintained the VR lab and equipment.  Accomplishments I came into a start up with many problems when doing demos and no products of its own. One by one the problems were solved and some content was developed.  Skills Used Python, C#, JavaScript, Coldfusion, AJAX, HTML, CSS

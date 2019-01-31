@@ -1,0 +1,3 @@
+Database/Program Support Specialist 
+State Corporation Commission - Richmond, VA
+Responsibilities Create and design user-friendly and interactive web-applications for the public and businesses by using CSS, HTML, InDesign, and JavaScript  ▪ Design, develop, and test a SQL database that will be auto-populated with data that is gathered from a Python script  ▪ Perform statistical analysis relative to the Division’s pipeline safety, rail safety, and damage prevention programs  ▪ Maintain and administer the Division’s information   Accomplishments Created the Commission's first web-app, while winning a prestigious award.  Skills Used HTML, CSS, JavaScript, SQL, Python, attention to detail, customer service, prioritizing

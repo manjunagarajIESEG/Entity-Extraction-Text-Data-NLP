@@ -1,0 +1,3 @@
+Contract Sr. Hardware Engineer
+Microsoft - Console Development
+• SoC Validation/Debugging. Post Silicon debug. • Test Methodologies for High Speed Serial Links. Debug NAND Flash, SPI, USB, I2C, Camera • Engineering Embedded Systems. HDMI 2.0, UVHD. Power Integrity. Python, Lua, Visual Basic, C++/C

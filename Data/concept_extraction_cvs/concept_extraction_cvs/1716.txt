@@ -1,0 +1,3 @@
+Java Web Developer
+Wells Fargo - Sioux Falls, SD
+Responsibilities - Work in an agile team environment developing and supporting Java based web and mobile web application. - Provide guidance and mentorship to new hires and College Web Developer interns  Skills Used Java, J2EE, JavaScript, JQuery, JUnit, JSTL, JSP, SVN, XML, (X)HTML(5), Websphere, RAD

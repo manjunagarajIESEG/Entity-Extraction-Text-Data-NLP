@@ -1,0 +1,3 @@
+Associate Software Engineer
+Riot Games - Los Angeles, CA
+• Rearchitected in-house build verification test system (BVS) for League of Legends, working with one additional developer, in Python. • Supported offsite vendors writing feature automation, implementing remote access functionality for the BVS with a team of two interns, and providing support coding/infrastructure in the game engine and tooling, in Python and C++. • Implemented test cases, infrastructure, and contributed to system design while working with a client security team, in Python and C++. • Served as technical lead for a team of three developers and one UX engineer working on an in-house test case management system using JavaScript, Backbone, Marionette, and SQL.

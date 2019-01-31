@@ -1,0 +1,3 @@
+Quality Assurance Engineer
+Daegis Inc - Gupta Technologies, LLC - Roseville, CA
+• Integrated automating process by Python and batch scripting. • Automated thousands of manual test cases in TD products by Python and Sikuli: - Team Developer – a rapid application development August 2013 - present  - Team Developer Mobile - a rapid application development for mobile devices • Found and reported the software’s bugs and defects. • Completed 8 projects on-time and under budget on 7 computers with 3 different operating systems. • Worked with SQL database, and JIRA

@@ -1,0 +1,3 @@
+Research Intern
+SRI International - Princeton, NJ
+Responsibilities Using computer vision and machine learning methods detect vehicles and monitoring driving conditions.  Accomplishments Have deeper understanding how machine learning help improve human action in realtime use.  Skills Used C++. Python. Computer Vision. Machine learning

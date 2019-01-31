@@ -1,0 +1,3 @@
+Consultant
+Luzene - New York, NY
+Skills Used iOS, Swift, Backbone.js, Scala, Python

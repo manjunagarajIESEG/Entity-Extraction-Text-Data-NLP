@@ -1,0 +1,3 @@
+Web Developer/Programmer at Kno.e.sis Center
+Wright State University
+Designed and Developed a integrated library for Knoesis center using PHP, JSON, HTML, JavaScript. ◦ Designed and developed user friendly website for Prof.Dr.Grandhi(Mechanical Department) at Wright State University using Drupal. ◦ Developed personal websites for Knoesis researchers using PHP, JavaScript, JQuery, HTML ◦ And Maintaining the complete Knoesis site and ijswis.org which was developed in Drupal, and updat- ing periodically as advised by Dr.Sheth.

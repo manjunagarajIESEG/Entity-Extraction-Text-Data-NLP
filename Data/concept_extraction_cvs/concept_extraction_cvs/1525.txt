@@ -1,0 +1,3 @@
+Project Manager
+Otak, inc - Redmond, WA
+Responsibilities • Managing hydraulic and hydrologic modeling studies in Northeast Redevelopment Area (NERA) Master Drainage Plan for the City of Burien, Washington.  • Leading the stormwater modeling studies using the EPA HSPF model for hydrologic analysis for the City of Redmond, Washington. The project presents conceptual design plans and implementations of strategic regional stormwater treatment for the regional stormwater facilities.  • Leading the design team to present alternatives for stormwater drainage and restoration of a partially breached estuarine island in Snohomish County, Washington.   Skills Used R, Python, Octave, MATLAB

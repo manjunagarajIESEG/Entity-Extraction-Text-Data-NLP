@@ -1,0 +1,3 @@
+Stock Analyst Intern
+China Merchants Securities - 北京市
+Responsibilities ·    Discussed with other brokers at the beginning of each trade day and forecasted stock trends based on released news.  ·   Analyzed the financial statements and research reports o have overviews of companies including its strengths and weaknesses, main competitors, and future prospects, and then used top-down strategy to invest.  ·   Authorized by investors to trade by going long or short securities and options to make profit and commission, and hedge risks in Python by constructing minimum variance portfolios.

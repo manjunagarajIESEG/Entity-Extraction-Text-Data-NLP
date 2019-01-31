@@ -1,0 +1,3 @@
+Python Developer
+Lithium - San Francisco, CA
+Writing Unit, Functional, and Integration test cases for Cloud Computing applications on AWS using Python with boto library. • Writing Python scripts with CloudFormation templates to automate installation of Autoscaling, EC2, VPC, and other services • Writing Integration tests to check installation of Skybase server on Shippable

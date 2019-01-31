@@ -1,0 +1,3 @@
+Software Developer
+SpotOn.com - Chicago, IL
+Chicago, IL Member of a small team handling multiple projects at the same time.  Working on the SpotOn.com loyalty-management product.  Using Python / Django/Flask / Backbone.js & Mongo. ◆ Led development of customer on-boarding application enrolling trial customers from a website and providing them safely limited trial access. ◆ Developed basic functionality for tracking customers of the company's primary loyalty program business

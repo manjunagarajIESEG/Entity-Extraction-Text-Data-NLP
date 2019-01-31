@@ -1,0 +1,3 @@
+Java Software Engineer
+Newtech S.R.L - Santo, TX
+Responsibilities Analyst, Design, Development and Support of JAVA EE Application working with EJB, TopLink, JSF, XHTML, CCS, Javascript, Web Services, SVN, Maven, Oracle WebLogic Server and Oracle Database.  Accomplishments Migrate 3 application from JAVA ANT to Maven and create one new structure for the SVN repositories.  Skills Used Excellent domain of EJB, JSF, SVN, Maven, Oracle WebLogic and Oracle Database.

@@ -1,0 +1,3 @@
+Operations Engineer at Google
+Adecco Engineering & Technology
+• Troubleshooted, maintained and repaired proprietary server hardware within a Data Center environment. • Consoled into machines to debug output streams, log files and hardware & software error messages. • Documented software bugs, hardware component issues and escalated problems accordingly. • Tested and troubleshooted new server hardware components to validate Quality Assurance specifications. • Troubleshooted, installed and reconfigured switches, fiber optics and other networking gear. • Wrote and utilized Bash & Python scripts to automate machine information analysis and diagnostics. • Technologies: All proprietary. • OS: Linux

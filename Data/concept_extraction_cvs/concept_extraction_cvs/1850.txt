@@ -1,0 +1,3 @@
+Quantitative Research Intern
+Fitzroy Capital Management - New York, NY
+Responsibilities Calculating portfolio risk and return ratios and assisting in producing client reports Statistical arbitrage strategy development and back-testing using Python  Skills Used Python, VBA, MySQL,Access

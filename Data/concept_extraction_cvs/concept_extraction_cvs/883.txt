@@ -1,0 +1,3 @@
+Senior Software Engineer
+Paratus LLC
+Senior Software Engineer for Paratus LLC.  Primary responsibilities include: ● Develop click-to-call dialer functionality using MS Lync client and UCMA sdk's. ● Develop IVR using C# and MS Lync UCMA sdk. ● Development of web based application(s) using C#, MVC, VB.NET, Node.js, MongoDB, Python, jQuery, AngularJS, and Javascript. ● Creating reporting standards, risk analysis, and automation. ● Gathering and developing requirements.

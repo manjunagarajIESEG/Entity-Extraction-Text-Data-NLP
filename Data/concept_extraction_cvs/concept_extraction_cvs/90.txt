@@ -1,0 +1,3 @@
+Research Assistant
+Columbia University IEOR Department
+Studied statistical estimation procedures for estimating Markov chain model parameters for a Markov Chain based model for assortment optimization. • Built web application to collect data on user preferences on movies, actors/actresses, and television shows. (Technologies used: Flask, Python, SQLite, PostgreSQL)

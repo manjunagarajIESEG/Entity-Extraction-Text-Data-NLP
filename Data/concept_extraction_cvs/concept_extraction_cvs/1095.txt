@@ -1,0 +1,3 @@
+Software Developer
+Repiscore, Inc
+Managed Linux servers and software deployment Designed and implemented service oriented architecture with Python, CherryPy, Node, MongoDB, and Redis Designed and implemented APIs for our product integration with B2B clients. Managed database integration with 3rd party data providers

@@ -1,0 +1,3 @@
+CIO, Architect and IT Operations
+1 Alliance CPS
+Week-end work engaging 1Alliance CPS' leadership to determine best deployment strategy for different applications required by the business. Determine the best providers and / or architecture to create a cost effective and agile IT environment for this small business. Design, develop and deploy home grown applications for Internet and Intranet users. Most of in-house solutions are developed using a LAMP + Wordpress stack, with custom code written in PHP, Python, Javascript and/or HTML5. Guarantee smooth daily operations of 1Alliance's systems and making sure they comply to the HIPAA and Joint Commission guidelines.

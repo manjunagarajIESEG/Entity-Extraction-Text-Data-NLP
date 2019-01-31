@@ -1,0 +1,3 @@
+Software Enginner
+Carl Zeiss X-Ray Microscopy, Inc. - Pleasanton, CA
+Responsibilities • Fixed over 20 bugs in the full stack of the software.  Accomplishments • Wrote a multithreaded python script that exercised the hardware. • Adapted a code-behind implementation to mvvm. •  Enhanced the current version of the Versa and Ultra software to produce the beta version.  Skills Used • Learned and utilized C# and XAML; plus utilized C++ and python.

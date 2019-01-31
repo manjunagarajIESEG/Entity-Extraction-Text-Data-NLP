@@ -1,0 +1,3 @@
+(OCF) Staff Member
+Open Computing Facility
+The OCF provides free services to students, faculty, and staff, including printing, web hosting, and UNIX shell and email accounts. As a staff member, I provide on-site computer lab support and maintenance of the infrastructure required for the club's services.  Skills Programming Languages • Proficient in: Python, Java, C • Experience with: Bash, Scheme, MIPS Assembly  Other Software • Microsoft Office (Word, PowerPoint, Excel) • Adobe CS6 (Photoshop, Illustrator, InDesign) • Git version control system  • Docker application container system • L TEX typesetting system A  • REAPER Digital Audio Workstation

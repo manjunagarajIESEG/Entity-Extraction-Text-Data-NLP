@@ -1,0 +1,3 @@
+Engineer
+Electrical Systems and Infotainment, General Motors Technical Centre India - Bangalore, Karnataka
+• Developed Automated Test Scripts for HVAC (Heating, ventilating and air conditioning) system for global GM vehicles. • Executed Python test scripts on dSPACE HIL (Hardware in loop) Bench for all software releases. • Created different sets of supplier specific Calibrations to validate all possible functionalities of the feature. • Debugged field issues using Lauterbach Trace32 Debugger, analyzed the root cause in MATLAB SIMULINK code or IBM Rhapsody code and identified solutions. • Verified the software functionality manually on Static Benches using Neo VI Vehicle Spy and Lauterbach Trace32 debugger. • Completed 4 projects for DFSS (Design for six sigma).

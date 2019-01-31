@@ -1,0 +1,3 @@
+Senior Back-End Developer
+NATIONAL GEOGRAPHIC - Washington, DC
+Django/Python CMS development Django/PostgreSQL database modeling Unit testing strategy and implementation

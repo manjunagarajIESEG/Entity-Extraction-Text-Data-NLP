@@ -1,0 +1,3 @@
+Contractor
+Sunrise Laboratories, Inc - Auburn, NH
+• Created C++ unit tests for Mentor Graphics supported code (embedded); • Created Python Framework to support Python SQA applications for testing; • Create and managed Jenkins' build environment for the SQA group. • Created a set of tools to verify the embedded graphical application worked correctly, both randomly walking the application and walking the application per the screen flow. • Wrote some SQA test scripts to test out the embedded device. • Gave classes on embedded Linux and Python.

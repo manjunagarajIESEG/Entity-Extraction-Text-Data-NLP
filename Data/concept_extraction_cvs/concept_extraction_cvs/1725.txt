@@ -1,0 +1,3 @@
+WEB DEVELOPER-DESIGNER
+PYTHON-DJANGO
+Developing mostly backend work for websites, maintenance in Python/Django. Frontend development with HTML5, CSS3, jQuery, Javascript, SASS and maintenance as well. Resigning look and feel of current site/application. Touching on a little database work in Postgres and Oracle. Our main priority is to fix and maintain ARINCDirect's site/application for pilots.

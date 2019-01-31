@@ -1,0 +1,3 @@
+Bash and Python development
+Republic Wireless - Raleigh, NC
+Raleigh, NC ● Amazon Web Services technologies, particularly CloudFormation and EC2. ● Build and continuous integration work using Jenkins and Ansible. ● Bash and Python development. ● Development of Scout monitoring plugins using Ruby. ● Distributed log development using Elasticsearch, Logstash and Kibana (ELK).

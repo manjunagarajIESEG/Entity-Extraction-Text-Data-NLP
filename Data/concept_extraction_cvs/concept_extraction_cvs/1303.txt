@@ -1,0 +1,3 @@
+Data Analyst Intern
+Carbon Credit Capital - New York, NY
+- Implemented Carbon Calculation methods and statistical tools for Carbon footprint offset  - Constructed Carbon Credit calculation and clients databases and constructed the website backend using Python, MySQL  - Constructed Carbon Website backend using PHP and JavaScript

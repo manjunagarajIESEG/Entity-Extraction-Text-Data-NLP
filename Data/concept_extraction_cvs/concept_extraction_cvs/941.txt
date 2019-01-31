@@ -1,0 +1,3 @@
+ASIC Verification Engineer Intern
+IBM - Poughkeepsie, NY
+Responsibilities •  Worked on System Z logic verification via RTX test automation platforms. •  Used Perl, Python, and SQL to create register databases, failures reports, and hardware specifications. •  Designed verification environments using C++ and Python.  Skills Used Python, C++, Hardware Design, Verification, Test Automation

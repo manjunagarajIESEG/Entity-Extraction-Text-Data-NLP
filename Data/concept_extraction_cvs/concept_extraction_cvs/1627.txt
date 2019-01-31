@@ -1,0 +1,3 @@
+Python Web Developer
+Innutra Inc - Rīga
+Developing a new web application modules using Python 2.7, JavaScript, Regex, PostgreSQL 9.1 and Git as version control system • Designing and implementing various reporting features using Aeroo reporting tools • Investigating and fixing bugs in a complex multi-module environment using Eclipse, Oracle VM VirtualBox • Enhancing user experience with JavaScript, XML templates and CSS • Porting custom modules from OpenERP 6.1 to OpenERP 7.0 • Deploying web application in the AWS ecosystem

@@ -1,0 +1,3 @@
+Research Engineer - Data processing
+Institut de neurobiologie de la méditerranée, David Robbe team  - Marseille (13)
+Development of tools to read, process and display complex biological data Python (Numpy, Matplotlib)

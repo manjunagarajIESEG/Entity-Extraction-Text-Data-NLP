@@ -1,0 +1,3 @@
+UCLA, Department of Economics, under Professor Randall R.Rojas
+Undergraduate Research In Finance - Los Angeles, CA
+Los […] - […] UCLA, Department of Economics, under Professor Randall R.Rojas • Benchmark various mathematical models used in finance, such as Black-Scholes, Binomial option pricing models, and Holt-Winters forecasting using R. • Make stock price forecasting with Hidden Markov Model using R and Python

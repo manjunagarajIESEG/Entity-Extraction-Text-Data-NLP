@@ -1,0 +1,3 @@
+Senior QA Engineer
+Rioseo - San Diego, CA
+Responsible for preparing and executing test strategies within an agile environment and contributing to the continuous improvement of the QA process for the following products: the highly-complex Java-based Interactive Marketing Analytics applications, Python/Java-based Advanced Social Analytics software, the PHP5-based Location Finder Software as well as Rioseo's client sites. Developed tools of automation and testing in Ruby, ROR, Cucumber, Capybara and related gems, as well as in Python, Java, PHP5, and the shell programming language.

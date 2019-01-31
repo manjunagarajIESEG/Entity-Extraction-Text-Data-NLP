@@ -1,0 +1,3 @@
+Associate Applications Developer
+JPMorgan Chase & Co. - New York, NY
+•    Implemented revaluation infrastructure on Athena platform cross lines of business, e.g. commodities, FX, rates, equities, credit, with interfacing with financial users and quant researchers. Used Python, C++, Java. •    Prepared architecture design, development (GUI and backend), test, and code review for financial data quality analysis.

@@ -1,0 +1,3 @@
+SOFTWARE DEVELOPER
+Verisage - Provo, UT
+Part of a software dev team to create unique features within web applications using Javascript and AngularJS, Python, Django.

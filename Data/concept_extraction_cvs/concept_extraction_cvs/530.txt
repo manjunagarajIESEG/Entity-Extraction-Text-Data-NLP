@@ -1,0 +1,3 @@
+Phytoplankton Population Modeling - Advisor Jean Marie Linhart
+Undergraduate Research - Ellensburg, WA
+● Goal: construct an application that solves differential equations modeling phytoplankton population behavior and visualizes results as graphs ● Utilized both MatLab and Scientific Python ● Sleek, intuitive GUI available both for desktop and online ● Spearheaded team's lengthy, detailed documentation process

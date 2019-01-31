@@ -1,0 +1,3 @@
+Python/Javascript Senior Applications Developer
+Cloud Sherpas - Atlanta, GA
+Responsibilities General application development using Python, Javascript, HTML/CSS, and AngularJS, with strong integration with Cloud Technologies. Grew a solid understanding of Google Cloud Platform, including Compute Engine, App Engine, Cloud Datastore, Cloud SQL and Cloud Storage. Created estimates for a number of projects, including requirements gathering and research into various technologies.

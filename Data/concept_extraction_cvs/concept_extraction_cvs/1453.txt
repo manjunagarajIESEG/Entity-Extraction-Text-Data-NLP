@@ -1,0 +1,3 @@
+Research Assistant
+The University of Iowa - Iowa City, IA
+• 3D image processing in Ophthalmology lab, modifying Matlab files to accommodate different data collection schemes • Assisted PHD student by generating python scripts to move files, generate LaTex PDF presentations, and manipulate excel files with patient information • Merged many data subsets to create a large conglomerate data set of OCT scans for further research

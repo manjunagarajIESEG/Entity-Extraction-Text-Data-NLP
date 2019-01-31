@@ -1,0 +1,3 @@
+Consultant
+University of Rhode Island - Kingston, RI
+Simplified process automation for laboratory procedures by writing programs in R and Python. Contributed to methods and procedures used to increase efficiency in laboratory computing.

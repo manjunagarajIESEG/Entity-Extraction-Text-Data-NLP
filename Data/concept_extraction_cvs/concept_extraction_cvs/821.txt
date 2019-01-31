@@ -1,0 +1,3 @@
+Python/Django Programmer
+UT Southwestern Medical Center - Dallas, TX
+Developed a new dynamic department website with Django on a LAMP (Linux/Apache/MySQL/Python) platform. Enhanced the efficiency of posting clinical and research information. Set up architect for the website including data structure, MVC models to guarantee the high performance, extensibility and reliability of the whole project • Wrote a web based information management system with Django and LAMP to help the clinic staff to do their regular scheduling and management work. Enabled the capability to submit and retrieve essential data online • Development tools contained Sublime Text, pyCharm, GIT, Linux (Ubuntu)

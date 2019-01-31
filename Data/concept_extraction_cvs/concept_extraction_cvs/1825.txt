@@ -1,0 +1,3 @@
+Volunteer
+Disabled Resources Center, Inc - Long Beach, CA
+Programmer and Computer Lab Facilitator. o Using Python and MySQL, wrote a new work logging system, which incorporated a database. o Utilized Python to interface that work logging system with a website. o Provided one­on­one, hands­on training to students enrolled in self­paced instructional programs for the Microsoft Office Suite, Windows 7, and keyboarding.

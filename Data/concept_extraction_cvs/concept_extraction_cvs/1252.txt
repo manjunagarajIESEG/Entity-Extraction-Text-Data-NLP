@@ -1,0 +1,3 @@
+IOT Engineering Consultant
+Fortech Energy Inc., - Tempe, AZ
+Responsibilities Development of stacking sensor readings and send it to servers.  Accomplishments Debug and improve legacy code. Develop new code using mraa and upm libraries for Intel IOT platform.  Skills Used C++, Embedded Linux, Python, Node.js, Vim, XDK, Eclipse, Putty, GitHub, Intel Galileo.

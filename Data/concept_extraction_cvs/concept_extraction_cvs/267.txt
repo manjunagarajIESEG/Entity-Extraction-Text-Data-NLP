@@ -1,0 +1,3 @@
+Software Engineering Intern
+Air Force Research Lab - Wpafb, OH
+Design, develop, and document software that supports research into Visual Analytics and Cognitive Modeling for Smart Adaptive Interfaces  Designed and implemented SIMCog, a system that interfaces JavaScript browser based experiments with a Java based computational cognitive model. [http://sai.mindmodeling.org/simcog/]  Created psychological experiments with Python (Django), JavaScript, HTML and CSS   Mathematically evaluated the effectiveness of different image fusion algorithms using MATLAB Image Processing Toolbox.  Developed in JavaScript, CSS, and HTML on Raved Dashboard, a visual analytics dashboard for playback of complex multivariate time series datasets.

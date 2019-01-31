@@ -1,0 +1,3 @@
+Sr. Embedded FIrmware Engineer
+UpRev - Austin, TX
+Responsibilities Embedded Software/Firmware Engineer Development of specialized Automotive Electronic Control Unit (ECU) re-engineering and programming. •    Board bring-up firmware for Kinetis ARM processor and bus initialization for CAN and USB –OTG.  •    Hex-Rays decompiler/disassembler. •    Worked with uTasker RTOS bring-up. •    Worked with C, Lua and Python.

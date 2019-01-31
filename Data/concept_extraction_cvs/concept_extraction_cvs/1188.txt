@@ -1,0 +1,3 @@
+Data Analyst
+Risk Technologies
+Bank of America • Validated equity derivatives models currently used for pricing of trades (in Python)  • Enhanced the system with new risk measures and more efficient computations • Verified correctness of data in the bank’s risk reports (in SQL) • Helped adjusting reporting for new regulations (Volcker Rule, UMR, Basel III, ...)  • Reconciled, investigated, and resolved any positions, trades, and risk breaks daily • Wrote guidelines for developers for implementing improvements to the system • Coordinated changes with other teams • Explained the business meaning of data and risk-reporting system to developers and product managers in an understandable way • Usesd different tools and applications from Bank of America’s Quartz platform

@@ -1,0 +1,3 @@
+Stage de fin d'études chez CGI - Consultant C#
+Python
+Net (6 mois)                   -   Récupération des informations provenant d'une source de donnée (Python) -   Stockage de données sur le Cloud Microsoft Azure (Java/C#) et sur la plateforme Big DATA Hadoop -   Analyse des données en temps réel (PowerBI et Tableau Software) -   Conception d'un tableau de bord pour la visualisation temps réel (ASP.Net/C#)

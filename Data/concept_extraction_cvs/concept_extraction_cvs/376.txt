@@ -1,0 +1,3 @@
+Software Engineer
+SRC - Syracuse, NY
+Implement system functionality in C++ for the CREW Duke counter IED system. Gather feedback and improve developer tools written in Python for use in message description editing. Support changes to configuration tools written in C#/C++.

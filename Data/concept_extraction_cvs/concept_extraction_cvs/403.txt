@@ -1,0 +1,3 @@
+QA Software Engineer
+DEKA REASEARCH & DEVELOPMENT - Manchester, NH
+Responsible for testing Baxter Healthcare HomeChoice (peritoneal dialysis) embedded software (white box - unit & regression test generation), ongoing maintenance and development of internal testing and diagnostic software, and contributing to the team effort of ensuring regulatory compliance.  Supporting software development for new digital control board using ST Microelectronics Cortex-M3 processors, including Final Test and Calibration (manufacturing software).  Off-project work included development of automated integration tests for another (confidential) peritoneal dialysis system, in Python.

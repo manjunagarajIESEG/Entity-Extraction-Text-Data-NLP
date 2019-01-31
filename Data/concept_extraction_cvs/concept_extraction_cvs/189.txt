@@ -1,0 +1,3 @@
+Firmware Development Intern
+BlackBerry
+Carrying out Radio sanity tests and verification for RATs like GSM, QCDMA, LTE on latest test builds produced in BlackBerry QNX software management system for BlackBerry 10 and Android devices using QXDM, QCAT, QPST, R&S CMU 200, CMW 500 • Developed shell scripts and python script for RF hardware team to test keypad LED, touchscreen for the BlackBerry Priv and for automating extraction of touch driver testing results. • Developed Android App for enhancing battery performance, testing mobile handset functionalities at Hardware abstraction layer for BlackBerry Priv.

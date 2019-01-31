@@ -1,0 +1,3 @@
+Java Software Developer
+STANFORD UNIVERSITY
+Software Engineer: Stanford University Medical Center,  Baxter Laboratory for Stem Cell Biology Stanford, CA: 2014            ● Part of a research project directed by Dr. Gary Nolan            ● Used bioinformatics tools such as Cytoscape and Gephi . Coded with Java and    utilized                Git version control.

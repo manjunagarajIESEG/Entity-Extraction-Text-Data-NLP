@@ -1,0 +1,3 @@
+Junior Developer
+561 Media - Boca Raton, FL
+Created fully responsive custom wordpress sites from a PSD file using HTML5, CSS3, and Jquery. Then converted the cut to wordpress using advanced custom fields.  General Skills: Excellent skills in communication, networking, creative thinking. Understands the importance of being a great team player and gets along great with others.  Core Knowledge: HTML5, CSS3, Jquery, Photoshop, Bootstrap, Wordpress, custom Wordpress Templates, Github, SASS/LESS, Sublime Text, Dreamweaver, Brackets, Responsive Web Design, Mac and Windows proficient  Additional Experience and exposure to: PHP, Javascript, MySQL, MAMP  Areas of Interest: Java, Node.js, Ruby/Ruby on Rails, Swift, Python, C#, Perl, Linux, Apache

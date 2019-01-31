@@ -1,0 +1,3 @@
+Summer Fellow
+NOAA Great Lakes Environmental Research Laboratory - Ann Arbor, MI
+Responsibilities Evaluated unprecedented high-resolution wind products by the Weather Research and Forecasting Model (WRF) provided by the National Weather Service during extreme events that brought on extreme high/low water levels in the Great Lakes.  Skills Used Python, UNIX scripting, data visualization

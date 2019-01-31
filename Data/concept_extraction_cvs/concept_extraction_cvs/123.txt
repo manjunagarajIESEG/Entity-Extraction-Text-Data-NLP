@@ -1,0 +1,3 @@
+Technical Officer
+Ardeo Jewelry LLC
+Created and implemented website functionality for an online custom jewelry store. Developed the web infrastructure using Python Django framework and a PostgreSQL database. Ensured functionality and customization in the early stages of online operation. Maintained company servers and implemented security measures. Provided technical training to the staff, system support and updates.

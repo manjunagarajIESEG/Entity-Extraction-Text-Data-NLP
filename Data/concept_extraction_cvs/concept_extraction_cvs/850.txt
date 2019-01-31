@@ -1,0 +1,3 @@
+Principal Engineer
+Imatchative
+Startup, Fintech, Hedge Fund Capital Introduction Developed a real-time analytics server that helped hedge funds per- form portfolio construction by investing in other hedge funds. The tools were based on econometric time series analysis, psychometrics, clustering, and Monte Carlo based simulations. The server was written Java, Apache math. The server was multithreaded and could perform calculations on multiple physical servers using ZeroC Ice to make re- mote procedure calls between the servers. Also, wrote some backend software for analytics around the psychometrics model using Python 2.7 utilizing the scikit-learn library and Celery.

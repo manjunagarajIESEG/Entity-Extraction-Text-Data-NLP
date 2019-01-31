@@ -1,0 +1,3 @@
+Made a sign language to Speech wearable translator
+WearHacks
+October 2015 Made a sign language to Speech wearable translator, which allows users to communicate with others without any barriers using both, finger gestures (individual letters & words) and full arm gestures (Words). Technologies Used: Myo WristBand, Leap Motion, Solidworks, 3D printer, Naunce TTS Api and Python

@@ -1,0 +1,3 @@
+Lead Full Stack Web Developer
+Python
+MVC                      • Designed, planned, and directed the development of an OCAML                        advertising software, web application, management platform, and company website. HTML •   Implemented in PHP Laravel MVC framework including a CSS                          SQL relational database.

@@ -1,0 +1,3 @@
+Lecturer
+Wellesley College - Wellesley, MA
+➢ Developed and taught an upper-level undergraduate astronomy class on stellar evolution. ➢ Incorporated programming and numerical techniques in python for current astrophysical problems.

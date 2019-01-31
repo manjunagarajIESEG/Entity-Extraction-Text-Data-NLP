@@ -1,0 +1,3 @@
+Principal Software Engineer
+Epicor Software Corporation - Portland, OR
+Current principal focus is on the design and development of the entire user interface for Epicor's new web based enterprise social application using jQuery Mobile, jQuery, AJAX, HTML and CSS targeting desktops, tablets and mobile phones.

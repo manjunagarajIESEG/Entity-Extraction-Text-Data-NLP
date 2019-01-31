@@ -1,0 +1,3 @@
+Graduate Center Research Fellow
+CUNY
+Involved in research with Professor Victor Pan, designing simultaneous polynomial root finding algorithms in MATLAB, C++, and Python. Research centered around discovering, extending, and improving applications of Dr. Pan's root radii estimation algorithm.

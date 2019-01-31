@@ -1,0 +1,3 @@
+GIS Developer
+ATA Services Inc. - Lakewood, CO
+Provide support to the USGS’ National Geospatial Technical Operations Center by contributing to the development of geospatial and cartographic analysis software tools used by USGS personnel to produce the National Hydrography Dataset.  Write readable and efficient object-oriented code using C#.NET, VB.NET, and Java.  Produce ArcGIS script tools in procedural and functional Python, often translating from Arc/Info AML.  Research and Investigate viable technologies for the improvement of existing software packages.

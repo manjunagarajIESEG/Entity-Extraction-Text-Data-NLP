@@ -1,0 +1,3 @@
+Novel MIDI Controller
+State University of New York
+Designing intuitive grid based MIDI controller for the purpose of musical education. ●   Creating object detection program with OpenCV in Python to detect orientation and color of objects.

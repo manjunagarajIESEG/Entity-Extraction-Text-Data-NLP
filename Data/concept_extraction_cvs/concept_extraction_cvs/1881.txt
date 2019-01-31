@@ -1,0 +1,3 @@
+Splunk Engineer
+Blue Shield of California - San Francisco, CA
+Corporate Project: Enterprise Performance Monitoring • Group up Design & Implementation of clustered Splunk environment. • Provide technical support on Universal Forwarder configurations and optimizations • Clusters Splunk standalone search heads to increase efficiency and high availability. • Automated daily operation activities with Python, Perl scripts • Performed Data Model Acceleration based on customized Dashboards and reports.

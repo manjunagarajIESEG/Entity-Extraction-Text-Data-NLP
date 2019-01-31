@@ -1,0 +1,3 @@
+Internship - Data Journalist
+Washington Post
+Created data visualization and wrote article on refugees using D3 and jQuery. Scraped data from Wikipedia, Pro-Football-Reference using Python's BeautifulSoup Created graphs in R using ggplot2 and dplyr framework Wrote articles on sports analytics of NFL games and sports business Researched NFL statistics and created infographics for Senior Washington Post writers.

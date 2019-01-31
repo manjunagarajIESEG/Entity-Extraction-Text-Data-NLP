@@ -1,0 +1,3 @@
+Django Web Developer, Caxiam Group
+Python - Altamonte Springs, FL
+At Caxiam I was responsible for back-end development of production sites using Django & Python. Here I worked under a mentor who taught me a lot. We used Gunicorn & Nginx & MySQL in an Ubuntu environment.

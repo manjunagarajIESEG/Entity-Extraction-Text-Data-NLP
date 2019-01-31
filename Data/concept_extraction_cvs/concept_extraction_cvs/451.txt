@@ -1,0 +1,3 @@
+Software Engineering Intern
+Performance Software - Phoenix, AZ
+Responsibilities Tested software for companies like GE and Boeing. Worked on flight management systems and did thorough testing with a team of engineers.   Accomplishments Worked on many important projects like U12 and U13 which were testing projects for GE.   Skills Used We used a virtual FMS to test our software. Most of the software was written in C, C#, Python, and ADA95.

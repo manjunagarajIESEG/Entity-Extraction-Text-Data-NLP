@@ -1,0 +1,3 @@
+Software Developer Internship
+Influenster - NY
+Software Development: Develop social media applications based on website. Contribute to projects that build system to manage users, products and data. Design, maintain and modify website layout and function of Influenster by using Python, HTML, Javascript, CSS, Django, MongoDB. (http://www.influenster.com).

@@ -1,0 +1,3 @@
+Assistant System Engineer
+Tata Consultancy Services - Bangalore, Karnataka
+• Development of company's cloud infrastructure by building CI/CD pipeline using various technologies. • Deployed AWS EC2 instances for hosting servers by creating development and testing environment. • Developed custom plugins to monitor Nagios tasks using Python and Bash scripting. • Technology: Ansible, Git, Jenkins, Github, AWS, Python, Bash and Nagios monitoring tool.

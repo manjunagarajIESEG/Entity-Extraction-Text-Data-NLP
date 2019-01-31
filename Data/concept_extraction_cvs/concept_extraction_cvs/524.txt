@@ -1,0 +1,3 @@
+Software Engineer
+EMC - Durham, NC
+Responsibilities Product and Front end Development  Skills Used Python, JavaScript, jQuery, HTML, CSS, Ajax, php, MySQL

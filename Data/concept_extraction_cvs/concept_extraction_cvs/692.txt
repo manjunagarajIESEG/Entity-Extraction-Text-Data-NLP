@@ -1,0 +1,3 @@
+Java/J2EE Boot Camp Trainee
+Techligent Systems, Inc - Falls Church, VA
+Participated in a 6-week (approximately 300-hour) training course that covered core java, design concepts, JavaScript, JQuery, CSS, (X)HTML, JDBC, SQL, PL/SQL, JSP, Servlets, Spring, Hibernate, Struts1, Struts2, EJB, JSF, JUnit, Ant, Maven, Log4j, SVN, and Web Services (SOAP, UDDI, WSDL, and XML_RPC)

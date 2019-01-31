@@ -1,0 +1,3 @@
+Test Engineer
+NSG Technology Inc - San Jose, CA
+• Set up and perform Cisco Reliability Demonstration Test including latest switches and routers • Set up and perform design verification testing of Arista fabric card and line card • Indentify root cause of new product and process failure by reading Python script and using debugging equipments • Develop and Improve Manufacturing test process and maintain product and process data base

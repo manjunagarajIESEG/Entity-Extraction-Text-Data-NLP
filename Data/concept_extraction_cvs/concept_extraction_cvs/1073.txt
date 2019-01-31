@@ -1,0 +1,3 @@
+PYTHON DEVELOPER
+KYRUUS/ STOWE GROUP
+Primarily worked on Kyruus's Passport application providing solutions through enhancements' specifications.  Ensured proper resolution of application bugs resulting in optimal performance using Python. Technology used: Python, PostgreSQL, Backbone, HipChat, Bitbucket, Vagrant

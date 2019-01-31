@@ -1,0 +1,3 @@
+Software Development Intern
+Fermi National Accelerator Laboratory - Batavia, IL
+- Developed a metrics sytem using Python, PostgreSQL, and Logstash for the Enstore tape management system which allowed for easier tracking and troubleshooting for the CMS T-1 team. - Investigated new technologies in software such as Logstash and Elasticsearch and gave recommendations for future development to the team.

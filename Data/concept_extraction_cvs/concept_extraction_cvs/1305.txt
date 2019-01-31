@@ -1,0 +1,3 @@
+management. (Java)
+Library Management System
+10/2014-12/2015 Develop a database host application that implements a Library Management System, which supports book search and availability, book loans, and borrower        management. (Java)

@@ -1,0 +1,3 @@
+Software Engineer Co-op
+Rockwell Collins
+Working in Display Applications Systems to integrate the Coresim simulation environment using Python, XML, and PostgreSQL.

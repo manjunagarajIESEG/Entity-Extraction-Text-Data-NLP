@@ -1,0 +1,3 @@
+Associate
+Cognizant Technology Solutions - Philadelphia, PA
+Create and execute quality tests on 13 types of media devices based upon project requirements ● Produce reference signatures for over 100 test scenarios ● Develop meaningful insights and structure required analysis; review and validate data in order to effectively communicate recommendations to project stakeholders ● Maintain a bug report in order to ensure traceability ● Support project development by maintaining Python scripts

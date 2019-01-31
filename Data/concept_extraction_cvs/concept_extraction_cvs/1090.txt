@@ -1,0 +1,3 @@
+Junior Python Software Engineer
+Nativo - El Segundo, CA
+Responsibilities Developed features in Python using Agile methodologies. Developed Automated Testing for Nativo's Web App.  Migrated .Net endpoints to Python Endpoints  Skills Used Python, Flask, Django, Selenium, SQL

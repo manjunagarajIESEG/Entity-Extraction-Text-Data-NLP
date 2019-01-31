@@ -1,0 +1,3 @@
+Post-doctoral Advisor
+Argonne National Laboratory
+Dr. Stephen J. Klippenstein Calculation of the pressure-dependent kinetics of combustion relevant reactions through the solution of two-dimensional master equation (2DME). Development of a Python code for the characterization of the effect of anharmonicities on the kinetics of radical-radical association reactions. Investigation of the kinetics of catalysed reactions relevant in atmospheric chemistry. Obtained more than 500k cpu-hours on High-Performance Computing system at the Argonne's Laboratory Computing Resource Center.

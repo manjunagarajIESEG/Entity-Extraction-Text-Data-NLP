@@ -1,0 +1,3 @@
+Analytics and Machine Learning Intern
+CA Technologies - Santa Clara, CA
+Responsibilities •    Defined data science related features of the product and researched machine learning algorithms for realization •    Designed and prototyped the data-driven visualization component in the product using Python •    Performed data cleaning, aggregation, visualization and anomaly detection on customer data using Python, R and SQL •    Composed research paper and patent document on the data-driven visualization system (pending review) •    Communicated with engineering teams on the product testing results, modifications and continuous improvement  Skills Used Python, SQL, R

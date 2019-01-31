@@ -1,0 +1,3 @@
+Graduate Assistant
+Carnegie Mellon University - Pittsburgh, PA
+•      Implementing object recognition and tracking in python for spoken dialog system •      Building up a scene understanding application within ROS.

@@ -1,0 +1,3 @@
+Java consultant
+NYTimes - New York, NY
+Application: Adportal • Fixed bugs, resolved issues of AdmarcScheduler. Developed classified adds reporter module. • Setup and configured JBoss load balancing using Apache and mod_jk. Environment: Java 7, Maven, SVN, Oracle DB, Eclipse, JSPs, servlets, JBoss, Apache.

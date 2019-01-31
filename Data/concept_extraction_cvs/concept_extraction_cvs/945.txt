@@ -1,0 +1,3 @@
+Java Developer
+University of Maryland
+Kuali Student: open source SIS project designed to efficiently replace and cost-effectively maintain universities' enterprise systems •   Assigned sole responsibility of Selenium testing: scripted automated tests to find UI errors and database redundancies and design errors. •   Researched and consulted lead Java developers on JasperReport automated document creation •   Maintained and optimized front and back end Oracle database searches using a combination of SoapUI, GWT, Java and in-house XML based query language

@@ -1,0 +1,3 @@
+Web Developer
+Tompkins Tennis Academy - Fremont, CA
+Created company website using JavaScript, jQuery, and HTML5, and redesigned UI/UX with Bootstrap ● Developed image slider built with jQuery to display tennis related photographs to website visitors

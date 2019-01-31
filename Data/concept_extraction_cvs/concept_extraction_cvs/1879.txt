@@ -1,0 +1,3 @@
+Assistant trader intern
+Susquehanna International Group - Dublin
+Dublin, Ireland           Research and backtest of a High-Frequency market making strategy on multiple exchanges using Python and excel. Promising results with realistic fill-rate and reaction time. Education in option market making, price discovery, ETFs

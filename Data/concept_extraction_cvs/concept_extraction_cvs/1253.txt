@@ -1,0 +1,3 @@
+Research Intern
+Metropia   - Tucson, AZ
+Responsibilities • Perform data modeling and write SQL queries to retrieve data using MS SQL Server  • Wrangle and clean data using Python and also audit data for quality • Research and explore data sets to help provide better data-informed insights • Use Python and Excel to analyze data sets and create business report  Skills Used Excel, Python, SQL

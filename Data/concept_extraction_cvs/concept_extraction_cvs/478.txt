@@ -1,0 +1,3 @@
+Data Analyst/Investigation Specialist
+Amazon.com, Inc - Seattle, WA
+• Developed and implemented a data-driven enforcement program that reduced workloads for a 150 person team by 20% • Dual role as a data analyst and product quality specialist in the third party market as well as a point of contact for the data needs of other departments. • Utilized SQL, Python (Pandas, scikit-learn, matplotlib), to obtain, analyze, and make data-driven decisions for an entire department. • Utilized data visualization, verbal, and written communications to elucidate complex quantitative arguments for agile business decisions.

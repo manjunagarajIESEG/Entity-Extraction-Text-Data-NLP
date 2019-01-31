@@ -1,0 +1,3 @@
+QA Engineer
+Altisource Labs
+Testing and validating REALDoc UI, API's, and databases (MongoDB and Oracle). * Developing scenarios and test cases for UI and API's using JIRA. Creating positive and negative test cases for all possible scenarios. * Validating patch fixes(New features and Bug fixes are working as expected) * Automating test cases using Robot framework. Using Keywords created in Python and Selenium2 library for automation. Create custom keyword using python and Selenium2 library as required. * Testing API's using REST clients and validating results in MongoDB and Oracle database. * Perform manual, functional, smoke, system testing. * Reporting Test results for production releases.

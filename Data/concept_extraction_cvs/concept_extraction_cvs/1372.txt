@@ -1,0 +1,3 @@
+Data Analyst and Software Developer
+Massachusetts Institute of Technology - Cambridge, MA
+- Design tables for an Oracle database running on a Linux machine, set up an efficient ETL workflow, and update documentation as appropriate. - Modernize the infrastructure for transforming and loading large data sets using a series of Python, Perl, and SQL scripts, and a Pro*C program.

@@ -1,0 +1,3 @@
+Application Engineer
+Google / Adecco Staffing - Mountain View, CA
+Temporary assignment tasked as a Technical Solutions Specialist in Google Fiber's Business Operations department. ● Primarily role was as a Python expert with the responsibility of leveraging Python's high level of abstraction to deliver high impact solutions, to scale, rapidly. ● Gained strong experience working with very large data sets and building ETL data pipelines. ● Gained a strong understanding of programming on the Google Stack. Large scale cluster management with Borg, Middlewares using Google's Stubby RPC framework, Blaze build system, G4 version control.

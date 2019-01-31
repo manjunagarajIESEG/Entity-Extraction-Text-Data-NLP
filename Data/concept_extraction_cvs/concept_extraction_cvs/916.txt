@@ -1,0 +1,3 @@
+Software Develepment and Test Engineer(Intern)
+Motorola Mobility - Chicago, IL
+Android Mobile Apps and Phone Current Drain manual and automation testing ● Developed Test Automation Scripts in Python and Java (Android SDK tools, UI automator) for mobile apps, increasing work efficiency and consistency between data results ● Configured Current Drain Performance Automation(CDPA) on Android Platform ● Communicated with and trained employees in Brazil, China, and on-sight to utilize automation test tools and to test complex use case scenarios

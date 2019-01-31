@@ -1,0 +1,3 @@
+Embedded Engineering Intern
+DornerWorks Ltd - Grand Rapids, MI
+o Hardware design support in MentorGraphics PADS o Python development of internal tools o Open source Linux platform support (SEL4) o EMI and wireless power transfer R&D

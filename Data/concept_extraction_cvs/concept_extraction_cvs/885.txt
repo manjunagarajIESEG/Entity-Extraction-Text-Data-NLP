@@ -1,0 +1,3 @@
+DB and Android development
+Express.js and Mongo
+•  operating systems: windows XP, windows 7 and windows 8 •  programming language: C, C++, Java, C#, unity programming, python, HTML, Bootstrap, MEAN stack: Angular.js, Node.js, Express.js and Mongo DB and Android development •  Tools known: NetBeans, Git, Android studio, WebStorn •  Attended workshop on Ethical hacking and Network security at GITAM university Hyderabad

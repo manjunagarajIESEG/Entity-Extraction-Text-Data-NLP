@@ -1,0 +1,3 @@
+Software Developer
+Frazer Computing, Inc. - Canton, NY
+Responsibilities Develop, maintain, and support features for the Frazer dealer management system -- a Windows software solution targeted at independent used car dealerships.  Accomplishments Developed a RESTful webservice used to track customer analytics and send messages to the desktop software. Established data integrations with companies including NADA Value Guides, Kelley Blue Book, RouteOne, Westlake Financial Services, and Fetch (Insurance Portal Services).   Skills Used Clarion, ETL, PostgreSQL, PHP, Ubuntu, Python, LaTeX, MySQL, JavaScript, MongoDB, REST, Apache, OpenSSL, jQuery, Google API, HTML, Phing, Jenkins, OAuth, Bash, LAMP, SOAP, XML, JSON

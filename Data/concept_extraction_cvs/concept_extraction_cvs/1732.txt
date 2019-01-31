@@ -1,0 +1,3 @@
+Research Assistant
+Research Project - Charlottesville, VA
+• Skillfully adapted to the initially unfamiliar Loom SDK game engine • Polished preexisting front-end code leading to a more inviting and immersive experience • Developing an A.I. in Python in order to explore different play styles and expedite debugging

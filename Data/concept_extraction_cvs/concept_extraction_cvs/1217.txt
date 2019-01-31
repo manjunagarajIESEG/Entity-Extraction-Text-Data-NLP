@@ -1,0 +1,3 @@
+Internship
+Owen Software - Rockville, MD
+Responsibilities Data Scraping  Accomplishments Helped create a data entry portal. Created a data scraping bot in Python to make data scraping process more efficient.    Skills Used Coding  Data Scraping

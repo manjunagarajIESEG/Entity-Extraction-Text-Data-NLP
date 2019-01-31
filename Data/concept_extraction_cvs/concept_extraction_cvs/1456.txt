@@ -1,0 +1,3 @@
+Python Developer
+Healthways, Inc - Nashville, TN
+• Develop Python modules for an ETL job involving OracleDB tables.  • Develop web services supporting next-generation customer intake platform.  • Create tests and documentation for code.  • Track development progress using GitHub and YouTrack.  • Review code developed by teammates.  • Discuss implementation details with Enterprise Architects.  • Technologies used: Python, RabbitMQ, Couchbase Server, OracleDB, Git, Gunicorn, Nginx, Sqoop.

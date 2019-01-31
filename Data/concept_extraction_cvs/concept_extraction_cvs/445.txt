@@ -1,0 +1,3 @@
+Senior Software Engineer
+Endgame
+Computer Security, CNO.  Worked with compiler optimization code using llvm. Worked on data collection software in C++ for user space programs running on Microsoft Windows.  Tools used include Visual Studio, python, and Ida pro.

@@ -1,0 +1,3 @@
+Teaching Assistant
+University Of Houston, Texas - Houston, TX
+• The main motive of this subject is to teach students basic programming languages like integer programming with mat lab, linear programming, Data Preparation using csv file in python etc. • Loops, functions, statements etc. with examples are used to introduce python to students. • Data Preparation using csv file in python is used which modifies the old .csv file to a new .csv file using python coding. • Mat Lab is used for integer programming, linear programming and non-integer programming etc. which is used for transportation problem. Environment: Python, Mat Lab, R

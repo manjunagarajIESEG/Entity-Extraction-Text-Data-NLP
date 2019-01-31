@@ -1,0 +1,3 @@
+Software Automation Developer (Python) 
+Ardia & Intel - Toulouse (31)
+Scripts & API Development  * Development of:  - Software tool to control phone remotely  - Client/Server system for crash report automation - Software tool for test farm configuration automation  - New stress test to produce system crashes  * Involved in Test Requirement Analysis.  * Implementing code, review and bug fixing.  * Involved in debugging and fixing tests scripts and library functions.  * Assist manual testers to execute the automated test scripts and analyze the results.   Technical Environment: Python, C/C++, Git, Gerrit, Bench tests, PhoneFlashTool, CrashTool, JIRA, PyCharm, Linux January

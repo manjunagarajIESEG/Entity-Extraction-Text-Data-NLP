@@ -1,0 +1,3 @@
+Engineering GIS Intern
+Town of Christiansburg - Christiansburg, VA
+Manage Christiansburg's enterprise GIS database. ● Digitize proposed engineering plans. ● Perform plan review on proposed job sites with a committee. ● Build custom web applications using ArcGIS API for JavaScript. ● Create models and python scripts to help promote automation with data creation, and file management.

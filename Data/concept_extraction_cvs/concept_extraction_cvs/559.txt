@@ -1,0 +1,3 @@
+Python developer / C developer / Software engineer / QA
+Cloud Linux Inc
+test engineer Duties summary: 1. Hardened PHP project: • back porting security patches for PHP (C, PHP) • unit testing 2. PHP Selector project: • source monitoring tools (Python) • build automatization tools (frontend + backend) • maintaining Cpanel tools (Perl) • RPM packaging 3. CageFS project: • unit tests • developing CageFS parts (Python) 4. QA: • kernel and system utilities unit testing • load testing • analyzing kernel module and system utilities stability 5. Support: • system utilities support

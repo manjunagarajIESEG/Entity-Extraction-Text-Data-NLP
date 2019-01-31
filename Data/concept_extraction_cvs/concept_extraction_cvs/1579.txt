@@ -1,0 +1,3 @@
+Quantitative Analyst-Data Scientist Intern
+eProdigy Financial LLC - New York, NY
+Text Analysis (Natural Language Processing), scraped web statistics such as Star- Ratings and Customer Reviews using Python and API, used Hadoop for sentimental analysis and keywords ranking to provide decision-making advices to underwriters • Data Analysis, constructed revenue predictive models with linear regression in R, analyzed financial features such as margin rate, daily funding with machine learning principal component analysis methods for risk control and revenue generation

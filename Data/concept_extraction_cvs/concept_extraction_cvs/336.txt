@@ -1,0 +1,3 @@
+GIS Programmer/Analyst
+Loudoun County - Leesburg, VA
+Developed computer programs in Python and C# to support county's GIS land records program. Maintained over 200 GIS data layers in SDE database. Implemented system maintenance and software updates for complex GIS business processes. Assisted external users as a Help Desk representative. Tested applications and suggested modification for prototype GIS applications. Created metadata in ArcGIS Catalog. Followed guidelines of the System Development Life Cycle. Created Web page using ESRI local government template. Developed C# program for Department of Economic Development.

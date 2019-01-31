@@ -1,0 +1,3 @@
+Research Assistant
+Center for Advanced Computation and Telecommunications (CACT), UMass Lowell
+• Examined the preliminary Internet Traffic Statistics using C and Python programming   languages    • Implemented GPU programming on Internet data to see if there is a possibility to reduce the time complexity • Using Python programming language analysed the parameters affecting the taxi-out time of Aeroplanes at Airports • Developed code in Matlab for high school students Math class problems • Worked with high school teachers in developing online courses during an edX workshop at CACT

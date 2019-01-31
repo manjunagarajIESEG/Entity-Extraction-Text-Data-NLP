@@ -1,0 +1,3 @@
+Southern Arizona Buffelgrass Coordination Center - GIS Intern
+Python
+Working with local conservation non-profit and local emergency response officials to map the invasive and wildfire provoking plant species known as buffelgrass • Creating a python tool to show the relationship between brushfire growth and fire department response time in urban washes and vacant lots in the Tucson region

@@ -1,0 +1,3 @@
+Research Assistant on Artificial Intelligence
+East Carolina University - Greenville, NC
+Responsibilities: •    Supported team with AI and Natural Language Processing projects •    Developed an Intelligent emotion driven music recommender system, integrated with Facebook •    Developed a customer survey Text mining and evaluation system (CSTEM) Environment: Python (NLTK 3.0), ASP.NET, C#.Net, ADO.Net, Web services, SQL Server 2012, Java Script, jQuery,

@@ -1,0 +1,3 @@
+Hardware Engineer
+Ingenu - San Diego, CA
+•   Maintaining python based test framework using SVN and Eclipse IDE. •   Utilizing framework for design verification testing and data analysis. •   Collaborating with designers to resolve issues captured in testing.

@@ -1,0 +1,3 @@
+Sr. Java Developer
+Cablevision Systems Corporation - Long Island, NY
+Responsibilities Development using Java/J2EE technologies and frameworks.  Accomplishments •    Developed J2EE based SDK for Android based applications •    Used hazelcast to implement memory caching •    Implemented Oauth 1.0 for authenticating the API clients •    GSON, Simple xml frameworks were used to render the data through the APIs •    Apache Mina was used to make UDP based operations •    The SDK for Android app was developed using Java, Spring MVC, Oracle PL/SQL, GSON, Json, Restful webservices  Skills Used Java, Servlets, Tomcat 7.0, SQLite, Unix, Spring MVC, Maven, Hazelcast, Android SDK, Oauth 1.0, Eclipse

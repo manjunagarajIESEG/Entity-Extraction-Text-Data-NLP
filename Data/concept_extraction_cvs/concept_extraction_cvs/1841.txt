@@ -1,0 +1,3 @@
+Digital Analyst
+Reingold, Inc. - Alexandria, VA
+•    Designing, building and maintaining Mysql database with a reporting system integrated with Tableau  •    Pulling, analyzing and visualizing website, paid media and social media data, diving in for abnormal trends •    Automating reports pulling by using Google Analytics, Facebook, Adwords api  •    Google Analytics and Google Tag Manager implementation, testing and troubleshooting •    Utilizing Python NLTK module to perform text analytics on social media content

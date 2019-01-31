@@ -1,0 +1,3 @@
+Node.js-Python Consultant
+GEICO
+Built a B2B integration infrastructure utilizing Python SUD, Node.js. • Developed the SOAP API platform - a set of corporate endpoints and response handling, using Node.js, SOAP, Tornado, Twisted, Redis • Developed of secure SOA. • Architecture of the business integration • Built a tcp/redis based job handling • Managed security with Kerberos/OpenSSL • System administration - General CentOS configuration, Clustering, Supervisor, Performance tasks. Environment: Node.js, Python 2.7, МySQL, Redis, Tornado, Twisted, SOAP, TCP

@@ -1,0 +1,3 @@
+Python Developer
+Cisco - Lawrenceville, GA
+• Lead developer on the Automatic Neighbor Recognition 2G (ANRG) tool and its hundreds of units tests • Integrated tool with existing network optimizing software, modifying both applications as necessary • Wrote additional web applications and scripts related to network stability and performance • Wrote business logic to be used by mobile applications that interfaced with the larger application

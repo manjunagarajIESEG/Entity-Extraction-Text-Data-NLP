@@ -1,0 +1,3 @@
+Acceleration Performance and Driveability Development, 2-Pedal projects
+Nissan Technical Center - Barcelona, Barcelona
+Barcelona, SPAIN ● Calibration and evaluation of cruise control and speed limiter of Euro6 petrol vehicles ● Acceleration performance evaluation in 2 pedal projects ● Development of next gen CVT calibration for Euro6c vehicles ● Development of Python apps for acceleration performance data analysis

@@ -1,0 +1,3 @@
+Healthcare Data Analytics Intern
+Banner Health - Phoenix, AZ
+Responsibilities Explore the possibilities of Big Data Applications in healthcare setting to manage population health.   Accomplishments Developed a prediction model to identify the patients that might cost very high to the hospital in the next one year.  Helped hospital to identify the most prevalent chronic conditions and their associations using network analysis thru Gephi  Skills Used Python programming to build a prediction model using 'Scikit-learn' machine learning package. Data Analytical skills to extract, select and create features that will improve the prediction power of an algorithm.  Network analysis skills to understand and visualize complex connections between diseases.

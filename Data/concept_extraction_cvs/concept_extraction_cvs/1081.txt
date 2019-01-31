@@ -1,0 +1,3 @@
+Database/Application Analyst
+AnviCare, Incorporated
+Developed database backends and multi-tier server applications for the health care management sector. Implemented development process that complies with every step of the software development life cycle. Delivered high quality products that earned high customer satisfaction feed back and additional business opportunities - Successfully migrated various data sources (SQL SERVER, Access, Excel and text files) to Oracle, Developed efficient, flexible and accurate tools for data migration and transformation using SQL, PL/SQL, Visual Basic and Python - Analyze, modify and optimize database structure using MedicalManager, MediSolf, QuickMed, LytecMedical, Claimstronic tool suites

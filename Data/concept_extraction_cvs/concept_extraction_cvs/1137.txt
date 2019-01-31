@@ -1,0 +1,3 @@
+Java Apprentice
+The Software Guild
+• Java Language Fundamentals - variable declaration, looping constructs, conditional statements, modeling, exception handling, unit testing and n-tier application structure • Web Development Fundamentals - Spring MVC, HTML, CSS, JavaScript, and jQuery. • Database Fundamentals: MySQL, SQL Query Writing, Table Creation, Spring JDBC, Hibernate • Project Management Fundamentals - Wire-framing, User Stories, work estimation, and iterative development

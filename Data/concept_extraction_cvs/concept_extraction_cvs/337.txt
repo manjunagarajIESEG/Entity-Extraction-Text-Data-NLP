@@ -1,0 +1,3 @@
+Systems software developer
+IBM - Austin, TX
+Writing, debugging, and enhancing various tools to use in testing and test management with the Power PC simulation team in a cloud environment. Database design and utilization using Python and Sqlite3, as well as Java. Writing models and other software around the WindRiver SIMICS product. Debugging issues that appear. Maintaining build system using Git, Gerrit, and Jenkins

@@ -1,0 +1,3 @@
+Research Internship
+National Institute of Technology - Tiruchchirappalli, Tamil Nadu
+Accomplishments Programmed a sentiment analyzer to detect sarcasm in online product reviews.  Skills Used MATLAB, Python, Machine Learning, NLP

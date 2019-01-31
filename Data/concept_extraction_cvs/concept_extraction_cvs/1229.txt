@@ -1,0 +1,3 @@
+SAP HCM Technical Lead
+SAP HCM, FI, ETL Ad Initio, Python
+Duration: 9 months Activities: - Developed data migration strategy for SAP Payroll - Managed workshops between the different business groups in Compensation - Designed and developed master data conversion and interfaces for earnings - Functional & technical design documents for interfaces and enhancements - Testing scenarios with eCATT  Industry: Hydro-One, Toronto, ON Project Scope: SAP HCM

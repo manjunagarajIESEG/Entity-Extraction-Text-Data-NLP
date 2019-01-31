@@ -1,0 +1,3 @@
+Computer Vision and Deep Learning intern
+Technicolor - Rennes (35)
+Responsabilités – Involved in developing a model for violence and emotion detection in movies  – Used Deep Learning algorithms with C++, Python and GPU programming   Réalisations – Proposed simpler model has improved performance than competitors – Efficient model with runtimes reduced to half and equal performance  Compétences Python, Deep Learning, C++, Machine Learning, Scikit Learn, Theano

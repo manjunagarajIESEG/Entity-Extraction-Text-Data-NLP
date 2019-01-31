@@ -1,0 +1,3 @@
+Full-Stack Developer
+Append Analytics - Princeton, NJ
+• Utilize modern data science techniques to understand complex scientific problems. • Create financial software with the Bloomberg API. • Build web software using python for server applications and JavaScript for client applications.

@@ -1,0 +1,3 @@
+Business Intelligence Analyst
+Bankers Financial Corporation - St Petersburg Beach, FL
+Responsibilities - Provide Development support for the business intelligence solutions. - Web scrapping with python and SSIS package development for the warranty and insurance data. - Work stream planning process including inception, technical design, development, testing and delivery of BI solutions. - Identify new technology opportunity that will have impact on various platforms - General Insurance industry knowledge and expert user of Excel, Access, SQL server and other softwares to analyze and interpret data. https://github.com/ChitraRajasekaran/Python-Scripting

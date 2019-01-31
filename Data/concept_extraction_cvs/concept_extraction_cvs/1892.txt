@@ -1,0 +1,3 @@
+Network Engineer Intern
+Tradeweb - Jersey City, NJ
+Responsibilities Using network management software platforms to develop web apps for getting and analyzing network data automatically. Develop a network data engine for Operational Intelligence. Design, implementation, ongoing management, and troubleshooting of Cisco Unified Communications Systems.  Accomplishments Improve coding experience. Learn more about the Cisco Routers and Switches. Learn how to build Web App using Python scripts. Learn how to use Splunk. Improve team work experience.  Skills Used Python, PHP, Perl, Linux, MySQL, Javascript

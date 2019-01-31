@@ -1,0 +1,3 @@
+Sr. Analyst/Web Developer
+Aspen Capital - Beaverton, OR
+• Lead Developer of Python and R modeling/prediction engines using monte carlo techniques and neural networking. • Lead developer of ASP.NET and PHP web applications using rapid framework (e.g. worked directly with business units to ensure effective end products). • Lead Designer and DBA for asset analytics data warehouse. • Data migration from ad hoc locations (flat files, web scraping, web API's) to SQL Server to accommodate growing company's data needs. • Developed and provided SSRS and proprietary framework reports to senior management, stockholders, and bond investors.

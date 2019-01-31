@@ -1,0 +1,3 @@
+Developed helper
+Consortium-IV - Sacramento, CA
+classes for Consortium-IV state project using Java. • Automated web service testing using TestNG and SOAP UI. • Tested java classes using TestNG, Junit and Mockito and documented the test cases using Sharepoint.  Projects Predictive Analysis of Valued shoppers using Python, D3.js, MySQL                                        Present • Developing an algorithm to predict what offers to be provided based on the location of the store. • Analyzing huge sets of data containing market basket data, pre-transaction offers, post transaction customer behavior and transaction details.

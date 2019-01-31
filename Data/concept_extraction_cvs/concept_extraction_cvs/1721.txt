@@ -1,0 +1,3 @@
+Web Developer Intern
+Tristan
+•      Create Small business Responsive Media Websites from design templates •      Purchased Domain Names, set up websites, added responsive features •      Collaborate with designers, and clients  PROJECTS Genome Sequencing                        Video Recognition Utilizing Python and BioPython           Used Matlab video recognition modules to analyze comparisons           software and Roomba robot between bacterial genomes.               commands.  Result: Created a program to create      Result: Created software to help a GUI representations of genome            Roomba Robot to navigate and comparisons                              recognize its surroundings.

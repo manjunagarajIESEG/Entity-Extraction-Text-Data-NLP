@@ -1,0 +1,3 @@
+Stage
+Inria Rhône-Alpes
+Réalisation d'une approche d'analyse de données de trafic mobile. Le but étant d'adapter de manière dynamique les ressources du réseau aux besoins des utilisateurs (utilisation de techniques de data mining). Environnements: Linux, Java, Python, JavaScript.

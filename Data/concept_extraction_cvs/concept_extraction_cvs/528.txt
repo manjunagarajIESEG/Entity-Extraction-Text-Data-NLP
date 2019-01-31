@@ -1,0 +1,3 @@
+Développeur python en tant que technicien informatique
+Celad (SSII). Création d'un banc
+de tests de production automatique en python pour Sigfox.

@@ -1,0 +1,3 @@
+DMetrics - Lead Engineer and Project Manager
+PYTHON - Manhattan, NY
+Manhattan, NY • Built Analytics KPI engine using Python and PIG, running on 5 TB of data                            Aug 2012 - Present • Automated Text Processing Data Workflow using Amazon SWF, utilizing 5000 spot instances in batch jobs • Managed team of 6 engineers using Agile/Scrum practices, Asana, Redmine

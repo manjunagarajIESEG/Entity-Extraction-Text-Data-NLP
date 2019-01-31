@@ -1,0 +1,3 @@
+Graduate Assistant-Data Analyzing and Data Visualization
+Central Michigan University
+Responsibilities 1. Minimized password sets 2. Use algorithm and effective data structure(hashmap) to improving the speed of dynamically summarize the password. 3. Use Linux c and Python to classify the interesting patterns and relationships of passwords 4. Use D3js, HTML, and CSS to build the visualization tool 5. One of the research paper was accepted to be published in July, 2015.  Accomplishments 1. improve my research ability 2. design effective data structure and use algorithm to deal with large data set. 3. natural language processing 4. data visualization.  Skills Used Linux C, python, HTML, CSS, D3js, php

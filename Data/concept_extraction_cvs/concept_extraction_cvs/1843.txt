@@ -1,0 +1,3 @@
+Senior Application Engineer
+Chevron
+• Qt based Visual Studio C++ Software development for reservoir simulations and its model builder. • Responsible for automatic C++ code generation for XML based simulation and field management data structures using Python script, APIs design and software integrations for Qt based application. • Qt designer based Application GUI development for reservoir well simulations. • CMake script generations for automatic generation of VC projects and solutions.

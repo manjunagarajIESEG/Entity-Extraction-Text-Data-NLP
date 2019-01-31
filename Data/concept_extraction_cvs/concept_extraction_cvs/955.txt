@@ -1,0 +1,3 @@
+Web Services Development Intern
+Valtira LLC - Minneapolis, MN
+• Developed back-end web servlet using Java and Amazon Web Service • Coded, tested, and debugged front-end web application with AngularJS, JSP/JSTL, XHTML, CSS, and Javascript

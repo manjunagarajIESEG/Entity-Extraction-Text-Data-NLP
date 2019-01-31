@@ -1,0 +1,3 @@
+Undergraduate Research Assistant­ Dental Pulp Stem Cell Research
+Stony Brook University - Stony Brook, NY
+Differentiate and regenerate Dentin like structures on Dentin mimicking structures. ❖ Utilize Python programming to determine proteins that are found naturally in the Dentin matrix that bind with cells and scaffolds

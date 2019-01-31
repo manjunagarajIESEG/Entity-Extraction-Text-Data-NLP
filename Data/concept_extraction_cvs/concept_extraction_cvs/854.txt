@@ -1,0 +1,3 @@
+Freelance Software Developer
+Boutysource.com
+• For photo viewing application, added a button for 1:1 zoom • Added optional hide mode for elementary OS (Linux distribution) panel, which caused the panel to hide when an active window was maximized • Developed feature for chrome extension that caused it to display an error if it failed to connect to an external service • Overall, gained valuable experience of searching unfamiliar codebases for the sections of code that pertained to the issue at hand  LANGUAGES AND TOOLS Proficient: Java, Python, Vala, UNIX Shell, GWT, MongoDB, Git, Bazaar Familiar: Ruby, JavaScript, C, x86 Assembly  CODE SAMPLES • https://www.bountysource.com/people/31078-kbailey4444 • https://launchpad.net/~kbailey4444 • https://github.com/kbailey4444

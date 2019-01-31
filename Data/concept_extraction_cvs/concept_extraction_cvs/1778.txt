@@ -1,0 +1,3 @@
+OLX (INTERN)
+Python, R
+Worked at OLX in the Business intelligence team on a project involving scraping web pages using Python modules like Beautiful Soup and Mechanize browsers. Analyzed daily transactional data using R programming Language and provided insights on it.

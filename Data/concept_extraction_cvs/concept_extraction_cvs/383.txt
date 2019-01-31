@@ -1,0 +1,3 @@
+Jr. Python Developer
+Healthways - Franklin, TN
+-Short term contract position -Converted couchDB output from cURL requests (REST) to JSON format via Python scripts -Peer reviewed GNU Privacy Guard encryption Python scripts -Researched SQL queries to get data to put into couchDB -Rewrote scripts to use recursion where available, creating github pull requests of finished product for peer review

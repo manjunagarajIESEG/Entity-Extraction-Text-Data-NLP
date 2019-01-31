@@ -1,0 +1,3 @@
+Java Programmer Analyst
+GMD S.A - Lima, Lima
+Application development for the company and state enterprises  Used the following tools: IDE                  Eclipse Helios JDK                  1.4 - 1.6 Frameworks           Struts 2 - Spring 3.1 - JSF 1.2 - Rich Faces - ZK ORM                  Hibernate (jpa) DATA BASE            Oracle 11g APPLICATION SERVER   Apache Tomcat 6.0, glassfish 2.1, WebSphere Application Server PROJECT BUILD TOOL   Maven 2.2.1 OPTIMIZER CODE       PMD REPORTING ENGINE     JasperReports - IReport

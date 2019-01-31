@@ -1,0 +1,3 @@
+Senior Java Developer
+G2 Software - San Diego, CA
+Responsibilities Team developer for an enterprise network management system for a Navy satellite system.  Created and modified JSP pages using JDeveloper, Java, JavaScript, HTML,  Custom TagSupport based middle tier, Oracle SQL, Windows Server 2012, Oracle SQL 2012, VM Ware 10, Windows 7, US Government cyber security compliant features.  Accomplishments closed 10 stories and 20 defects in 1 year created a report filtering system to generate satellite assignment reports  Skills Used jave, jdeveloper, jsp, xml, html, c++

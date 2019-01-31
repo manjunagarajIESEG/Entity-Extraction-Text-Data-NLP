@@ -1,0 +1,3 @@
+WEB PROGRAMMING INTERN
+Nice Idea Media
+Build HomePik website using PHP, MySQL, jQuery, HTML, and CSS

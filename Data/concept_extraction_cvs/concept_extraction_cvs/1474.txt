@@ -1,0 +1,3 @@
+Compliance Manager
+D3 for the UI
+spect to cloud security standards, alerting and recommendation engine for deviations, visualizing the compliance status based on roles. Implemented with AWS for the cloud, spark for the data- base, python for framework and D3 for the UI.

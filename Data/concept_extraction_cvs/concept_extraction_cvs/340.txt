@@ -1,0 +1,3 @@
+Software Developer
+www.x-cd.com
+Completely re-built and still performing maintenance and upgrades to the Sencha Touch, cross-platform app used by all of X-CD Technologies' clientele. •   Performing continual upgrades to the responsive web app used by all of X-CD Technologies' clientele using ColdFusion, JavaScript, jQuery and

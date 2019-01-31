@@ -1,0 +1,3 @@
+Contract Engineer
+Northrop Grumman - Linthicum, MD
+• Working on team developing superconducting computer technology utilizing RQL (Reciprical Quantum Logic) and Josephson Junctions • Responsible for JMRAM validation, margin analysis, Monte Carlo analysis and optimization • Designed a new SFQ (single flux quantum) amplifier • Wrote automated DRC/LVS regression program running as cron job. • Currently writing a comprehensive LIB QA program in Python to check for existence and consistency of all library cell views.

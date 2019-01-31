@@ -1,0 +1,3 @@
+Software Engineer
+Samsung Research & Development Institute - Bangalore, Karnataka
+Tizen Team| Tizen Product Development project • Developed UI for Messaging and keyboard module in the smart watch Samsung Gear S which released in SEPT 2014.   • Developed UI for Samsung S-Health for wearable Gear S and Gear O which included getting data from sensors. • Developed custom notification API's for Tizen SDK 2.4 which was used in communication between Samsung phones and Samsung Gear.

@@ -1,0 +1,3 @@
+Network Operations Center Technician
+Eagle Eye Networks
+Maintained over two hundred business networks and ensured maximum availability. ● Performed remote repairs and upgrades as needed on field systems running CentOS. ● Performing network architecture and set-up. ● Monitored connectivity to several customer networking sites. ● Monitored connectivity to video lan equipment. ● Troubleshot Customized linux network bridges over ssh. ● Managed company LAMP servers. ● Installed, configured, and maintained services including Apache, MySQL, PHP, FTP, SSH, Postfix, DNS ● Worked with BASH, Salt, Ruby, Python, MySQL, MariaDB, Apache, PHP, HTML5, CSS, Ubuntu, CentOS, Redhat, and FreeBSD.

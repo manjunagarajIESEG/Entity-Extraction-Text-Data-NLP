@@ -1,0 +1,3 @@
+Research Developer - Internship
+iMapData, Inc - McLean, VA
+●     Constructed over 100 web scrapers to automate mass database updates using Python & Kapow ●     Completed a big data analysis project for parameter-free incident detection ●     Developed tools for use by company analysts and for automatic client report generation ●     Created data visualizations using QlikView & JavaScript ●     Researched & developed proofs of concept for potential client offerings and service expansion

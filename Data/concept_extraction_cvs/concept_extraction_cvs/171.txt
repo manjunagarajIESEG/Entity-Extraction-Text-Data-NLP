@@ -1,0 +1,3 @@
+Python Developer Intern
+Quantome LLC - St. Louis, MO
+April 15-Jul 31 -Working on a hospitality and concierge web application, HingeX.com -Carried out unit testing, logged and assigned issues/bugs on Bitbucket -Researched various data providers for event, venue and sports, participated in decision making -Pulled JSON formatted data from the end point of data provider's API, with python and open-source tools -Saved the requested bulk JSON data into our database using postgreSQL -Did full-stack development on a blog site in virtual environment, using Python, Django and Bootstraps -Interacted directly with command-line interface(Terminal) for developing and version control(Git)

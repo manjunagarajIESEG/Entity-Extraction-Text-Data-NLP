@@ -1,0 +1,3 @@
+Predicting Daily Sales (Kaggle challenge)
+Northeastern University - Boston, MA
+Responsibilities  Given two years daily sales data of 1100 store, developed a project to predict daily sales of 1100 store for six months using linear regression algorithm.  Different time series models were developed to predict daily, weekly and monthly sales using Python and JMP  Accomplishments Team rank was 1700 out of 4000 participants.  Skills Used Java, Python, JMP, scikit, NumPy

@@ -1,0 +1,3 @@
+Intern
+Conxx
+Skills: Database design, SNMP, Perl, Python, Server admin

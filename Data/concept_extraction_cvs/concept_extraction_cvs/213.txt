@@ -1,0 +1,3 @@
+Intern Radiometric Cal/Val
+Planet Labs - San Francisco, CA
+USA  -   Python script to semi automate the process of providing SDSU with calibration imagery in raw format. -   Validate ground calibration technique (perform unit and integration test) -   Implement cross-calibration with Landsat-8 / RapidEye imagery. -   Used git for version control

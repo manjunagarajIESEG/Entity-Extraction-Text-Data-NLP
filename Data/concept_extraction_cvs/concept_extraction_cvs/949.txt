@@ -1,0 +1,3 @@
+Software Engineer
+EMC Fun Pool League - Kingwood, TX
+Responsibilities Designed and developed an online portal for a local billiards league using Python and Django.  The portal streamlined managing venues, teams and players while automating schedule creation, scoring and statistics.  Skills Used Pyhton, Django

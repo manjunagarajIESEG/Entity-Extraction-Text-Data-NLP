@@ -1,0 +1,3 @@
+Associate, Financial Modeling Group
+BlackRock, Inc - New York, NY
+• Mortgage backed securities prepayment behavioral modeling for investment clients within BlackRock and external through the Aladdin platform, with $15+ trillion AUM. • Bespoke consumer credit risk modeling for CCAR clients through advisory engagements. • Core risk analytics and prepayment library implementation (C++), and standalone cash flow engine design and implementation (Python). • Relative value analysis and economy impact risk analysis for BlackRock agency MBS trading desk.

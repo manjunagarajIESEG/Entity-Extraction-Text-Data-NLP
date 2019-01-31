@@ -1,0 +1,3 @@
+EO/IR and SAR Image Analyst
+FLTS - Edwards AFB, CA
+Currently repairing analysis tools for SAR and EO/IR imagery analysis. Working on Python based tools for GIS and imagery analysis of EO/IR and SAR images.

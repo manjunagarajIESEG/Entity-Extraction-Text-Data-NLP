@@ -1,0 +1,3 @@
+Intern
+Nexteer Automotive - Saginaw, MI
+Automated and improved software release notes by modifying existing Python script and IBM Synergy query tags, used HTML/CSS to format document, and adapted to database migrations format changes • Parsed motor controller CAN bus data using Python to detect bit pattern anomalies • Developed and mounted the brake and steering system of a go-kart for the Electronic Power System group competition

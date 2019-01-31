@@ -1,0 +1,3 @@
+Consultant - System Administrator
+TekZenit, PCCI - Parkland - Dallas, TX
+Linux provisioning DevOps w/ bash, python, ansible, puppet deploy to multiple target environments. Using git/stash/jira, TeamCity, Jenkins, nexus, maven, vagrant, vmware, ec2, virtualbox, selinux, nginx, openssl, ssh, AD/LDAP, mysql

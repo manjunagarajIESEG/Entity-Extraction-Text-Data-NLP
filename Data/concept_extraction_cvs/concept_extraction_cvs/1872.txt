@@ -1,0 +1,3 @@
+Quantitative Research
+AlphaParity LLC
+Jul 2015-Sep 2015 Research and code various projects in Python, MySQL and Bloomberg, ranging from strategies researching, volatility modelling, transaction cost analysis, strategy performance evaluation; infrastructure development and maintenance on internal literal and quantitative database.

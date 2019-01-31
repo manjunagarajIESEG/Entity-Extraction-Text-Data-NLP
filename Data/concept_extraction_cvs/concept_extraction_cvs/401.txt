@@ -1,0 +1,3 @@
+Professional poker player - Python, XML, tkinter
+Self-employed - Austin, TX
+• designed and implemented several software programs in Python/tkinter including a poker math training tool and graphic game simulator

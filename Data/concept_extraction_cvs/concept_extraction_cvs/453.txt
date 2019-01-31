@@ -1,0 +1,3 @@
+Sr. Network Engineer
+MobiTV - Emeryville, CA
+Maintained the production data center network designed for encoding and supplying live video streaming C content to cell phones, tablets, laptops, desktops, and set top boxes. Hardware included   isco 2900/3500/3700 ASR  1000 legacy Cisco 6500, Nexus 5000 L3 and L2FEX, legacy Cisco ASA, F5 load balancers technologies. Use of python, bash, expect, and other scripting tools for writing  network automation solutions. Architect new network designs to accommodate new business and a SDN roadmap.

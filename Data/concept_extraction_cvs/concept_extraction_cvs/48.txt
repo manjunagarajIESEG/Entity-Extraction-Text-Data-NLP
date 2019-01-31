@@ -1,0 +1,3 @@
+Satellite Controller
+Adecco at Skybox Imaging + Google - Mountain View, CA
+• Monitor and command all Skybox satellites for proper operation, responding to all off-nominal contingencies • Plan and execute the path forward for sequence loading and immediate action automation through Python commands • Shift led three ground software releases to the Mission Operations Center • Developed contingency plans for command loss response, safe mode response, and others

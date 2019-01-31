@@ -1,0 +1,3 @@
+Biology Instructor/Research Assistant
+SoongSil University - Seoul, KR
+• Taught wet-lab, Linux and Python courses for undergraduates in the School of Systems: Biomedical Science at SoongSil University. • Developed a Python package for modeling the drug-like activity of chemical compounds from their structural properties in silico using machine learning methods (e.g. Genetic Algorithms). Code samples available. South Korean Ministry of Science grant recipient. • Presented at Computational Methods in Toxicology and Pharmacology (CMTPI) 2013 in Seoul, South Korea and the Asia Hub for e-Drug Discovery Symposium 2014 in Chengdu, China.

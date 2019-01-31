@@ -1,0 +1,3 @@
+Software Engineer
+AWS CloudFront, Amazon.com
+• Designed a DDOS mitigation engine that collaborates with AWS Anti-DDOS framework. • Designed and implemented a protection system for data centers to prevent them from being tipped over by flash crowd traffic. • Worked on TinyDNS to support new ip handout mechanism to identify customers by the ips we gave them. • Trained and worked in agile development environment and comfortable with fast development iteration.

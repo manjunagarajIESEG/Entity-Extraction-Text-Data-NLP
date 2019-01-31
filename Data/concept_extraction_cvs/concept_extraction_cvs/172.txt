@@ -1,0 +1,3 @@
+Research Assistant
+Advanced Technology Research Center - Stillwater, OK
+-      SolidWorks 3D modeling of metamaterial unit cells and 3D printing  -      Lattice mass-spring system modeling and finite element analysis in ABAQUS/CAE  Skills Used ABAQUS, Dynamic Analysis, MATLAB, Python

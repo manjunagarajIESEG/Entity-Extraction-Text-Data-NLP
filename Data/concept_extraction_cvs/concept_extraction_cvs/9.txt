@@ -1,0 +1,3 @@
+Project - Geo-location of microblogging users (Semantic Web Mining) 
+Arizona State University - Tempe, AZ
+Responsibilities Conceptualized and implemented a project to identify user locations based on content of their microblogs through data extraction over probable social media graphs and word semantics - Python, R

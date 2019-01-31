@@ -1,0 +1,3 @@
+Summer Intern
+Jet Propulsion Laboratory - Pasadena, CA
+NISAR Space Observatory Project    Reflector Antenna: Theoretical Pattern Analysis and Simulation in Python; Radar return statistics simulation in Python

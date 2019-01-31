@@ -1,0 +1,3 @@
+Java Web Development Internship
+Back-End - Hangzhou, CN
+NetEase, Inc, Hangzhou, China • Responsible for developing and maintaining Java web applications for enterprise users as a back-end. • Worked in a group of 10 and built a complex web platform for office automation in both web and mobile platform. • Performed evaluation of security and of efficiency and constructed optimization to the applications. • Studied the Java SpringMVC framework and relevant knowledge on XML files, oracle database, mySQL and etc extensively during the development process. • Understood the process of development of a huge complex J2EE project. • Wrote API documentations and technical specifications for the project.

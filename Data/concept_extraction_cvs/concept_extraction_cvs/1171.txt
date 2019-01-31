@@ -1,0 +1,3 @@
+Software Engineer
+Anacle Systems Pte Ltd - Singapore
+Responsible for assisting in designing and architecting leading edge database­driven applications. Took part in developing system and application prototypes, technologies and products.  Accomplishments ● Object interface designs, interactions, and implementation using C#, Android, MS SQL. ● Built modules for finance and accounting management systems. ● Built Enterprise Asset Management (EAM) System for client companies. ● Worked directly with customers/partners to gather requirements. ● Supported and maintained developed projects. ● Prepared software related documentation. ● Awarded best software engineer of the year.

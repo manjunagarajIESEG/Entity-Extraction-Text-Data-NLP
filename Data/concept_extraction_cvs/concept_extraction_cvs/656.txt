@@ -1,0 +1,3 @@
+Research Assistant
+Vanderbilt University Department of Physics and Astronomy - Nashville, TN
+Responsibilities • Design an algorithm to fit dark matter N-body simulation data to ellipsoidal halos. • Obtain half mass radii to improve upon the Navarro–Frenk–White (NFW) profile. • Incorporate existing code for reading simulation data into a modular and scalable Python class for use in further research.  Accomplishments • Developed a python application with extensive use of numpy to process and visualize dark matter halos.  Skills Used Python, Machine learning, Linear algebra

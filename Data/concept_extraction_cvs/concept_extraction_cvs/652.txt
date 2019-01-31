@@ -1,0 +1,3 @@
+Research Assistant
+Rutgers, The State University of New Jersey
+In this project, I work as an individual researcher under the supervision of my thesis advisor. I apply several data-mining tools to the NOAA watershed database of the Hudson River area. Methodologies I used in this research include factorization modeling software, GIS mapping and a bit of programming (python & R). This data-mining research reveals the major source profiles of PCBs in this area.

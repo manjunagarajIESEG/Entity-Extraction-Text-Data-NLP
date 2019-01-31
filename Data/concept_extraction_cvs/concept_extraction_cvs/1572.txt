@@ -1,0 +1,3 @@
+Software Developer
+Neoteryx - Torrance, CA
+• Developed efficient/intelligent web scraping software using Python and Selenium/wx libraries • Jumpstarted biotech startup by increasing customer database and business opportunities, fivefold and threefold • Created interactive web applications in JavaScript to be used by chemists/scientists • Leveraged web technologies  (HTML, CSS, JavaScript) for data parsing and extraction • Practiced Agile software development techniques, particularly test driven development

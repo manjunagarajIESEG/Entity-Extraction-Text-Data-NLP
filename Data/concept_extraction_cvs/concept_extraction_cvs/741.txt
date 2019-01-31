@@ -1,0 +1,3 @@
+Computational Biology Intern, PI
+Boston Children's Hospital - Boston, MA
+• Analyzed half life trends and decay constants of different genes in the human genome. • Analyzed large sets of gene expression and splicing data. • Coded in R to filter data and generate heatmaps of gene expression and protein splicing patterns found in human genes. • Coded in Python to parse through HTML, XML, and FASTA files in order to generate readable FASTA files for analyzing sequences. • Developed databases from iCLIP data using BLAST module.

@@ -1,0 +1,3 @@
+GED Tutor
+InnerChange Freedom Initiative - Fort Bend County, TX
+Responsibilities Helped to develop the math skills of incarcerated persons attempting to attain a GED.  Accomplishments Lectured and offered one on one assistance in math, science, and social studies, as well as developed a math worksheet generating computer program--written in python--intended to insure fair testing.  Skills Used The ability to effectively communicate complex and abstract ideas to others, to appreciate the needs of individuals with specific difficulties, and to address those difficulties in appropriate ways.

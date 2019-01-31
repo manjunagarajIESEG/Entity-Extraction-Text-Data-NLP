@@ -1,0 +1,3 @@
+Systems Test Engineer II
+Volcano Corporation - San Diego, CA
+Performed exploratory, regression, and formal verification testing on a range of coronary imaging and pressure measurement systems • Discovered and documented software defect that resulted in multiple product recalls • Designed test fixture to simulate cardiac cycle blood pressure and various physiological conditions • Developed test environment and scripts in Python to enable automated testing of systems

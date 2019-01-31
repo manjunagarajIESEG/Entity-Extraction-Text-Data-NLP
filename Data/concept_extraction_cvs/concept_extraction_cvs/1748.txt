@@ -1,0 +1,3 @@
+Java / Android Developer
+self - n/a
+Responsibilities •    Software development using Java in Eclipse or ItelliJ IDEA IDEs. •    Mobile software development for Android platform using Eclipse & ADT or Android Studio IDEs. •    Design and implementation of databases using SQL for storage of application data. •    Git usage for software version control and team software development.  Accomplishments •    Developed Android application FUELSTAT to help drivers monitor fuel consumption of their vehicles and calculate money spent for fueling. You can download this software at the following link: https://play.google.com/store/apps/details?id=com.varesoftware.fuelstat

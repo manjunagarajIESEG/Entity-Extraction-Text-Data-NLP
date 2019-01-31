@@ -1,0 +1,3 @@
+Senior Java Developer
+Cox Media - Dunwoody, GA
+Research and Development On Cox Media MiddleWare Using the latest technologies and best practices to implement POC (Proof of concept) to possibly enhance and modify existing Cox Media MiddleWare.  Role: • Involved in implementing various type of POC (Proof of concept)  to show and validate how various existing Cox Media MiddleWare components can be enhanced/modified to improve the performance, minimize connection leaks, and to better modularize components for easy of code management and enhancements.  Environment: Java, J2EE, REST, Spring MVC, Servlets, JDBC,  XML, HTML, AJAX, Linux, EJB, Hibernate, GIT,  JUnit,  Maven, Gradle, Eclipse 3.x, Jboss, Tomcat, Jetty, Log4J, Camel, OSGI, CXF

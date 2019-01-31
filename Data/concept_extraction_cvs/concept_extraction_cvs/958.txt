@@ -1,0 +1,3 @@
+python engineer
+Juniper Networks - San Jose, CA
+Responsibilities python automation and testing  Accomplishments     Finished the python automation tool integrating Website GUI, CGI and the Pyez library. The configuration files can be pushed to device and device information can be gathered.     Created Web page with HTML for Juniper use.     Use CGI as the interface for front-end page and back-end code.     Created python code for automation configuration on Junos devices, VMware-Esxi servers and Linux servers both Ubuntu and CentOS.     Created OpenStack tutorial including opponent, workflow, Contrail and the comparison to Cloudstack.  Skills Used python, html,linux,virtualizaion, openstack.

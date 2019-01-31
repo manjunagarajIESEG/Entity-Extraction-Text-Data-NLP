@@ -1,0 +1,3 @@
+Research Asst
+University of Hawaii - Honolulu, HI
+Developed Python code and algorithms to implement large scale quantum lattice gas simulations on supercomputers. • Witnessed the first Bose-Einstein Condensate in Hawaii using laser optics to bring atoms to quantum quantifiable state. • Explored quantum computation algorithms for highly accurate and efficient physics simulations

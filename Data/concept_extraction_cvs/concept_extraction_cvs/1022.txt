@@ -1,0 +1,3 @@
+Software Engineer
+PageFair Limited - Dublin
+Develop and maintain high-load server infrastructure for anti-adblocking solution that servers more than 5 million requests per month. •   Responsible for architecture design, analysis, prototyping and development of different server-side components •   Implemented Scrum in development team and took a role of scrum-master. Technologies: Python, Twisted, Django, Node.js, RabbitMQ, Nagios, Salt, Fabric, Amazon AWS, Jenkins

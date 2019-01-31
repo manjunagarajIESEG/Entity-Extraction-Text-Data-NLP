@@ -1,0 +1,3 @@
+Sr. Technical Consultant
+ASPA Inc
+Deploy and support Redhat/Centos/ubuntu Linux servers. Automation using chef/puppet. Deployed chef from initial deployment to manage large linux infrastructure. Migration of automation from Bladelogic to chef. Supporting variety of applications, databases and tools like Big data(hadoop), Cassandra, MongoDB, load balancers, Java apps, Ruby on Rails, Nginx, Apache, Tomcat.  Working on configuration/automation and monitoring systems like Chef/puppet/salt, Ruby, Perl, Python, shell, HPOM, Nagios, Capistrano, logstash, collectd, graphite. Experience with LVM, NFS, Samba, Mysql, DNS/DHCP, NIS/LDAP

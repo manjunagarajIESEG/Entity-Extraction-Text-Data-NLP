@@ -1,0 +1,3 @@
+Full Stack Python Developer
+G&G OutAtters in Lanham - Lanham, MD
+Developed internal and client-facing web applications to replace legacy business software for a proAtable branding and screen printing company. Par t of a small team utilizing an Agile workHow and modern technologies such as Mongodb and Flask python web framework. Directed the development of a robust browser dashboard widget platform written in javascript.

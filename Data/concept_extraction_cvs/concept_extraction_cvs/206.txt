@@ -1,0 +1,3 @@
+Stage sur les attaques par analyse de la sensibilité aux fautes injectées
+PYTHON
+par perturbation fréquentielle à Télécom ParisTech (6 mois). Réalisation des attaques FSA pour retrouver la clé d'un algorithme de chiffrement comme l'AES. Développement en PYTHON.

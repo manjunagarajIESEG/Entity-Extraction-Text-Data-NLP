@@ -1,0 +1,3 @@
+Product Specialist; Lead Tester; Scrum Master; Python Developer
+Esri - Redlands, CA
+Responsibilities Design and maintain Python tools for the Defense Mapping Solution.  Maintain databases and product files based on customer specifications and feedback. Lead the testing process for the solution. Design, create and maintain automTed tests for the solution. Lead the Scrum process for the team. Create and maintain the Esri Defense Mapping for Server product.  Skills Used GIS, Python

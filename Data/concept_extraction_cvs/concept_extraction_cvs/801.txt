@@ -1,0 +1,3 @@
+Lead Content Developer
+Tech Rocket - Burbank, CA
+Developed online educational coding content in multiple topics including Python, JavaScript, C++, iOS, and more. Created unit test using multiple unit testing frameworks such as JUnit, Mocha, unittest (Python), and RSpec. Developed multiple projects for beginners to teach the fundamentals of programming. Developed technical scripts with an emphasis on communication with a predominantly youth audience. Managed an online community through the use of forums. Used a Content Management System (CMS) to develop courses and publish content.

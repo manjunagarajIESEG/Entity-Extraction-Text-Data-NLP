@@ -1,0 +1,3 @@
+Software/Back-end Intern
+UC Berkeley
+Wrote a C program which compresses large signal files by removing redundancies Developed a scalable back-end system for large scale signal analysis which increased analysis speed by 511% through parallelizing processes using Python, Cloud Computing and Amazon Web Services Created a poster and PowerPoint to present for researchers at the UC Berkeley Space Sciences Lab https://setisvn.ssl.berkeley.edu/svn/seti_science/nebula/

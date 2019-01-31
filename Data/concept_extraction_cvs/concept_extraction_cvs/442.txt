@@ -1,0 +1,3 @@
+Computer Security Engineer
+RING0 TECHNOLOGIES - Arlington, VA
+- Collaborated in a team environment developing software using Python - Troubleshot technical issues on Linux desktops and Linux servers - Attended daily scrums; tracked issues using JIRA, maintained software in a GIT repository - Developed Linux virtual machines as part of software build and software tests - Tested software using PyTest to flush out software bugs and to test edge cases

@@ -1,0 +1,3 @@
+Graduate Teaching Assistant - Python Programming and Computer Programming for GIS
+Intro to Remote Sensing, Clark University - Worcester, MA
+Tutor students in the graduate level courses of "Python Programming" and "Computer Programming in GIS" •    Assist course related projects, group works and problem sets •    Provide supports for implementing python script into ArcMap through the use of Arcpy to students •    Grade assignments, comment on projects and solve any problem from students

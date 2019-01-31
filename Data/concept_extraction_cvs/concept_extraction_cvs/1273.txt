@@ -1,0 +1,3 @@
+Adjunct Instructor
+ACADEMIC INVOLVEMENTS
+Working as an instructor in the Department of Computer science, teaching Structured Programming 2 using C++, Introduction to Computer Science using Python.

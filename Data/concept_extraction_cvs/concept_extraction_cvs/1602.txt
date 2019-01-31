@@ -1,0 +1,3 @@
+Travelling Salesman Problem
+Python, NLTK
+Fall '15   • Developed a model which reduces a text document or a larger corpus of multiple documents into a short set of words or paragraph that conveys the main meaning of the text using key phrase extraction and document summarization algorithms. Advanced Data Structures and Algorithms: Travelling Salesman Problem    Python           Fall '14 • Implemented a heuristic method of travelling salesman problem using Chirstofides' algorithm. Found an Euler tour in a given problem using MST algorithm, max/min weighted matching and Floyd Warshall's all pairs shortest path algorithm. Machine Learning: Multinomial Classifier for Web Pages Classification    Python, Java, Octave

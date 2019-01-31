@@ -1,0 +1,3 @@
+Technical Lead (Python and BigData)
+Tavant India Private Limited
+Project Facebook SocialReader and Trove.com. WaPo Facebook SocialReader and trove.com are already established products. Trove is a personalized news engine that lets users customize the way they view the Web's most intriguing stories. This is done on basis of Facebook likes and interests and other weightage criteria's.

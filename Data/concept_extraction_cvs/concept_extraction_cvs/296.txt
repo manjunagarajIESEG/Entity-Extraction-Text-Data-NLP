@@ -1,0 +1,3 @@
+Web Master - Young Shakespeare Players
+Young Shakespeare Players - Madison, WI
+∙ Develop and maintain MySQL database for online bidding system. ∙ Develop and maintain Web application written in Javascript, PHP, and CSS. ∙ Develop and maintain utilities written in Bash script, Vim script and regular expressions, Python, Ruby, Javascript, and PHP. Technologies Used: HTML, Python, Ruby, PHP, httpd, ftp, telnet, regular expressions, Vim editor, Apache, htaccess, Linux 14.04 with Openbox, Javascript, Bash script, XML, SQL, MS Word with macros, MS Excel with macros, LibreOffice Writer and Calc with macros

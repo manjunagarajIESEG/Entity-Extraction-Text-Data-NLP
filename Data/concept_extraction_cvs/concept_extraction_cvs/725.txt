@@ -1,0 +1,3 @@
+Undergraduate Researcher
+Duke Mathematics Department - Durham, NC
+Used Python to price derivatives under the Merton-Jump diffusion model using EuroStoxx CSV data using Monte- Carlo simulation

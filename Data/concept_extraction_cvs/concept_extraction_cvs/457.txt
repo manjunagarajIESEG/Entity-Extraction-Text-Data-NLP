@@ -1,0 +1,3 @@
+Sr. Engineer
+Aiscent Technology - San Diego, CA
+• Designed GUI which includes menu, tool bar, file loading, drawing display, data input, machine message and working status etc by VC# • Developed webpage to get service report and machine data from the database by C#/ASP.net/MVC/SQL/Javascript • Programmed image processing code and algorithm for noise suppression, pattern recognition and alignment etc by VC#. • Developed software for laser imaging machine by VC++/MFC, which can control UV laser, optical projector pattern and XY moving stages etc. • On-site technical support and trouble-shooting software/hardware problems

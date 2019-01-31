@@ -1,0 +1,3 @@
+Electrical Engineer
+Stanley Black & Decker - Marietta, GA
+Responsibilities − Performed testing sequences and acquired an understanding of the quality assurance requirement for industrial RFID & antenna system. − Optimized, analyzed and improved performance of RFID system per client specification, including antenna performance and radio frequency interference. − Measured and analyzed test data to improve RF system performance with Python automated code. − Enhanced verification efficiency and reduced testing time by using automated code. − Conducted RFID research for ideating unprecedented innovations.

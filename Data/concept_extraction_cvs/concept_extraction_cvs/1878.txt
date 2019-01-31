@@ -1,0 +1,3 @@
+Stage développeur Python
+MHCOMM - Toulouse (31)
+Développement dʼapplication spécifique santé en Python, mise en place dʼun gestionnaire de parc informatique (installation du serveur, configuration système, mise en place de la solution), développement PHP de modules pour GLPI, écriture de tests unitaires en Python et tests dʼapplication web PHP.

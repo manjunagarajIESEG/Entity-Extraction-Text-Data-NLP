@@ -1,0 +1,3 @@
+Research Assistant (Full Time)
+Bowie State University - Bowie, MD
+• Used Python programming language to model behaviors in a virtual reality environment. • Simulated crowd behaviors during an emergency evacuation with the Vizard VR toolkit. • Researched technical needs of emergency first responders. • Developed an Android phone application for emergency first responders using Eclipse.

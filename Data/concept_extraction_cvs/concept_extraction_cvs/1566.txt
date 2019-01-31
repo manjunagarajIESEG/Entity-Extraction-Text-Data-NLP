@@ -1,0 +1,3 @@
+Software Engineer
+You-Gene - New York, NY
+Architect asynchronous deployable software, which creates a BaseSpace to Google Cloud data framework using BaseSpace and Google RESTful API's, Python, OAuth2, MySQL, PHP and Unix. • Creating a new front-end user interface with JavaScript, HTML, CSS

@@ -1,0 +1,3 @@
+Software Development Engineer in Test on DXL Team
+McAfee / Intel Security - Hillsboro, OR
+Data eXchange Layer / DXL project • Worked with a remote team to provide early system integration testing feedback on the Yarara framework • Performed risk based analysis to prioritize test automation needs based upon stakeholders' requirements • Automated user acceptance testing  using  Selenium, Gherkin (BDD format), and DXL's REST API • Aided in the development of the team's test automation process Technologies/Languages used: Bugzilla, VersionOne, Java, Python, SQL, PowerShell, PSExec, VSphere program & api, Selenium and Gherkin

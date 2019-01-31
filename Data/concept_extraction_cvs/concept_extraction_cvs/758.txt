@@ -1,0 +1,3 @@
+Senior Associate
+TalentBurst/Sapient - Arlington, VA
+Responsibilities GIS Subject Matter Expert, made recommendations to structure ArcSDE Database (SQL Server), educated staff outside of GIS in GIS Best Practices. Developed Solr Script in Python to  to handle Big Data response to ArcServer Web Service. Participated in AGILE Development Environment using JIRA Workflow Software  Accomplishments Started and Developed Python script to Access Solr Data System for Big Data  Skills Used ArcGIS Python Solr SDE Architect AGILE Development

@@ -1,0 +1,3 @@
+Statistical Business Analyst
+Zappos.com, Inc - Las Vegas, NV
+I use data analysis tools to answer questions and track tests. I am also charged with managing market-focused survey research projects end-to-end and advising other employees on survey best practices. -    Used Shiny to build dashboards to track geographic tests and customer acquisition. -    Built automated reporting scripts in Python. -    Designed and executed surveys to analyze Zappos purchase funnel metrics in relation to competitors. -    Built and validated customer market segmentation model used company-wide.

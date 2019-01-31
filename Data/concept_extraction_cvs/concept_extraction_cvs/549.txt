@@ -1,0 +1,3 @@
+Lead Backend Developer
+STIRPLATE - New York, NY
+API design and development in Python ● Microservice architecture using RabbitMQ

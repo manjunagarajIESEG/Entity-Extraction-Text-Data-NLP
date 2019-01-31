@@ -1,0 +1,3 @@
+Software Engineer
+Minerva Engineering - Hanover, MD
+Responsibilities Supported the Center for Assured Software (CAS) at the National Security Agency (NSA).   •    Tested malicious code analysis tools, and made purchase recommendations. •    Wrote Python scripts as part of malicious code analysis tool tests. •    Used Virtual Box for testing environment. •    Contributed to the CAS Malicious Features List (MFL) document containing descriptions of malware characteristics and behaviors.

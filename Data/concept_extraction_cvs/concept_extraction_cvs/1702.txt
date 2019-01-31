@@ -1,0 +1,3 @@
+Web Application Developer
+Akorbi, On contract with Google - Sunnyvale, CA
+Responsibilities * Full stack development to support the Marketing Apps team at Google (Python and Angular JS) * Designing scalable backend systems using Google App Engine as core development framework * Modernize existing web applications using Angular.js * Analysis of tradeoffs between strong and eventual consistency using the GAE NoSQL Datastore * Training in best practices to protect against XSS injection and CSRF / XSRF attacks * Implementing effective client authentication using OAuth2.0 and service accounts  Skills Used Google App Engine, Angular JS, Python, HTML5, CSS, Gulp, BigQuery

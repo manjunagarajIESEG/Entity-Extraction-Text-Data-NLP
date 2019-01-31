@@ -1,0 +1,3 @@
+Software QA Engineer II
+Sandisk - Salt Lake City, UT
+•    Created, updated, and debugged Python and Bash scripts used in automated and manual QA testing of hardware driver •    Utilized hg mercurial software and git for version control •    Maintained both physical and virtual machines/networks used in QA testing •    Performed triage of failures at a hardware, software, and network level •    Became in-house expert of Windows HCK certification process and testing •    Employed various provisioning systems to deploy and maintain OS builds and images, including puppet and PXE •    Automated test reporting to multiple databases including Spira, Jenkins and Testrail  •    Worked with development team directly to resolve high priority issues

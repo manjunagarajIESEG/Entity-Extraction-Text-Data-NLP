@@ -1,0 +1,3 @@
+Release Engineer Intern
+Ericsson - Boston, MA
+Responsibilities Wrote automation tools   Accomplishments Upgraded automation tracking dashboard  Skills Used Elixir, Python, Bash, Ruby on Rails

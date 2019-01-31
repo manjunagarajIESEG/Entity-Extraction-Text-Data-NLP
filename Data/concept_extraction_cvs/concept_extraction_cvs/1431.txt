@@ -1,0 +1,3 @@
+Technical Sourcer on Production Engineering - Full-time
+Facebook, NYC - Menlo Park, CA
+As a Tech Recruiter for Facebook's Production Engineering (PE) team I focus on finding talent for our back-end services like our Hadoop data warehouses, front-end services like Chat and Newsfeed, infrastructure components like our Memcache infrastructure, and more. Candidates are expert Linux / Unix Engineers as well as Python / Perl / Java / C++ Developers. - 9 months in CA HQ, then transferred to the NYC office working remotely for the same team.

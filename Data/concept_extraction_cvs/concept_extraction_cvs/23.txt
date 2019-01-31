@@ -1,0 +1,3 @@
+Research Data Analyst
+UNIVERSITY OF WASHINGTON - Seattle, WA
+• Collaborated with UW School of Nursing's Public Health Activities and Services Tracking (PHAST) team • Created the Online Community Preventive Services Dashboard for 11 states in the United States • Utilized R to combine multi-state local level datasets into a uniform representation with all PHAST measures • Leveraged Python's Numpy and Pandas packages to rank data based on risk factors for Local Health Departments • Built the interactive dashboard by visualizing the key performance indicators (KPIs) using Tableau

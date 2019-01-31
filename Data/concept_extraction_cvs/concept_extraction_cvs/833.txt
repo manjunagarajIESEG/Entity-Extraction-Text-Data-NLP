@@ -1,0 +1,3 @@
+Software QA
+Contractor - Cupertino, CA
+Responsibilities Create bug and UI/UX reports. Gather test data and annotate images. Write Python scripts for workflow automation.

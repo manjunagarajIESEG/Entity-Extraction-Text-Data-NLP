@@ -1,0 +1,3 @@
+web developer
+Lbadvisor, Python - 北京市
+Duties: ●     developing and maintaining the front end functionality of: Programming Language websites Core: Python ●     writing cross-browser CSS & Javascript ●     deploying and maintaining server-side web applications      Other: Javascript, SQL, Ruby ●     writing unit tests for given programs  Projects: : Git, ssh, nginx Tools ●     Demand-side platform using Tornado and Angularjs  : MacVim, Text Editor

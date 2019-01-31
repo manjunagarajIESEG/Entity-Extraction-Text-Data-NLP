@@ -1,0 +1,3 @@
+Java Developer
+Innovatis Tech - Hoboken, NJ
+• Involved in analyzing the requirements, modeling & designing the features. • Used Spring MVC to develop the application & control the operation flows. • Developed REST Web services using CXF, response is sent in JSON or XML formats based on the use cases. • Developed Android application using Android Studio, Programed with Java, SQLite

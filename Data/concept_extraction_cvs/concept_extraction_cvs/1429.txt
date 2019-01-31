@@ -1,0 +1,3 @@
+Team Leader, Python/Django Developer
+CareDay - The Iron Yard - Durham, NC
+Technologies Used: Python, Django, JavaScript, HTML5, CSS3, PostgreSQL, Heroku, Git, PyCharm • Helped author a Django web application that allows childcare workers to record daily events like naps, meals, diapering and other activities with the goal of eliminating paper use. • Used Django back-end with Django templates and JavaScript to manage form-heavy app • Guided a team of three developers by delegating tasks and maintaining constructive workflow

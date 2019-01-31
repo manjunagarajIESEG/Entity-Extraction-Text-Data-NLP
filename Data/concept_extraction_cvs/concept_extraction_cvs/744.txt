@@ -1,0 +1,3 @@
+Environmental Science Lab Intern
+Michigan Tech Research Institute - Ann Arbor, MI
+Responsibilities Test, debug, and suggest improvements for Android crop condition data collection app Use Python scripting for web scraping to determine test sites in Detroit before distributing overseas Verified over 50 sites using Google Earth imagery analysis and Twitter/Facebook data mining

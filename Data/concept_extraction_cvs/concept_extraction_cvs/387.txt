@@ -1,0 +1,3 @@
+Software Engineer
+J5 Systems - San Diego, CA
+Modified COTS software to enable users to register for their own accounts and reset passwords without administrator assistance. Used JSP, XML, HTML, Javascript, CSS, JQuery, and MsSQL to complete tasks assigned. Fixed security risks in order to comply with Department of Defense security standards. Worked with System Administrators to upgrade application server to Server2008 and Java 1.7.

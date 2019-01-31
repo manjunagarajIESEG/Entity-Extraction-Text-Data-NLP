@@ -1,0 +1,3 @@
+Application Programmer at the Miller Research Lab
+Institute of Genetic Medicine, Miller Research Lab
+November 2015- Present Currently working as an Application Programmer at the Miller Research Lab. Developing web service for managing genomic data. Language:Java, Python, MySql OS: Unix/Linux.

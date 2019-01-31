@@ -1,0 +1,3 @@
+Software Developer
+China Telecom - 北京市
+• Developed Java programs to perform Part of Speech (POS) Tagging for Natural Language Processing (NLP). • Wrote Python scripts to perform HTML parsing and to convert it to XML for a Q&A NLP system. • Enhanced a Web Ontology Language (OWL) database using Protégé and wrote Java programs to query the OWL database using SPARQL. • Worked on a Deep Learning project using Back Propagation and other AI algorithms

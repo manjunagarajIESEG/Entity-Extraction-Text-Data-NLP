@@ -1,0 +1,3 @@
+Linux Support Engineer
+Webfaction - London, OH
+Provide service and support for multiple web frameworks and technologies in a 99% LAMP Environment:  Assist customers in debugging applications full-stack: Django, PHP, Python, Ruby on Rails, Ect. As well as assisting customers with administratration account work: Upgrades, downgrades, additions to service, backups, malware removal.  Maintain, and Troubleshooting Server, Firewall and DNS issues: for 60,000+ users over  400 + CentOs servers

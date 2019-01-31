@@ -1,0 +1,3 @@
+JavaScript Web Programmer Intern
+US Department of Energy - Pittsburgh, PA
+Responsibilities Convert a Java application into a JavaScript Web Application  Accomplishments Able to convert their Java based web application that normally ran in the browser to a full JavaScript application.  The Java support in the browser was being removed, thus the company needed to convert to JavaScript to continue funcationality.  Skills Used JavaScript, Java, CSS, HTML, Presentation skills for the technical forum at the end of the fellowship.  http://energy.gov/fe/about-us/students-and-teachers/mickey-leland-energy-fellowship

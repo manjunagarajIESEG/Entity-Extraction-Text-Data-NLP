@@ -1,0 +1,3 @@
+Part-time
+Osytos - Rennes (35)
+Creation of a tool that synchronizes a local linux le to Google Drive, in both directions, in python, thanks to the Google API.  Learning AngularJs, Flask and using JsTree to do a file web browser.

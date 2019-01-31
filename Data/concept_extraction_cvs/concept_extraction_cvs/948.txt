@@ -1,0 +1,3 @@
+Intern QA Analyst 
+Credacious.com - New York, NY
+This company aims to be the next source of validation for credible content. Here I worked as an intern and was the sole QA analyst and programmed Selenium scripts in Javascript to validate functionality of the website, testing the web app and also the browser extensions we had. The company used continuous integration in its build process of which I also helped with, using "Source Tree" as their versioning system and "Docker" as their production deployment environment.    Skills Used  Selenium, Protractor, Jasmine, PhantomJS, Javascript and Docker.

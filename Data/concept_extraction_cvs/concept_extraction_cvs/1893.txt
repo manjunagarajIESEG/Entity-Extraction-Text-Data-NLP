@@ -1,0 +1,3 @@
+Postdoctoral Fellow
+University of Minnesota - Minneapolis, MN
+Responsibilities Researching advanced machine learning models to predict unobserved links from known links in online social networks.  Deploying models in "Epinions'' networks to ascertain whether one user trust or distrust another.  Developing trust network based recommendation algorithms to enhance recommendation accuracy.  Skills Used Python, Matlab, R, Microsoft office, Latex.

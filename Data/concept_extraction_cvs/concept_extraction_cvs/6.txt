@@ -1,0 +1,3 @@
+Python Developer
+Cisco Systems - San Jose, CA
+Worked with internal communication networks group.  Responsibilities: • Involved with integration development testing. • Automated test vector creation for third party licensing generators to verify their responses to • positive and negative vectors. • The python test script was then integrated with actual internal services tools. • Performed pytest and unit test on them. Extracted XML code from script for testing. • Good knowledge of integrating python with Web development tools and Web Services. • Understanding of SSH, SCP, RSYNC, SFTP like file transfer protocols  Environment: Python, XML, HTML, SQL, C* database

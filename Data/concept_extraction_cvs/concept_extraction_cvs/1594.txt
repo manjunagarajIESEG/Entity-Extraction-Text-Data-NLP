@@ -1,0 +1,3 @@
+Research Intern
+SMaPP Lab,NYU
+Engineering an open source toolkit for social media analytics which helps political & psychology professors and researchers.  - Building REST services for running Bandit Arm Experiment to maximize NGOs funding. - Constructing comprehensive & structured data sets of social media messages that are suited to machine learning method.  - Technology Stack: Python, NodeJs, Hive

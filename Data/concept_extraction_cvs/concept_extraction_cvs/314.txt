@@ -1,0 +1,3 @@
+Java Apprentice
+The Software Guild - Akron, OH
+Design, write, and ship programs independently and as part of a programming pair using Java EE language fundamentals, class modeling, exception handling, unit testing, n­tier application structure, lambdas, Maven build tool. •   Web Development Fundamentals  -  Spring MVC, Spring AOP, HTML, CSS, JavaScript, jQuery, RESTful interfaces, Ajax. •   Database Fundamentals  -  MySQL, SQL query construction, table creation, normalization, Spring JDBC, Hibernate •   Exposure to Project Management Fundamentals  -  wire­framing, user stories, work estimation, and iterative development

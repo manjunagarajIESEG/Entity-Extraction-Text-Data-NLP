@@ -1,0 +1,3 @@
+Engineer
+BOA Marine Services - Houston, TX
+Projects • Developed Python code for the input data for commercial software to design complex structure. • Developed VB scripting code for statistics analysis in Excel. • Developed and executed MATLAB code for statistics analysis and generate plotting. • Developed JavaScript code for graphic user interface software input data and compared with the colleague's manual input data. Self-interested Study • Developed Python code for interactive game (Blackjack, Asteroids, Tic-Tac-Toe)

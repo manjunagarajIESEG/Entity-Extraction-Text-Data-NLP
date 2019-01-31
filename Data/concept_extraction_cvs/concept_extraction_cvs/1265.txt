@@ -1,0 +1,3 @@
+Java Consultant
+Mindteck Pte Ltd - Singapore
+•   Worked as a Java developer on contract for HP. •   Part of enhancements for an internal project, ramped up on Sencha extjs, javascripting and css •   Used technologies - EJB, Struts, hibernate, Spring IOC, JSP/Servlets & JDBC

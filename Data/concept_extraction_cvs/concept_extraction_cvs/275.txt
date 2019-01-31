@@ -1,0 +1,3 @@
+Data Analysis Intern
+M.I.N.D. Labs - Syracuse, NY
+Responsibilities Performed data and statistical analysis using different programs including Weka and R for ongoing research projects regarding new media technology, augmented reality, and human computer interaction. Selected to support natural language processing study; used Python NLP toolkit and created ratio (per 1,000 words) to effectively analyze and rank language used to understand the level of trust among study participants.  Skills Used R, Python, Weka

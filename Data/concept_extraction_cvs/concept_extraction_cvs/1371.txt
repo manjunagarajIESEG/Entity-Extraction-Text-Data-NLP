@@ -1,0 +1,3 @@
+Research Assistant in Computational Astrophysics
+Farmingdale State College
+Investigate magnetic reconnection in plasma using Linux OS and Python

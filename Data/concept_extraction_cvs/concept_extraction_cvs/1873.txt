@@ -1,0 +1,3 @@
+Research Assistant
+University of Central Florida - Orlando, FL
+Apply statistics, data mining and machine learning in Bioinformatics projects •    Program with Java and Python to process the data •    Analyze large scale NGS data efficiently by using Computing Cluster •    Apply statistical methods, machine learning technique in the projects •    Build web-server for projects by using HTML/CSS •    Develop both command line and GUI version of software (Java)

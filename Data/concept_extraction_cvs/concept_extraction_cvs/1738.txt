@@ -1,0 +1,3 @@
+INTERN CLIENT SSD PRODUCT ENGINEER
+Micron Technology Inc
+• Projects: Workload Log Parser for future drive, PMIC MSP 430 code validation • Worked with Mechanical Stress Test (MST) and Highly Accelerated Stress Test (HAST) Drive Failures • Debugged High Bit Error Rate (HBER) in NANDs for future drives • Functionality verification of Adaptive Voltage Scaling (AVS) module of Dean Controller • Used SCPI commands with Python to automate measurement instruments via scripts • System level testing and debugging on Solid State Drive Boards • SSD Controller characterization and verification

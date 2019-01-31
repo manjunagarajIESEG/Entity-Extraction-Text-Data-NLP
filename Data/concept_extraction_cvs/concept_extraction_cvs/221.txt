@@ -1,0 +1,3 @@
+Software Development Consultant
+Self Opportunity - Dublin, CA
+Consult with companies in software development projects, including design, architecture, and development of complex systems, APIs; leverage expertise in Java, Python, C/C++, and Cloud based technologies. Recent projects: *   Wrote Python server-side code for Cloud-based platform of early-stage startup providing formula to test stock market quants based on historical market data.

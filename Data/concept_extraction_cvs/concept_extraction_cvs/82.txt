@@ -1,0 +1,3 @@
+Software Developer Intern
+Smooth-On, Inc - Easton, PA
+• Working with the Amazon Order API to automate the order entering process. • Learning to work with Visual FoxPro and C# to work with the old IT system.  PROJECTS Instagram Analytics Online Tool (Personal) • Instagram API • Web app built in Python with Django framework  Student Job Posting App (Personal) • Building a job ad posting platform in Python with the Django framework

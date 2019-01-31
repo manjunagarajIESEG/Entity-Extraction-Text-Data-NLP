@@ -1,0 +1,3 @@
+Software Engineer
+ManTech - Vienna, VA
+Skills: C / C++, C#, Python, embedded • Developing a parser for multiple xml inputs and merging the data into a single output. • Created an algorithm to extract information from Word documents and store the information in a csv format. • Designed and implemented a program to parse binary files into records.

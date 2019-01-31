@@ -1,0 +1,3 @@
+Senior Design Project
+Orpheus Brewing
+-. Created an inventory tracking tool for Orpheus Brewing using excel spreadsheet and python programming language  -. Optimized beer production schedule for 6 weeks planning horizon using PuLP by CoinOR

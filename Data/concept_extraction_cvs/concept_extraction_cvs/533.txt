@@ -1,0 +1,3 @@
+Software Engineer II
+Microsoft - Redmond, WA
+• Plan and deploy next-generation IP WAN network for Microsoft Azure. • Create and develop systems designs for network lifecycle automation using Python, Perl, and C#.

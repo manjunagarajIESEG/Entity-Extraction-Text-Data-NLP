@@ -1,0 +1,3 @@
+Principal
+Halloc Software Development - Fort Lauderdale, FL
+Real-time computer vision applications, using OpenCV and SimpleCV in C/C++, Python, and Java. - Tesseract OCR Engine integration to different Unix platforms. - Research on OpenSSL applications between Android Smart Phones, and Unix servers. - Debian Linux Kernel and Drivers (Redhat, CentoS, Ubuntu) maintenance

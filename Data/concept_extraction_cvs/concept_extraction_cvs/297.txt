@@ -1,0 +1,3 @@
+Web Developer
+Independent Contractor - Austin, TX
+•    Meet with customer - refine web site requirements, features; agree on basic solution and development time frame •    Typical sites are PHP or Python as in Drupal, Joomla, WordPress, Django, DokuWiki, CodeIgniter, etc. •    Perform web development according to customer requirements •    Perform automated testing of customer website according to requirements •    Automate various routine tasks using BASH shell scripting

@@ -1,0 +1,3 @@
+Test Engineer Intern
+Prodea Systems - Richardson, TX
+Responsibilities •    •    Responsible for an individual project for developing Python scripts and UI tests in Java using the Android SDK’s UIAutomator for automating mobile application testing. •    Experience in Android and iOS application testing; developing and executing test cases; performing system, unit and regression testing of the applications. Responsible for capturing the bugs in the JIRA tool and analyzing logs.

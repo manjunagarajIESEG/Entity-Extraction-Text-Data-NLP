@@ -1,0 +1,3 @@
+Software Developer Intern
+Industrial Metallics India - Mumbai, Maharashtra
+Responsibilities Developed a software for London Metal Exchange (LME) data analysis in Java, Developed data visualizations using D3.js, Web scraping of LME data using Python's BeautifulSoup library.  Skills Used Python, Java, HTML, CSS, JavaScript, D3.js, MySQL

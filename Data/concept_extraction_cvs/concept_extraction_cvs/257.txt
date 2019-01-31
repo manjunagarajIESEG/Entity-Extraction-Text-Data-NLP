@@ -1,0 +1,3 @@
+Implementator Engineer
+AppCard (www.appcard.com) - New York, NY
+The Implementation team converts sales into active AppCard, Inc. clients by integrating our   solutions with their point of sale system.   Monitoring, Troubleshooting, Installations of POS.  Provisioning POS,  capture devices by “Jenkins”.  Checking data by Python script.  Updating, programing Capture devices with Python.  Tracking all ticket details by the “Sales force” case and resolving.  Open source Active directory communication and look-ups using TCP/IP  Configuring Cisco IP phones and Polycom IP phones.

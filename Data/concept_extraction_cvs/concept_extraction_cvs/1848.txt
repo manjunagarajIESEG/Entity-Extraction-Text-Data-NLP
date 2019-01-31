@@ -1,0 +1,3 @@
+Data Analyst Intern
+Integra Finance & Economic Consulting LLC - Austin, TX
+Responsibilities • Investigated Texas Medicare/Medicaid records and explored various types of medicare fraud in PostgreSQL and  R • Developed clustering and outlier detection algorithms to detect suspicious hospitals committing medicare fraud in R  Skills Used PostgreSQL, R, Python, data analysis

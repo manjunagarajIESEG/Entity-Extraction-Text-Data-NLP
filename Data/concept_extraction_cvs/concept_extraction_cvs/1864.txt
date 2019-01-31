@@ -1,0 +1,3 @@
+Avril- Stage Fin d'étude Master 2
+Matchable - Talence (33)
+Matchable: Startup proposant un service de prédiction dans le monde du jeux vidéos. Objectif principal: Migration d'une infrastructure vers une solution cloud Amazon. Cloud Computing, AWS, Python, RabbitMQ, MongoDB, MySQL. Objectifs secondaires: Mise en place d'une intégration continue, Jenkins. Optimisation de l'infrastructure et script Python.

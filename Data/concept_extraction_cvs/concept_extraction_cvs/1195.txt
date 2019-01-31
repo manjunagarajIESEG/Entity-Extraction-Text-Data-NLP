@@ -1,0 +1,3 @@
+Software Development Engineer in Test II
+Akamai Technologies India
+Developed a Media Analytics Plugin in JavaScript for NetGem Set top boxes to record the quality of experience of end users and transmit logs to Akamai Servers. • Developed a framework for testing "Transcoding REST APIs" using Python and Mongo db. • Developed an automation framework for portal testing using Java, Selenium, Log4j, ANT and google XSLT for reporting. • Developed a simulated video player for media analytics plugin testing using JavaScript.

@@ -1,0 +1,3 @@
+Project Leader
+Columbia University - New York, NY
+Responsibilities LDA for NIPS Dataset  Accomplishments Completed text preprocessing on user comments in Yelp dataset Implemented NMF and PTF for LDA in Matlab and in Python for NIPS dataset  Skills Used Python, Matlab

@@ -1,0 +1,3 @@
+Network Administrator
+CUGI
+Eboard Member • Setup and maintain the network during CUGI events. • Created a CentOs server to connect all the switches in the room, connect a game server to host games and collect the network traffic for OIT. • Uses CentOs and Bash.

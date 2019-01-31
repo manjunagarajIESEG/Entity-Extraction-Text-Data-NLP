@@ -1,0 +1,3 @@
+Senior Software Engineer
+Pure Storage - Mountain View, CA
+Responsibilities Tasked with designing, constructing and maintaining Pure Storage’s build environment, including Jenkins development, groovy scripting, python work.   Accomplishments • Contributed to increased revenue by accelerating Developer’s Build Cycle. • Brought test bed validation software – health checks – to release deployment • Created system monitoring tools to assure continual health of build components

@@ -1,0 +1,3 @@
+Post-Si Validation Intern
+Applied Micro
+• Engineering intern associated with the post silicon validation team. • Designed and developed i/o checker to assist automated long duration stress tests using Python • Using PerForce tool for version managment

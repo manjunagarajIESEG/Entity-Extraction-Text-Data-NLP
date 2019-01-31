@@ -1,0 +1,3 @@
+Python Programmer 
+Boundary Solutions  - Mill Valley, CA
+Responsibilities Write utilities to transform geographic data(shapfiles and gdb database) for ArcGIS. Also worked with commandline utils, org2org, shp2pgsql and python packages Arcpy, Geopanda, Shapefile and dbf  Accomplishments Built utils to streamline production of content for their realty data.  Skills Used Python, Arcpy, ArcGIS, Shapefile, dbf and gdb data.

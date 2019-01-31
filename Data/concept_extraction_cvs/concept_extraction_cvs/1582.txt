@@ -1,0 +1,3 @@
+Software Engineer
+Cisco Systems - Bangalore, Karnataka
+EAD without any restriction 1. Wrote a Java web application to automate the configuration of Cisco IP     SKILLS phones over large customer deployments, consisting of several thousand phones.        Java, Javascript, PHP, Python 2. Designed and implemented algorithms to dynamically perform                 HTML, CSS switchover of voice and data traffic in case of traffic congestion in the     NodeJS, AngularJS customer satellite station network. MySql, MongoDB RabbitMQ

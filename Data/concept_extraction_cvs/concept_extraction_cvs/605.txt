@@ -1,0 +1,3 @@
+Statistical Programmer
+Independent Contractor - Phoenix, AZ
+Developed scripts for data “munging,” statistical testing, and data visualization using the R programming language, various R libraries including spatstat, and the RStudio development environment. Advised student researchers on appropriate statistical tests for the analysis of geospatial data. Provided technical and architectural expertise in planning the implementation of a product recommendation engine using machine learning and its integration into the client's current operational web services. Prototyped engine using Python 2.7, SciPy, and NumPy. Developed a customer-facing website using Python Django 1.9.1, jQuery, and MySQL running on an Apache server.

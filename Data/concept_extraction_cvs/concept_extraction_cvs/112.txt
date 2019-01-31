@@ -1,0 +1,3 @@
+Senior Design
+Cloud- Controlled Quadcopter
+• Setup database for airside updates and ground side reservations • Setup flight simulation, pre-arm checks for the Quadcopter, using Python

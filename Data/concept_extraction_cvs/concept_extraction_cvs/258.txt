@@ -1,0 +1,3 @@
+Java web developer
+SciQuest - Morrisville, NC
+Aug 6, 2014 - Present I presently work on a J2EE web application that uses an agile development methodology. Presently work on fixing existing defects and implementing new functionality using the latest Java web technologies. The application is software as a service application. (SAAS) presently use JIRA to track defects and implement new user stories, Eclipse Juno for Java development work, and CVS for source control.

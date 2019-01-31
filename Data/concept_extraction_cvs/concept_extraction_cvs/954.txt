@@ -1,0 +1,3 @@
+Research Assistant
+High Performance Database Research Center
+Design and Implement "Time Lag Mining" System.(Python) 1. Extract event and time lag from log sequences using RE and Log Tree cluster algorithm 2. Implement STScan algorithm to mine time lags of hidden temporal dependencies from sequential logs 3. The system is used for discovering evolving trends of the coming events and predicting the future behavior, like system management, stock market analysis, climate monitoring. ● Design and Implement "Terrafly" Map using Openlayers. (Javascript) ● Design and Implement high availability structure for "Terrafly" map service

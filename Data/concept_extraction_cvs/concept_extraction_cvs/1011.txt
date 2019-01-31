@@ -1,0 +1,3 @@
+Software Engineer in Testing, Framework
+team at Motorola
+Responsible for Framework Automation test case design ● Design and maintain 200+ automation cases using python script ● Responsible for KPI script using xml tool ● Keep track of issues

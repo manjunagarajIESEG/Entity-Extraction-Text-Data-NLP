@@ -1,0 +1,3 @@
+Python Script Developer
+TUATARA
+Oversee IT operations of converting raw publisher content data using XML/RegEx/Python scripts from the publishers to the brand-specific format. • Developed corporate dashboard to track the book conversion process. • Maintain and develop Python scripts, responsible for conversion of book raw data from XML; documented business processes and maintained wiki knowledge base; trained users. • Manage MySQL content database, security and role management, apply updates, and maintain schema and documentation. • Developed and documented IT operational processes on Confluence Wiki.

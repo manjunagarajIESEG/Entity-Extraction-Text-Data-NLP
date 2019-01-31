@@ -1,0 +1,3 @@
+Research Assistant
+UCSF Sabes Lab - San Francisco, CA
+Responsibilities I was responsible for convert large neurodata to a standardized process and create an efficient pipeline to allow enhanced collaboration between institutions. Read ~3000 lines of code to understand the format API. Created a bridge to Python 3.2 from 2.6 using utils and debugging.

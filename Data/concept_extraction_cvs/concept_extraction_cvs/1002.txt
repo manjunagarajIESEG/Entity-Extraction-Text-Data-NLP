@@ -1,0 +1,3 @@
+Python Developer
+ettain group - Franklin, TN
+Responsibilities Working closely with a software architect on a small team of software engineers to develop a system that improves the speed and reduces the cost of bringing on new clients.  Using Python to develop RESTful APIs that are used to gather various types of client information to be stored in couchbase/elasticsearch.  Using principles of test-driven development.  Skills Used - Python - elasticsearch - couchbase - RabbitMQ - RESTful APIs - Test-Driven Development

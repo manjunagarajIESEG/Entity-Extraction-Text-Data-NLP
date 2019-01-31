@@ -1,0 +1,3 @@
+ASSOCIATE SOFTWARE ENGINEER
+BrightScope, Inc - San Diego, CA
+San Diego, Ca BrightScope is a financial software company that utilizes public data to rate 401k plans and enrich data feeds for asset firm management companies. ASSOCIATE SOFTWARE ENGINEER        05 / 2015 - 10 / 2015 • Transitioned from Enterprise Data Analyst title to Software Engineer role through training program • Used Python, Django, and other tech stacks to perform a wide variety of tasks from parsing data for database processing to internal software UI development • Help to on board and collaborate with newer developers through pair programming • Ownership of test file regression test suite initiative, utilizing tox testing to ensure files parse correctly

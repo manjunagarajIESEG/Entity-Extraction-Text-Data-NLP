@@ -1,0 +1,3 @@
+Python Tutor
+Wheaton College
+Norton, MA •     Provided one on one tutoring on intro concepts such as control flow and syntax to new computer science students.

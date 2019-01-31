@@ -1,0 +1,3 @@
+Intern
+Harvard-Smithsonian Center for Astrophysics
+Used computer programs to determine the periods of numerous variable stars Assisted in writing and testing a Python code for plotting and displaying the predicted and definitive positions of the Chandra X-Ray Observatory in orbit

@@ -1,0 +1,3 @@
+Systems Analyst
+The Credorax Group - Southborough, MA
+Linux/Windows technical support for international financial company. Maintain and monitor high security PCI network using a variety of GPL tools such as Nagios/Ganglia/Wireshark/etc to combat fraud and hack attempts. Use scripting (Perl, Python, Powershell) to automate/integrate servers operations and applications. Member of the Tool & Automation group that develops scripting solutions for our worldwide offices.

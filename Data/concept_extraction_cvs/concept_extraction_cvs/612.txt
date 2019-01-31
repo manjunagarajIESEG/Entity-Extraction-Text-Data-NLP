@@ -1,0 +1,3 @@
+I.T. Consultant
+ComResource Inc - Columbus, OH
+Supported data broker systems for corporations Set up FTP/SFTP/AS2 channels between clients and their trading partners while concurrently configuring the IBM/Oracle back end software Primarily used SQL, XML, BPEL, Python, Sikuli

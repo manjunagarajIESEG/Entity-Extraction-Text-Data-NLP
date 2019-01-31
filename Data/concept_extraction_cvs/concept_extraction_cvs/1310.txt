@@ -1,0 +1,3 @@
+Researcher
+UNIVERSITY AT ALBANY CHEMISTRY DEPARTMENT - Albany, NY
+• Effectively use oxDNA simulation code to create coarse-grained models of DNA folding relevant to collaboration with our computational lab's experimental counter-parts. • Program and modify code in Python to facilitate simulations. • Responsibilities include learning to effectively use Python and oxDNA, researching and analyzing literature relevant to biochemistry, RNA origami, and base-pairing, and effective collaboration with co-workers and employers. • Make presentations that clearly represent the task, progress, and goals in my research.

@@ -1,0 +1,3 @@
+Python Django Developer
+Red Hat (on contract with TEKsystems) - Raleigh, NC
+Responsibilities Maintain and enhance new Skills Assessment web application  Accomplishments Created database config to enable modification of certain application settings without requiring a restart of the server.  Skills Used Python, Django, HTML5, JavaScript, jQuery

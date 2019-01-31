@@ -1,0 +1,3 @@
+Software Associate
+Honeywell - Everett, WA
+Responsibilities •    Developed Wireless Roaming Simulator (WIRE) in C++ that automates wireless device’s roaming test.   •    Participated in Agile process to review, debug and develop hundreds of lines of C++ code for WIRE. •    Designed and developed LogConsole using Java swing. It imports and stores streaming logs from various devices.  Accomplishments The alpha version of WIRE software got adopted and used by all wireless teams across the company.  The Java software provides features on log filtering, finding and marking keywords, regex search. It becomes an essential tool for engineers on their development work that requires logging.   Skills Used C++, Java, Python

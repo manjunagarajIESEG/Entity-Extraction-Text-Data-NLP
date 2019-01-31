@@ -1,0 +1,3 @@
+Python Software Engineer
+Map Communications 
+Responsibilities - Develop software that communicated to a cluster of VOIP servers for a call center in real time. - Develop software to interface with our logging system to organized interleaved logged processes. -Worked with a team of developer to update legacy C code into python.

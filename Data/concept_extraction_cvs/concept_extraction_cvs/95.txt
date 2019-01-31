@@ -1,0 +1,3 @@
+Software Engineer
+Zhreo - Palo Alto, CA
+Responsibilities Full stack developer for Zhreo’s Geo-Spatial Social Application.   Accomplishments •    Front-end development using HTML5, CSS3, AngularJS, jQuery, Bootstrap. •    Web Service Development using Node.js, Express.js, Spring Boot and Spring Cloud. •    Database development using MongoDB. •    Web Scraping development using Python, Beautiful Soup, Selenium Web Driver. •    Third parties API integration using various technologies.  Skills Used Software Architecture Design, Software Development

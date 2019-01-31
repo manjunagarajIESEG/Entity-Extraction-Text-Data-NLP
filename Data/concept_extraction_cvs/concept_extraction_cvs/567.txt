@@ -1,0 +1,3 @@
+Analyste de marchés stagiaire
+EOLE-RES - Avignon (84)
+Responsabilités - Structurer et effectuer un schéma des bases de données sous SQL. - Développer les traitements des données sous Python. - Calculer et analyser les erreurs de prévision pour trois parcs éoliens en utilisant les scripts en Python. - Calculer et analyser les coûts d’équilibrage pour trois parcs éoliens en utilisant les scripts en Python. 2 - Déterminer les différentes stratégies de trading pour minimiser les coûts d’équilibrage et maximiser les profits.

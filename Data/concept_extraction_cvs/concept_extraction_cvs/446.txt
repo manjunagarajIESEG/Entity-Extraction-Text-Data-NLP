@@ -1,0 +1,3 @@
+Scientific Programmer Analyst II
+Moffitt Cancer Center - Tampa, FL
+7/2013-Present as Employee  • Django web applications (Python 2.7) interfacing with MySQL, sqlite, Oracle. Javascript frameworks involved: jQuery, ExtJs, native javascript. Participated as team player and as primary/sole dev.

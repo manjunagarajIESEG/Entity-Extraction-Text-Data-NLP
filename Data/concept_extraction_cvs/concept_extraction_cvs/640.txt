@@ -1,0 +1,3 @@
+Employee
+Personnel Options - Griffin, GA
+I have been in college for little over a year and I have learned plenty of professional experience with MySQL databases, Virtual box and VMWare virtual operating systems, the security in networks, and basic python scripting.

@@ -1,0 +1,3 @@
+GIS Intern
+City of Branson, MO - Branson, MO
+Responsibilities As a GIS Intern, I created, edited and maintained features in various datasets throughout the city.  I also verified existing data, performed data conversions, and created custom ArcGIS tools to perform the tasks needed  Accomplishments I was able to create templates through Python that allow the staff with the city to easily update the 911 database in the future.  Skills Used GIS, Technology, data management, data conversion, MS Office, Windows, 3D

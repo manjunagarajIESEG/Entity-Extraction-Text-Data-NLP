@@ -1,0 +1,3 @@
+Senior Systems and Network Engineer
+Oasis Technologies
+Job Description: Responsible for the design, implementation and migration of multiple legacy frameworks to Windows Server 2012 R2 utilizing such technologies as Active Directory, Domain Controller, Group Policy, etc.  Also responsible for wireless network configurations and implementations primarily utilizing Ubiquiti devices and small-to-medium sized phone systems (Zultys and Vertical certified)  -Windows Server 2012 R2 -OS Image Builds -Virtualization Builds -Backup/Disaster Recovery -Shell Scripting (Python, Bourne/Bash) -Office 365/Exchange Migrations -Zultys Phone Support -Vertical Wave Phone Support -TCP/IP troubleshooting and configuration

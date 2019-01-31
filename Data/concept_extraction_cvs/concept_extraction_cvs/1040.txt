@@ -1,0 +1,3 @@
+Trading Systems Engineer
+Fair Value Partners - New Brunswick, NJ
+FVP is small algorithmic trading/development firm ❖   Set up a MySQL database on Amazon Web Services to store tick data for backtesting ❖   Implemented an event­driven trading engine in python for historic backtesting and eventually live trading

@@ -1,0 +1,3 @@
+Software Developer
+Mediamorph - New York, NY
+Wrote and maintained stored-procedures in a Postgres database for the company's Studio product. Developed a variety of Python tools, including the company-wide EBS snapshotting system which replaced error prone manual protocols for system backups.

@@ -1,0 +1,3 @@
+Research Assistant
+Central Michigan University - Mount Pleasant, MI
+Process and evaluate the network utilization in mobile smart devices to identify high utilization patterns, so that applications can be grouped together in order to access the network. This can help in reducing the amount of battery consumption. Technologies Used: Java, Python, and SQLite

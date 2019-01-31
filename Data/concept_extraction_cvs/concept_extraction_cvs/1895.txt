@@ -1,0 +1,3 @@
+Quantitative Research Intern
+Shift Forex LLC - New York, NY
+Responsibilities • Collected, cleaned and manipulated the live trading history of 50,000+ retail forex traders data by using Python. Built the R and SQL tools to extract the ticket tracking information automatically. • Built an automatic Python tool for assembling and analyzing underlying data, drew conclusion and developed recommendations. Designed data visualization by using R and Pivot Table. • Carried out specified data processing and statistical techniques. Supplied qualitative and quantitative data to manager and clients.  Skills Used Python, R, SQL, Excel

@@ -1,0 +1,3 @@
+Electronics Technician
+Intel - Austin, TX
+Automate tests and build drivers using LabVIEW 2010 • Write programs in C and Python • Test new cell phone technology • Hand solder fine pitch components SMT resistors and capacitors • Develop test routines for boundary scan testing using Corelis • Perform boundary scan testing of boards

@@ -1,0 +1,3 @@
+STUDENT WORKER
+MARSHALL SCHOOL
+• Developing a system in Python to scrape data from app store. • Responsible for designing the database for the scraped data and performing analysis on it.

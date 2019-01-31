@@ -1,0 +1,3 @@
+Web Developer
+Purdue Computer Science Department - West Lafayette, IN
+Partnered with club organizer to help develop and create new operational website using Python and SQLite ◦ Maintained Source Code Management using Github and BitBucket CS 180 Teaching Assistant ◦ Assisted over 140 students in development of basic object oriented programming skills through maintaining and engaging with online Piazza forum Summer Camp Counselor ◦ Planned schedule of activities for campers ◦ Mentored over 60 middle and high school students in areas of computer science, including Python, Raspberry Pi's, and data manipulation ◦ Prepared and led lab sessions on hardware components of computers

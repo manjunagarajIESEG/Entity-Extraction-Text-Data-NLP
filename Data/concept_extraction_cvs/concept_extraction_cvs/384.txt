@@ -1,0 +1,3 @@
+Javascript/Node.js developer
+bulkchain - San Francisco, CA
+bulkchain: https://github.com/m0dul0/bulkchain node utilities for bitcoin RPC localbitcoins-analytics: https://github.com/pullfinger/localbitcoins-analytics FinCEN compliance for bitcoin dealers

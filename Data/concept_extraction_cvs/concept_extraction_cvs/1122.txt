@@ -1,0 +1,3 @@
+ingénieur
+Airbus - Toulouse (31)
+Ø Réalisation    d'un    prototype    d'essais    et    de    simulation    codé    en    C Ø Gestion    des    communications    réseau    avec    scapy    sous    Python Utilisation    de    paquets    réseaux    AFDX

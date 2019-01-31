@@ -1,0 +1,3 @@
+Technical Intern
+AT&T Lab, AT&T - San Antonio, TX
+• Learned the Python programming language to help debug existing Python code. • Created Python scripts to collect relevant router resource usage data periodically. The program searched through 40,000 - 300,000 lines of data and collected information corresponding only to the specified routers. • Automated the parsing of collected information for significant values (for example, CPU usage or memory usage). • Automated data entry into a database using Python and SQL.

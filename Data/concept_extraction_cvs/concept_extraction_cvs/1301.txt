@@ -1,0 +1,3 @@
+Research Associate
+University of Colorado Boulder - Boulder, CO
+•    Developed big data and image analytical methods using Matlab, Python, C#, SQL Server. •    Conducted Finite-difference time-domain (FDTD) simulation using Matlab, Python, DDSCAT. •    Visualized data using Matlab, Python, Origin, Excel, Photoshop, ImageJ, Solidworks.

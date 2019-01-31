@@ -1,0 +1,3 @@
+Ingénieur Développeur Python / Django
+Jurismarches - Nantes (44)
+Nantes - Réalisation de scripts de crawl (Scrapy, Selenium, MySQL) - Réalisation des premières briques d'un ERP (Python / Django, MySQL, Celery) - Réalisation de la nouvelle plate-forme client (Python / Django, AngularJS, Postgresql)

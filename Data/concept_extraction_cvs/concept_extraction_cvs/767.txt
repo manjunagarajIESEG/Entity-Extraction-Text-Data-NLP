@@ -1,0 +1,3 @@
+Co-Founder and Principal Engineer
+Mexicoder, Inc - Washington, DC
+Co-Founded and led the technical development of leading near shore software engineering consultancy.  Responsible for architecture and engineering decisions across multiple clients in three vertical spaces, including computational biology, data visualisation and digital media. Contributed to python and node.js backend projects as well as angular.js and react frontend projects as part of regular duties.

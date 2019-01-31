@@ -1,0 +1,3 @@
+Sr Consultant DevOps Engineer
+Autodesk - San Francisco, CA
+♦    Cloud DevOps Consultant, responsible for automation and orchestration of Autodesk’s cloud service offering on AWS. ♦    Collaborate in the automation of AWS infrastructure via Chef, Ansible, and Jenkins - software and services configuration via Chef cookbook development. ♦    Automate deployments via Ruby and Python scripting through Jenkins pipeline. ♦    Develop Ruby automation scripts for AWS configuration management and provisioning via Hashicorp tools (Terraform and Packer). ♦    Build CI/CD pipelines for application and service delivery into Cloud Foundry via Jenkins – build and release with Git and JFrog Artifactory

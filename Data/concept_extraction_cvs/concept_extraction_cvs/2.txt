@@ -1,0 +1,3 @@
+Senior Software Engineer
+Hewlett Packard Enterprise - Fort Collins, CO
+Working in the cloud services team on the HP Cloud System product line at Hewlett Packard's campus in Fort Collins.  • Assist with requirements management process for HP CloudSystem • Develop epics, stories and tasks for CloudSystem features • Develop features for CloudSystem and OpenStack using Python • Scrum master for local team (Jira based tooling) • Interface with numerous CloudSystem teams across the globe to coordinate activities

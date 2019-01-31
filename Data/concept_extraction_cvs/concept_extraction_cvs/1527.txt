@@ -1,0 +1,3 @@
+Research Assistant
+University of Toledo - Toledo, OH
+Responsibilities -Programming C/C++, Python -Electronic Circuit Designing -PCB Designing -Hardware Software interfacing  Accomplishments -Developed a Navigation algorithm for drones to navigate in GPS devoid Environment. - Handheld Infection Sensing Device Prototype.  Skills Used -C/C++ -Python -Microcontroller -Circuit Designing -PCB Designing -Electronics

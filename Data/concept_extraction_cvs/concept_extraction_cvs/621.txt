@@ -1,0 +1,3 @@
+Database Administrator (DBA) internship 
+Indochina Telecommunication Tecnology - Vietnam, PR
+Responsibilities •    Managed and maintained information system using Web-based management application. •    Created, edited, exported and imported Oracle Database using SQL statement in Oracle SQL developer. •    Uploaded the company database’s connection, session and thread using SQL statement. •    Managed Oracle Database using myOra and Web Server using Apache Tomcat performance tool.  Skills Used Some SQL statements from the last summer internship  SCM knowledge learned from "Enterprise Architecture" class Java, Python(basic)

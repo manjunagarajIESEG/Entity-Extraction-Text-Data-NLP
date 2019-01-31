@@ -1,0 +1,3 @@
+Internship Automation Engineer - Plumchoice
+PlumChoice, Inc. - Lowell, MA
+Lowell Ma)    August 2014 - July 2015 - Mainly Python development (AT&T Consulting Project) - Developed with database integration and with automated database verification - Python scripts developed for testing to interact with system services already in place - Automated Data Analysis using SQL and Python - Python classes built in Linux environment (Command Line, VI) - VBA application of UI developed

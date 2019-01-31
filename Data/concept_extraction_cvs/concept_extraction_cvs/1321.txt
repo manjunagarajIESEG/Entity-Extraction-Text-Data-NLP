@@ -1,0 +1,3 @@
+Research Assistant
+Central Michigan University - Mount Pleasant, MI
+Responsibilities Performed as a Full Stack Developer including the process of developing the algorithm and deploying it in fully blown web-based Application.  Accomplishments Movie Master – An Hybrid Movie Recommendation System  Skills Used UML, Balsamiq Mockup 3(Wire Framework), HTML5, CSS3, JavaScript, jQuery, Bootstrap3.0, LESS, Python, Django, SQLite.

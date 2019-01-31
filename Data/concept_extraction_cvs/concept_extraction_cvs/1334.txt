@@ -1,0 +1,3 @@
+Research Assistant
+UCSB Earth Research Institute
+•       Performed statistical analysis on large-scale climatology data with the use of Excel, Python, and R. •       Utilized basic statistical regression methods on said data to create predictive models of future climatology.

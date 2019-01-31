@@ -1,0 +1,3 @@
+Javascript Engineer
+EPAM Empathy Lab - Conshohocken, PA
+Responsibilities Develop and maintain large scale, customer-facing websites such as horizon.tv and redcross.org. Think outside the box to provide technical improvements to existing sites. Improve performance of web applications. Work with a large development team to meet deadlines and customer requirements.  Accomplishments Played a key role in re-engineering the EPG for horizon.tv. Used a variety of techniques to improve performance and compensate for a slow backend on this very complex area of the site.

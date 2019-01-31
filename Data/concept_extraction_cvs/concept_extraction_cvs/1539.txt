@@ -1,0 +1,3 @@
+SOFTWARE ENGINEER
+Able Lending - Austin, TX
+• Built 12 full stack applications using Python/Flask, PostgreSQL, Redis, and AngularJS for internal use to support sales pipeline. • Built and supported big data pipelines/machine discovery platforms for SMB entity resolution, facilitating millions of records scraped and analyzed per day. • Designed a novel implementation for optimizing cascading geo-bound API calls, which allowed us to scrape and associate millions of SMB entity records in distributed environment with significant overhead reduction. (Blog post at bit.ly/hexpacking)

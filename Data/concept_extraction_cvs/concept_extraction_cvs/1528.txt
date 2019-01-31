@@ -1,0 +1,3 @@
+Structural/Finite Element Analysis Programmer (Durability & Safety)
+Daimler Trucks North America - Portland, OR
+Responsibilities • Build large mathematical models used for finite element and durability analysis of commercial vehicles using ANSA & µETA (pre/post-processor), Nastran, Permas & Abaqus (solvers).   • Code, test and document automation solutions using Python API and Git.  Skills Used ANSA, µETA, Python, NASTRAN, Github

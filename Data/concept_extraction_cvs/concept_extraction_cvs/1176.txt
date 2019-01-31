@@ -1,0 +1,3 @@
+Software Developer
+Legion Labs - Detroit, MI
+Responsibilities Handled tasks assigned to me in Github issues including speccing out issues and tasks for other team members to handle Developed new features Served as a SME to the team  Accomplishments Integrated WebRTC capabilities into the app Contributed to the foundational work required to integrate deep learning algorithms into the app to be used for various purposes, such as speech recognition and gesture recognition Integrated the app with Amazon's Mechanical Turk to utilize a fluid workforce  Skills Used JavaScript CSS 3 HTML 5 Node.js Meteor WebRTC Artificial Intelligence

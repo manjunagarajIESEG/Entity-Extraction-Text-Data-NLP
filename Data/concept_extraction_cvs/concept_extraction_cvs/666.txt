@@ -1,0 +1,3 @@
+Software Developer
+Catalyst IT Services
+Developed various software applications with teams from design and coding through testing and integration. o Developed and maintained web applications using C# .NET, MSSQL and frontend languages such as JavaScript, jQuery and CSS o Created and published SSRS reports, workflows and modified existing features on SharePoint to better work with reporting services o Implemented Python's asyncore module to set up a server to handle users' connections and message transmission via telnet protocol o Developed web application in Java EE and MySQL to handle telephone support requests

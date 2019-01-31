@@ -1,0 +1,3 @@
+Java Developer
+Blue Cross Blue Shield, MI - Michigan
+Provide production support for soap web services  Skills Used Core Java, J2EE, SOAP webservices,SQL, Oracle 10g ,Eclipse, MySQL workbench, Ant Build Script , IBM RAD, SOAP UI, Oracle Developer (11g), SQL+, HP SYSTINET 4.10,HP Service Manager, IBM WebSphere V.7,Cruise Control, CA SCM, GIT

@@ -1,0 +1,3 @@
+Senior Test Engineer
+Rockwell Automation - Milwaukee, WI
+• Executed manual and automated testing of PLC (Programmable Logic Controller) firmware in accordance with approved requirements, and associated test plans. • Converted PLC firmware requirements to python scripts • Implemented fixes in existing python scripts to account for changes in the PLC firmware and functionality. • Submitted anomaly reports for review and verification in ClearQuest. • Recorded test results in ApTest (test result management system). • Collaborated with development team on anomaly fixes and verification.

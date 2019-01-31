@@ -1,0 +1,3 @@
+Roboticist
+Claddagh Robotics - Bloomington, IN
+Robotics Research Key Achievements: ♦ Fully autonomous outdoor robot capable of localization and navigation in complex terrains ♦ Used Robot Operating System (ROS), differential driver motors, encoders, motor drivers, power systems, arduino, gps, IMU, kinect, laser scanners, stereo cameras, ubuntu linux, C++, Python, XML

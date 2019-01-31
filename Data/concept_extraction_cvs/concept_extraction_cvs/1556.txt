@@ -1,0 +1,3 @@
+Fellow
+Startup.ML - San Francisco, CA
+Responsibilities Working on financial industry projects to build and implement data science and machine learning solutions. Performed data preparation including cleaning, scraping, and munging. Ran data analysis using supervised and unsupervised learning with standard statistical modeling and feature engineering techniques. Built scalable machine learning models using agile methodology and helped develop user-friendly applications for clients’ uses.   Skills Used Utilized multiple Python-based tools and libraries including Pandas, NumPy, Matplotlib, scikit-learn, XGBoost, Heroku, and MongoDB.

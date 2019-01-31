@@ -1,0 +1,3 @@
+Software Engineer 
+Liquid Analytics - Dallas, TX
+●    Developing machine learning algorithms for intelligent distribution and future sales forecasting based on historical data for predictive analysis of short-term and long-term goals using Amazon Web Services (ML), Java & Python. ●    Monitoring service based project progress & outstanding issues and ensuring the quality & timeliness of the deliverables; creating and managing server side scripts for monitoring server status & generating weekly reports. ●    Performing and maintaining project infrastructure setup & configuration using Amazon Web Services (EC2, S3), Docker-Hub & Jenkins.  Skills Used Java, J2EE, Javascript, Python, Amazon Web Services (EC2, S3), Docker-Hub, Jenkins, SQL [PostGRE]

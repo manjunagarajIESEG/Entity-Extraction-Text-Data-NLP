@@ -1,0 +1,3 @@
+Programmer Analyst
+NicheVision, Inc - Akron, OH
+A full time job as a Researcher, Software Engineer, Bioinformatics/Scientific Programmer. Develop software and integrated solutions to forensic products to address DNA analysis and interpretation for forensic labs worldwide (US army, FBI, US state police departments, etc.). Frameworks, languages mainly are: Python/IronPython, C#, Java, Django.

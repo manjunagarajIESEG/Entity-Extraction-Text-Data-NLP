@@ -1,0 +1,3 @@
+Ingénieur études et développement
+Orange - Issy-les-Moulineaux (92)
+o Automatisation de scénarios complexes pour le projet VoLTE en Robot Framework o Audit d’un outil d’automatisation de tests sur mobiles o Etude et développement en Python d’une nouvelle version d’un outil d’automatisation

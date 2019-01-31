@@ -1,0 +1,3 @@
+Mobile Data Researcher and Trainer
+Gosvea Inc. - San Jose, CA
+Responsibilities •    Used Meteor (JavaScript Framework) to design and develop mobile & browser applications for clients •    Built database using MySQL to store clients’ mobile data, pre-processing in Python to generate statistics and charts. Built regression model in R to make inferences and predictions  Accomplishments Developed an online registration and chatting system for clients.  Skills Used Meteor, JavaScript, MongoDB, Python, MySQL, Data Mining, Matplotlib, Scikit-learn

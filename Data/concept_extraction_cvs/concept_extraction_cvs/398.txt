@@ -1,0 +1,3 @@
+Software Developer
+AT&T - San Antonio, TX
+• Working on cutting edge software for use with the U.S. Air Force.  • Gaining experience with Python utilizing frameworks such as Flask, Django, and network packet manipulation with Scapy.  • Increasing my current skill set with front end web development utilizing JavaScript, HTML5, JQuery, and various open source libraries.  • Additional experience developing software to utilize Software Defined Radios in efforts of transmitting multiple waveforms.  • Assisted in reverse engineering the DJI android API to assist in the development of drone/UAV exploitation.

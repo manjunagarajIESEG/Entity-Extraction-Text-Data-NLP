@@ -1,0 +1,3 @@
+Front-end developer internship
+Bytedance Tech - China, ME
+Beijing, China. Fundamental front-end development including JavaScript programming, CSS, LESS and Django (Python) template development. Accumulated some experience of responsive web design and mobile web development

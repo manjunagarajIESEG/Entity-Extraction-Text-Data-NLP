@@ -1,0 +1,3 @@
+Software Engineer
+Salesfusion Inc - Atlanta, GA
+Developed marketing email API endpoints using Python/Django ● Wrote and maintain automated tests for all marketing API endpoints ● Worked closely with product to ensure roadmap item completion

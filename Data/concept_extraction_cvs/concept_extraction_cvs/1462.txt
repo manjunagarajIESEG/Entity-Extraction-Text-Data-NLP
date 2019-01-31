@@ -1,0 +1,3 @@
+Stage développeur Python
+E-Thos SSII - Nice (06)
+Réalisations Création d'un module sur Odoo 8 (ERP) Programmation python

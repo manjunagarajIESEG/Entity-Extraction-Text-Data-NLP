@@ -1,0 +1,3 @@
+Python Developer
+Innova Solutions, Inc - Santa Clara, CA
+• Installed and Worked with Monitoring tools like Zenoss and Sensu. • Installed a fully working Openstack 3 node setup in Virtualbox. • Installed and worked on various configuration management tools like Chef and Ansible and wrote cookbooks (Chef) and Playbooks (Ansible) for deploying C3DNA in our local server. • Installed and worked on ticketing tools like JIRA and Confluence. • Worked on a cloud migration tools like C3DNA and CloudEndure and performed migration of data from in-house servers to Amazon cloud.

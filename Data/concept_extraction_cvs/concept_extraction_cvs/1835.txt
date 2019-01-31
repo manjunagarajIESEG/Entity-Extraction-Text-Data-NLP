@@ -1,0 +1,3 @@
+Senior Software Engineer/Team Lead
+Honeywell, Inc - Phoenix, AZ
+Development Environment: EPIC system (Avionic system), ASCB-D, DEOS real-time embedded software systems, C/C++, VBA, Python, DO-178B, Six-Sigma, TIU, Protocols (A429, A664, FDR, Discrete, Analog, Williamsburg) Job Responsibilities: IO System development and integration testing IO SW Development and V&V Serve as the team leader to in charge of the project management and team member training.

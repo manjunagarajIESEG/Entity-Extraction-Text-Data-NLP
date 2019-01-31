@@ -1,0 +1,3 @@
+Server
+Python
+with Back-end Database Server          Spring 2015 • Implemented an HTTP web server with certain security measurements and robustness against client failure. • Implemented a back-end server capable of searching a database. • Upgraded the HTTP server with a constant TCP link to the back-end server, enabling it to relay data between the browser and the back-end server, allowing users to search the database through browser.

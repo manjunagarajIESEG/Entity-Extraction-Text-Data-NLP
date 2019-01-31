@@ -1,0 +1,3 @@
+Senior Firmware Engineer
+Global Traffic Technologies, LLC
+Developed real-time embedded firmware for traffic signal preemption system used to grant green lights to emergency and transit vehicles. Advocated for clean code and well defined interfaces.  Programmed embedded ARM in C. Programmed tools and utilities in Java, Python, and other languages. Drove introduction of Test Driven Development on current products as department adopted Agile methods. Was vocal advocate for creating long term vision and product road-maps.

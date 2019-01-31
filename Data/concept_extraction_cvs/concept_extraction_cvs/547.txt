@@ -1,0 +1,3 @@
+Accelerator Engineer
+Proton Therapy Center - Boston, MA
+Responsible  for  daily  operations, upkeep, and  upgrades  for  proton  accelerator, beamline, and  treatment delivery systems  for   clinical  cancer  treatment  center;  split  time  60/40  between  software  projects  and  operations.  Wrote software  to automate clinical operations, reducing onduty operator workload by >90% (python). Managed multiple outside  contractors  to  develop  new/upgraded  software  components   for  systems  control  software.  Extensive troubleshooting  under  severe  time  pressure, frequently with little  or no  procedures or documentation. Involved in software analysis, bug fixing, systems design, QA, and overall systems expertise. Additional operations duties.

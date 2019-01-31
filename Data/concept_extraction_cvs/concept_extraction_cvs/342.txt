@@ -1,0 +1,3 @@
+Software QA Engineer
+PonoMusic - San Francisco, CA
+San Francisco, CA - Performed regression testing on major function of ponomusic.com  - Tracked bugs and reported issues in JIRA  - Automated web testing using Selenium Python/Java webdriver and unittest/Junit framework

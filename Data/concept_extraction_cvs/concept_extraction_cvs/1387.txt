@@ -1,0 +1,3 @@
+Sr. Java Developer
+CACI
+provide full life cycle development to support an in house request management system. Direct communicate with customers, product owners and managers, translate users' requirements into design and implementations.  Development Environment: Tomcat 6.0, Spring MVC, Web Flow, Java/Perl/XML/JSP/JSF/MVC/Shell, Spring 3.5, Java EE 6.0, Oracle 11g Database, Hibernate 3.5, Ant 1.7, Subversion Java SSL, LDAP Services.

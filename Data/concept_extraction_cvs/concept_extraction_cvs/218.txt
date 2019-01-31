@@ -1,0 +1,3 @@
+Wireless SWAPPS Intern
+Broadcom Corporation
+Replicate and analyze issues reported on latest build of WLAN router drivers. • Identify and debug the WLAN router driver builds. Check their compatibility with legacy devices. • Conduct max throughput tests for latest 4x4 WLAN routers in controlled environment under automated settings using python scripts.

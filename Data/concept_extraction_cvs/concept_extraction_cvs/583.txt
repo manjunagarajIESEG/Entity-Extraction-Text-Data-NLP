@@ -1,0 +1,3 @@
+SOFTWARE ENGINEER INTERN
+Broadcom Corp - Irvine, CA
+Experimented with a variety of chips in systems (SoC) in both Ethernet boxes and network controllers (NICS) •   Extensively tested cNAS units using Python and Bash scripts •   Configured, monitored, upgraded and maintained SoC hardware and software •   Tested Ethernet controller boxes using enterprise linux •   Used WHCK testing for Ethernet controller switches using virtual machines

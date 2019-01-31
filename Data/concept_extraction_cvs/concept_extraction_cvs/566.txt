@@ -1,0 +1,3 @@
+Product Development Engineering Co-op
+Comcast Corporation - Philadelphia, PA
+•    Collaborated with team members to develop and deliver tools that met defined requirements. •    Designed and developed provisioning, server monitoring and reporting tools using Python •    Worked with MongoDB and Python's PyMongo Library to add, retrieve and verify necessary data •    Used Python's Flask-RESTful to create API endpoint for retrieving necessary data from mongo DB •    Created Automation test cases for server checks and data retrieval using Robot Framework's SSH library. •    Pushed scripts to production using GIT and puppet

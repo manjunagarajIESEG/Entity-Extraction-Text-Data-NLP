@@ -1,0 +1,3 @@
+Graduate Student - Bayesian Spam Classifier (Python)
+University of Southern California - Los Angeles, CA
+• Developed a model based on Bayesian probability that classifies an email as a Spam or not. • The classifier is trained with the labeled input data to generate a model and enhanced it using add-one smoothing technique.

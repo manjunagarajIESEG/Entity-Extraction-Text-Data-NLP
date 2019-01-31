@@ -1,0 +1,3 @@
+Python Developer
+Center of Research and Learning, IU School of Education
+Web technologies • Integrated awarding of digital badges into the Open EdX Online Education •   HTML5 platform using Mozilla's badgekit API •   CSS • Created modules in Python within Google Course Builder to enable course •   JavaScript participants archive their course updates and receive notification on comments •   PHP

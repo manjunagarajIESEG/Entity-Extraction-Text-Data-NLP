@@ -1,0 +1,3 @@
+Research Assistant 1 - Engineer
+The Ohio State University Wexner Medical Center
+Administrates project data, including cataloging and archiving samples, projects, and metadata - Perform data quality control (QC) and develop appropriate actions to resolve quality issues - Implement existing software and develop new computational tools for QC analyses - Interact with the Ohio Supercomputer Center on a daily basis - Participate in an interdisciplinary team to design computational experiments, present findings to customers and collaborators, and compose materials for publications - Gained experience with powerful programming languages, including Bash, R, and Python

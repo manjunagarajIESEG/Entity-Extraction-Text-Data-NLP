@@ -1,0 +1,3 @@
+SW Principal Engineer
+GENERAL DYNAMICS MISSION SYSTEMS
+Led the Build Release of processor SW code and GUI to verify it was free of problems. Also sold off signal processing SW requirements through manual and automated script testing.  • Led verification of SW processor web portal by working with cross-functional SW teams, which reduced schedule time for official release. • Led the installing and troubleshooting of test scripts and configuration tools written in Python, SQL, and Visual Basic.  This increased sell-off testing time and automation. • Resolved and verified over 200 Problem Tracking & Resolution tickets with released SW.

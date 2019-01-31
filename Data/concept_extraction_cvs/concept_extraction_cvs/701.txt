@@ -1,0 +1,3 @@
+Consultant
+SAP BI
+Data Extraction and Sentiment Analysis of Twitter Data: The aim of the project               Courses: Business Intelligence, Business Data was to extract tweets of users from social networking site Twitter and perform               Warehousing, Quantitative Introduction to Risk sentiment analysis through text data processing in SAP BODS.                                 and Uncertainty in Business •    Connected to Twitter API and extracted data using Python code in User defined Transform in SAP BODS        University of Pune, MH, India •    Performed sentiment analysis on the data extracted using Entity Extraction          Bachelor of Engineering in Computer Science transform of text data processing

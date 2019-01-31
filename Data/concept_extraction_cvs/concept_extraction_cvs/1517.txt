@@ -1,0 +1,3 @@
+Data Science Engineer
+Aetna Inc - Hartford, CT
+• Converted SAS projects to work in Hadoop Ecosystem. The data munging was mostly done using Pig and UDFs written in Python. Cox Hazard Model was applied using Python. The whole process was automated using shell scripting • Led Python training, participated in advancement seminars and conducted interviews • Advised on designing data pipelines

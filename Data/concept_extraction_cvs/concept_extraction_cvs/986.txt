@@ -1,0 +1,3 @@
+S/W Developer/Teaching Assistantship
+University of North Dakota - Grand Forks, ND
+Design, development and bug fixing of university website. Teaching 'Python' to undergrad and 'Robotics & Animation' to middle school kids(Python, Node.js, windows).

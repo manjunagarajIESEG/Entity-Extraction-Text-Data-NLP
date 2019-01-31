@@ -1,0 +1,3 @@
+Entry level ASIC design of 3D DRAM Temperature Aware Refresh
+University of Connecticut - Storrs, CT
+• Designed the gate level circuit, Designed timing diagram for DRAM refresh control signal • Modeled the new Memory controller function by C++ and Python, Evaluated system level 3D DRAM performance, using Gem5, DRAMSim2

@@ -1,0 +1,3 @@
+Software Development Intern
+Intellect BPM
+● Implemented a more efficient compression algorithm for backing up/restoring client MS SQL Server databases, which resulted in a 40%+ improvement in time and memory, using C#/VB for .NET framework. ● Devised and implemented scripts using Python and Batch to precompile .NET web application to avoid initial load time caused by JIT compilation. Saw a 50%+ speed improvement in most areas of the web application. ● Developed web services to integrate data between systems and databases using C#/VB, XML, as well as utilizing Jitterbit.

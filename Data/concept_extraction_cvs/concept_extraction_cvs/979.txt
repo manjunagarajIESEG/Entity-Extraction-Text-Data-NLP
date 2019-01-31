@@ -1,0 +1,3 @@
+Financial Web Administrative Software written in Python and PostgreSQL
+Stirplate.io
+Startup) Tracking and fixing bugs on a several hundred thousands LOC app, using PHP, Bootstrap, Yii Framework, AppEngine, ComputeEngine, R and WebSQL,  GVC - Libranzas (Financial Web Administrative Software written in Python and PostgreSQL)

@@ -1,0 +1,3 @@
+Linux DEVOPS Engineer
+ESP IT - Minneapolis, MN
+Responsibilities Server configuration/deployment via configuration management and openstack . Package managements in all aspects of lifecycle, git and stash to rpm and yum. Scripting in bash and python. Deployed and monitored hadoop cluster - 47 nodes.

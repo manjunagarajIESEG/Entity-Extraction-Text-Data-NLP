@@ -1,0 +1,3 @@
+Java Software Developer
+General Motors - Limerick
+Developing architectural patterns for Middleware Interfaces. Analysing and transforming legacy SeeBeyond Interfaces into new technologies. Designing and developing automated web solutions for EAI Operations using Java, AngularJS, Oracle and Shell scripting.

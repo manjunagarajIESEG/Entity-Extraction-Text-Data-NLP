@@ -1,0 +1,3 @@
+Développeur
+PYTHON - Lille (59)
+2014) ALLOA VOYAGES (Lille) - Agence de voyages Utilisation de Glade pour la création d'interfaces utilisateur, administrateur. Utilisation de Postgresql et intégration avec python

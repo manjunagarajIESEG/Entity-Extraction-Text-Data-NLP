@@ -1,0 +1,3 @@
+CTO / Co-founder
+WellnessX.co - San Jose, CA
+- San Jose, California • Company provides SaaS based marketplace to help people connect and hire best local wellness services and professionals for their needs. • Spearheaded company's business strategy, model and product definition. Provided technical leadership, product roadmap, architecture, technologies. • Launched the service website. Raised seed funding. • Technical stack: HTML/CSS/JavaScript (jQuery/AngularJS), Ruby/Rails, PHP, Python, ElasticSearch, MySQL and AWS.

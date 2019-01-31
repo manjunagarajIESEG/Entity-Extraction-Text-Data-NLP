@@ -1,0 +1,3 @@
+Research Assistant
+Illinois Institute of Technology - Mogul Lab - Chicago, IL
+Conducted simulations of neural networks for an investigation of traumatic brain injuries, simulations were based off of the macaque monkey as well as some human data sets  Constructed my own coding in Python for simulations with “The Virtual Brain” software in order to replicate the effect of lesions to specific regions in the brain  Trained in statistical parametric mapping, virtual brain software, Python v2.7, Linux operating systems (Debian), and processing of neuroimaging datasets

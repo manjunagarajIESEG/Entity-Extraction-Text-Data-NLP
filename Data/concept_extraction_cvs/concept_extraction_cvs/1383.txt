@@ -1,0 +1,3 @@
+Software Engineer (Python)
+Sonobi - Orlando, FL
+Responsibilities • Maintain, extend, and optimize real time bidding (RTB) software infrastructure for online advertising using Python. • Support data mining operations to shepherd terabytes of data via several warehousing process across multiple data centers. • Document internal systems for training purposes and go-to knowledge. • Manage the reporting pipeline to add new reports, shore up integrity of legacy reports and aggregations, and ensure the maintainability of the system. • Rapidly built out a working prototype solution for an optimization problem using a genetic algorithm.

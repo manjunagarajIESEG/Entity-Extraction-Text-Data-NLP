@@ -1,0 +1,3 @@
+Java/J2EE Developer
+CSU, EAST BAY - Hayward, CA
+Project: ONLINE SHOPPING Responsibilities: - Involved in developing applications using Java and J2EE. - Developed web application using Spring Framework, Hibernate and developed UI using JSP, JavaScript, HTML, AJAX and CSS - Agile methodology was applied; MVC design pattern used; accompanied with Hibernate persistence - Provided design and mentor framework integrated implementation for interactive web application development. - Provided technical direction with JavaScript, JQuery, and Ajax. - Played Key role on setting up Apache web service and Deployed the application on tomcat and cPanel Application Server Environment: Eclipse, Java, JavaScript, CSS, XML, Spring, Hibernate, JQuery, Tomcat, JSON, JUnit

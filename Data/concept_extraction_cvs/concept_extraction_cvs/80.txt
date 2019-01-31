@@ -1,0 +1,3 @@
+Sr. Support/Maintenance Engineer
+Infogix, Inc
+Perform and design manual front end web testing • Create test environments and test data setup • Use Java to gather test data from various websites to simulate consumer product usage • Manipulate automatically generated data using python scripts • Design automated testing plans • Maintain stable test environment starting point in Linux for automated tests • Set up deployment scripts and test runner scripts in Linux • Support debugging and enhancement of off-shore team's automated test suites • Automated deployment of product to Amazon Web Services cloud using bash scripting in Linux

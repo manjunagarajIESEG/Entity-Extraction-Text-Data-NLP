@@ -1,0 +1,3 @@
+Software Developer Engineer
+Bomgar
+C/C++, STL, Python 2.7, Qt 4.x, sigslot API, GNU/Linux, mysql, postgres, soci, multithreading, cmake •   Redesigning and optimizing independently a major product feature: Bomgar Jumpoint •   Co-designed and developed independently a major addition 'real time information system' to Bomgar product •   Contributed significantly in porting product backend from mysql to postgresql using soci C++ framework •   Responsible for researching, creating and maintaining python test scripts for Qt app using Squish automated testing tool - Most recent exposure is on low level networking socket API and process management

@@ -1,0 +1,3 @@
+Institutional Research Analyst
+South Texas College - McAllen, TX
+* Assist various departments into compiling their data to meet data quality requirements and format for various accreditation boards. * Create reports with Excel and IBM SPSS to answer queries from various stakeholders in the college or external researchers. * Create and maintain documentation about available data sources, their origin, and business processes. * Create scripts with Excel VBA, SPSS Syntax, and Python to automate reports or procedures.

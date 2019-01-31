@@ -1,0 +1,3 @@
+Python / Django Developer
+Supercare - Downey, CA
+Wrote and maintained sites for day to day use for the company including Excel and Word parsers to save man hours for the operations of the company. • Wrote several scripts that bug tracked day to day operations, a site to show all the errors from every site as a dashboard, and maintained notifications to the IT Department for any errors that occurred. • All sites were developed with Python, Django, and PostGRES.

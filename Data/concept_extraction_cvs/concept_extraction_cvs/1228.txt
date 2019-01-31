@@ -1,0 +1,3 @@
+QA Engineer (part-time)
+VIV Systems, Inc - Milpitas, CA
+• Develop test automation programs for audio video products using Selenium IDE/RC-Python. • Write, execute and maintain test cases, test plan using Ruby. Use Selenium 2.x Webdriver to develop testcases to test GUI automation. • Use Nokigiri method to find dynamic object name on the fly. • Design and perform software quality process. • Develop, maintain, and enhance build scripts for automated tests.

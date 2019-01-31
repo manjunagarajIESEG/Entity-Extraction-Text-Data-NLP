@@ -1,0 +1,3 @@
+Software Engineer
+Apex Data Solutions, LLC - Tampa, FL
+I basically worked for VA with experienced as Software Engineer using technology like IO Digital devices, InkMedia, InkML, NoSQL databases, Web Scrapping, and Data Analysis. I created a DocSet Offline Documentation for VistaJS provided by Dash Browser Apple Application to support Development Environment. I designed a Data Model of NoSQL called GraphyteDB introduced the four kind of NoSQL Redis, JSON Orient Document, Tabular and GraphDB. I worked principally as JavaScript, C++ and Python Developer. I applied also Agile Methodology, Jira, Stash (Git Repository), and Confluence as Project Management.

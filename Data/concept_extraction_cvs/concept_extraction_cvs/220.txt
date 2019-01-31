@@ -1,0 +1,3 @@
+Software Engineer
+Lake City
+Developing a ERP solution as a team member. Working on various modules like HRM, Accounts, Procurements (Import). For Development tools we are using Php, MySql, JavaScript, DataTable plugin, ZEND framework, Doctrine as ORM, jQuery and bootstrap.  1 Software Engineer,

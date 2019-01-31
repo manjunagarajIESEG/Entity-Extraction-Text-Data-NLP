@@ -1,0 +1,3 @@
+Intern
+Ernst & Young, LLP - New York, NY
+• Led team of 4 interns in designing and implementing Name Entity Recognition program. • Built Python web scrapers to collect public competitor data and assess EY's position in the market. • Forensically processed and analyzed evidence hard drives. • Designed statistical presentations using Tableau software. • Organized self-sponsored office events.

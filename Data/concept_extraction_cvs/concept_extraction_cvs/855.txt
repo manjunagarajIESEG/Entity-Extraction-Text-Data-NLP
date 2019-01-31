@@ -1,0 +1,3 @@
+Principal Software Engineer
+XLHybrids - Boston, MA
+Startup missed sales related deadlines, resulting in a reduction of work force.) ● Took over existing codebase(Python/Django) for vehicle communication, data import, data analytics and presentation. ● Improved performance and increased scalability as company moved from early startup into full production environment. ● Co-Designed and built replacement for existing system.  Leveraged new tools(apache storm, cassandra, and Amazon hosting). ● Development was done in python, using django (and django rest) framework.

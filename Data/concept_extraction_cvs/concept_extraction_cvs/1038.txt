@@ -1,0 +1,3 @@
+Senior JavaScript Developer
+Mobiquity - Providence, RI
+UI Lead on CVS.com project to simplify the checkout process and begin a shift to AngularJS.  Filled the role of architect through the requirements and design phases.  Spent most of my time working with the back-end architect teaching and helping his team move from a JSP and Oracle ATG stack by designing a REST API to meet the needs of our front-end work.

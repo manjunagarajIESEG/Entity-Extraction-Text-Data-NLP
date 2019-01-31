@@ -1,0 +1,3 @@
+Remote Web Developer
+Alerton/Optergy - Melbourne VIC
+•    Front-End and Back-End Developer - Improvements in current dashboard using PHP, JavaScript, AJAX and HTML/CSS. • Developed new UI for dashboard with HTML/CSS and Bootstrap. • PHP Programmer – Using pure PHP and Laravel framework. • MySQL Developer – Creating and manipulating databases. • Improvements in many MySQL queries leaving then faster and safe. • Created many reports with graphs for administration control (Highcharts.js). • Created the recovery password utilizing security token. • Used Bitbucket for control version.

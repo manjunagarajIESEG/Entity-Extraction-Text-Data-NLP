@@ -1,0 +1,3 @@
+Research Associate
+University of North Carolina Department of Urology - Chapel Hill, NC
+Responsibilities: Build Business Analytic Tools for medical administrators and directors. Maintain databases as new information is available. Customize analytic tools based on stakeholder input. Analyze Patient and Medical Referral Data. Develop Data Visualizations.  Accomplishments: Developed state wide analysis of urological cancers and the physicians referring those patients to UNC.  Made data scraping and cleaning tools with R and Python.  Built website to display the interactive visualizations using Tableau, google charts, and Javascript.  Skills Used: Google Charts Tableau Excel Data Cleaning Javascript D3.JS github R PHP  google analytics Python JSON jQuery Angular JS  SQL

@@ -1,0 +1,3 @@
+Verification Engineer
+Hospira Inc
+Created different verification test plans and test cases for Design under Test. • Testing different protocols for Design and run regressions on them. • Debug failing protocols and made changes if necessary for correct functionality. • Automated about 60% of my work using Python and developed existing tools. • Predicting future failure using Machine Learning KNearest(KNN) Algorithm using existing data.

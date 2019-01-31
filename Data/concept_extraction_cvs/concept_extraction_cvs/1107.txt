@@ -1,0 +1,3 @@
+System Integration Test Engineer
+Canoga Perkins - Chatsworth, CA
+• Automated testing of Network Management web application with Selenium Webdriver and Robot Framework. • Wrote and maintained Python, tcl and shell scripts for test automation for Ethernet devices. • Implemented Robot Framework Test Suites and plans using custom Python Libraries. • Performed product verification and testing of Network interface devices (layer 2 & 3 protocols). • Developed and reviewed Test Plans, Test Cases, Test Execution Methods and Test Reports.

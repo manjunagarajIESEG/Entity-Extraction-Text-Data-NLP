@@ -1,0 +1,3 @@
+Senior Software Engineer
+BZ Robot Inc - Mountain View, CA
+Responsibilities developed software and control system for industrial robots  Skills Used c,c++,python

@@ -1,0 +1,3 @@
+Data Science Intern
+EMERGENEX - New York, NY
+Developed Python scripts to extract public/government datasets (SEC.gov) via XML/XBRL parsing, API, and web scraping, transform and store in PostgreSQL database on Amazon Web Services (AWS) • Provided data infrastructure recommendation on emerging growth companies research web application

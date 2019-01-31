@@ -1,0 +1,3 @@
+Java Developer
+Tata Consultancy Services Limited - Jersey City, NJ
+Responsibilities Identifying requirements, designing and development of code. Coordinating team and integrating the code. Do unit testing, system testing and providing production support. Performing enhancements tasks for the product.  Accomplishments Timely delivery of products satisfying clients. I work in my client location.  Skills Used Core Java/J2EE, Servlets, Springs, Struts 2.0, Hibernate, HTML/HTML5, CSS3, XML, XSLT, JSP, JavaScript, JQuery, Webservices, PL/SQL

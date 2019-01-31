@@ -1,0 +1,3 @@
+Graduate Research Assistant
+Dr. Terri S. Hogue - Golden, CO
+Conducted in-depth study of water use for oil and gas development in northeastern Colorado. Developed a decision support system for water resources in Colorado with changes in anthropogenic uses and future climate change. Required in-depth knowledge of Matlab programming, ArcGIS, Python and multiple hydrologic models and concepts. Currently working on two papers for publication to Environmental Science and Technology.

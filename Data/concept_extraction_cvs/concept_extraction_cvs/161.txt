@@ -1,0 +1,3 @@
+Software Development Engineer in Test (Python)
+Phorm - Москва
+Create automation tests for the web crawler of the advertizing platform: WebIndex. Use HTTP protocol, Tokyo Cabinet (NoSQL), ØMQ. Support Continuous Integration process.

@@ -1,0 +1,3 @@
+Teaching Assistant
+University of Massachusetts Amherst  - Amherst, MA
+CS 119: "Intro. Python Programming", CS 230: "Computer Systems Principles"

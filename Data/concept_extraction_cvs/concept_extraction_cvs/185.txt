@@ -1,0 +1,3 @@
+Research Assistant
+University of North Carolina at Charlotte - Charlotte, NC
+• Worked on automation of Energy Simulations in Building Design, the aim of this research is to create a user friendly program for energy simulations which considers various building materials. • Developed a customized map for dump yards in North Carolina using google maps API. • Developed a Graphical user interface for FORTRAN program (which calculates axial and shear force of a given beam) using tcl/tk tool in PYTHON

@@ -1,0 +1,3 @@
+Research Assistant
+RTDroid
+• Responsible for adding memory restriction on current RTDroid components • Use Scoped Memory from RTSJ to implement Looper and Handler, AlarmManager. • Writing experiment application, Python script to process experiment data • Published a paper at Hotmobile 2016 as second author responsible for writing and testing experiment application

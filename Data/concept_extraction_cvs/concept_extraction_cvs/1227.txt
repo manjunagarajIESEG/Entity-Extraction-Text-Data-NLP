@@ -1,0 +1,3 @@
+Technicien d'exploitation informatique
+CERTI - Vandœuvre-lès-Nancy (54)
+Lancement de batchs et requêtes sur les bases de données Oracle des URSSAF, avec analyse de niveau 1 des logs et résultats générés. Restauration et sauvegarde de bases de données. Déploiement de shells et programmes COBOL sur les environnements hébergeant les bases de données. Assistance et support technique des CNV (Centres Nationaux de Validation) et des URSSAF Paramétrage, analyse de fichiers d'édition, et test de la partie éditique. Analyse des messages générés par le robot de sauvegarde et par le superviseur de serveurs, suivies d'interventions. Rédaction de fiches consignes sur l'exploitation informatique.

@@ -1,0 +1,3 @@
+Senior Signal Intergrity Engineer 
+Apple Computer - Cupertino, CA
+Responsibilities Power and Signal Integrity Analysis for high speed designs.   Accomplishments Development of extensively used flows for Power Integrity for rapid design tradeoffs in a wide array of products. Extensive work in calibrating external tools to lab measurments  Skills Used PowerSI, PowerDC, HFSS, Python, Perl, Matlab

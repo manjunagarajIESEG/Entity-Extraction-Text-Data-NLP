@@ -1,0 +1,3 @@
+C#, python Developer
+Wicked Analytics
+Responsibilities I planned, designed, coded, tested and installed for production a system that mimicks a HTTP Web client to the retrieval of client account information for download, processing and automation. Excel, Access integration. Python/Django web dev. Data Analysis.   Skills Used C#, python/Django, JavaScript, Algorithm Design, Excel, Access, Retail, Large Data Sets, data science, SQL

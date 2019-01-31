@@ -1,0 +1,3 @@
+Senior C++ Developer
+Chicago Trading Company		 - Chicago, IL
+Designed and developed a generalized automated testing tool for unit testing of the in-house applications •   Used UML and Enterprise Architect for analysis and design •   Implemented and tested the tool as well as wrote the Python scripts used by the QA team for in-house server testing (XCode 4.3/Visual Studio 10, STL, Boost, Python)

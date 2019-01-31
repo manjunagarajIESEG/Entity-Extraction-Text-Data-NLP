@@ -1,0 +1,3 @@
+Python/Django Developer
+Sendout Cards - West Valley City, UT
+Responsibilities Django/Python Developer.  Working with Python and Django, Docker, asynchronous task queues with Celery, Postgres, rabbitmq, web services and more

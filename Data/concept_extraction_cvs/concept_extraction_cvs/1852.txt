@@ -1,0 +1,3 @@
+Analytics and Data Science Consultant
+Dropbox - San Francisco, CA
+Responsibilities - Search engine marketing reporting and optimization  - Data science and predictive modeling projects (user upgrade forecasting, customer chat text mining, price elasticity analysis)  Skills Used R, Python, Hive, Tableau, Machine Learning

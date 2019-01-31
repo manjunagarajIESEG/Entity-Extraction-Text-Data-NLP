@@ -1,0 +1,3 @@
+Software Engineer (Python, Git, Vim, Single Board Computing)
+Evensoft LLC - West Richland, WA
+• Android App Development (Kivy, Java); • Writing and extending python with C modules (Python, C); • Build and compile kernel modules for BeagleBone Black; • Developed web services  (Django, Flask, MySql); • Debian packaging and init scripts;  Personal           Speak, read, and write Spanish fluently; Speak, read, and write basic French

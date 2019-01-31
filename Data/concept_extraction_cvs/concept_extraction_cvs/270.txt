@@ -1,0 +1,3 @@
+Undergraduate Tutor
+Verilog
+Tutored students which needed help in coding Verilog, some Python, C, C++, and MIPS assembly. Helped the students build a basic foundation of knowledge toward each programming language, and eventually aided in understanding more complex methods of coding.

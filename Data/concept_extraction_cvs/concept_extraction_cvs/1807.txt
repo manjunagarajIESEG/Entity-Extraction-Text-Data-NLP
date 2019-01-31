@@ -1,0 +1,3 @@
+Software Intern
+Jonathan Bui - San Diego, CA
+Developed Python programs with the use of UDP to simulate data for software testing.

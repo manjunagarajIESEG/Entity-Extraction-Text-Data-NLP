@@ -1,0 +1,3 @@
+Server Side Java Developer
+AT&T Labs
+• Server Side Java Developer for AT&T Telepresence Systems. • Server Side Java Developer for AT&T Service and Activation Portal. (SAK) • Server Side Java Developer utilizing HTML 5 in parallel with Java for AT&T Service Manager Tool system. • Currently using Java Mars, with Tomcat 7 server generation. • Technical Writer for Help Text Documentation on both the AT&T Telepresence Systems & Service Manager Tools system. • Visual Basic Developer for proprietary billing software used by sales associates. • Customized algorithms for billing code generation, to include building and implementing user friendly GUIs.

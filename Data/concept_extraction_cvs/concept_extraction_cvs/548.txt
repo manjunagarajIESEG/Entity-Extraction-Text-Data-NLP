@@ -1,0 +1,3 @@
+Technology Developer and Analyst, Summer Intern
+Bank of America, One Bryant Park - New York, NY
+Details withheld due to company policies) Individual project involved working with Python, Bloomberg APIs, Excel APIs, and internal company databases to help traders find discrepancies with their trade data and alert them every day along with its severity in an Excel sheet.

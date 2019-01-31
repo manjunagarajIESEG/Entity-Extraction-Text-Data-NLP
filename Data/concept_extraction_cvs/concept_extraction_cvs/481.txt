@@ -1,0 +1,3 @@
+Data Analyst - Business Intelligence Intern
+General Electric - 上海市
+Project: PC (Power Conversion) Service Dashboards • Worked multiple stakeholders from service team to define the business process and data models • Designed, created Service Dashboards web page with HTML, CSS, Java Scripts • Extracted data from SFDC, transformed data with Python, loaded to Tableau for visualization • Embedded the dashboards on to Service Dashboards and refresh the dashboards on a weekly basis Project: OCS (One Cost Sheet) Compliance Report • Integrated data from SFDC (Oracle) and Tacton (SQL Server) using SQL Server Integration Services (SSIS) • Load data from SSIS package to MS SQL Server DB and generated report in Tableau

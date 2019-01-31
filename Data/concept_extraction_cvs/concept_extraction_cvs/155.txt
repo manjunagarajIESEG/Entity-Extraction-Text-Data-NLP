@@ -1,0 +1,3 @@
+Python Developer
+Miami Rebel Inc - Hollywood, FL
+Responsibilities - Used the MVC pattern to create web applications using the Python Django framework. - Managed source control repositories using GIT. - Deployed Django web applications to Amazon’s Elastic Beanstalk cloud platform. - Created Identity and Access Management roles for user access. - Setup scalable storage in the cloud using Amazon’s S3. - Spawned the company’s used of Amazon’s CDN CloudFront to handle to data replication.  Accomplishments I introduced the idea of using virtual servers instead of using shared hosting for their web app.  Skills Used Web frame works Python (programming language) Adobe Creative Suite Email Marketing HTML & CSS SQL Photography

@@ -1,0 +1,3 @@
+Software Test Engineer
+QA101 Consulting Group - Bothell, WA
+Currently working as Software Test Engineer on Internal Talent System (ITS) project using the Microsoft Team Foundation Server (TFS). This is a web based application that is used by QA101 to maintain a database of resumes of the job searchers that will be used by recruiters in the industry.  Responsibilities: • Building Requirements Traceability Matrix. Writing, executing, and updating test cases • Manual testing of the application to adapt to the agile nature of the application requirements • Logging bugs in TFS with detailed description and repro steps • Regression testing of fresh build

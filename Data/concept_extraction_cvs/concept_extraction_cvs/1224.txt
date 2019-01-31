@@ -1,0 +1,3 @@
+Webmaster
+HockeyStandings.info - Brooklyn, NY
+Designed and programmed HockeyStandings, using Python and Flask. HockeyStandings shows the NHL standings under various point systems used in other hockey leagues. • Responds to email from visitors who request new systems to add to the website.

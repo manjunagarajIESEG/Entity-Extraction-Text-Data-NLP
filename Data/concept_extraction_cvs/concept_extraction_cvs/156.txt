@@ -1,0 +1,3 @@
+Web Developer/Designer
+Freelance
+Design and develop custom websites using HTML, CSS, SASS, javascript and jQuery, bootstrap and wordpress. Workflow includes use of sitemaps, wireframes, google analytics, github, sublime text, MAMP, modernizer

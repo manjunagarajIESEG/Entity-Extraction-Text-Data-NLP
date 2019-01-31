@@ -1,0 +1,3 @@
+Mechanical Systems Engineer
+Thermal
+• Delivered design collaterals and performed system modeling, heat sink design, and testing for multiple platforms to enable IA in customer designs. • Responsible for creating proof of concepts (mechanical prototyping) and working with customers hands on to solve mechanical and thermal issues with system design. • Ability to bring up platforms and perform system thermal and power measurements for thermal and power validation. Familiarity with using Python to control testing and equipment automation. • Business Process improvement champion - worked on various business process definitions to improve efficiency. • Part of the Maker movement: Ability to implement quickly using maker platforms and sensors to showcase ideas.

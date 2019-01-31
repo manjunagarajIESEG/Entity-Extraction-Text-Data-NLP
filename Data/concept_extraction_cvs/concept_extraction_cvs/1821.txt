@@ -1,0 +1,3 @@
+Analytics Experience
+Analyst
+ANALYTICS EXPERIENCE •    Master’s Thesis – Freight demand forecasting with endogenous and exogenous variables using the Vector Error Correction Method which is part of the Vector Autoregressive Model in SAS •    Paper mill quality improvement recommendations using Apriori, Decision Tree Analysis and Logistic Regression •    Winner of the People’s Choice award at Mind Bytes: Research and Computing and Symposium Event for: "Comparative Analysis of Capital Investments in Electric Utility Industry" – University of Chicago •    Customer demand forecasting via Arima and Holt-Winters modeling  •    Experience with R, SAS, Excel, Python

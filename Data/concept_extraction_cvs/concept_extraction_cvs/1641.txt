@@ -1,0 +1,3 @@
+Assistant Programmer
+UNIVERSITY OF NEW MEXICO, CIVIL DEPARTMENT
+• Designed and developed a desktop application using C#, Python, JAVA, WPF, .Net Framework 4.5 for adjusting input parameters for student experiments. • Provided configuration support for Campbell Scientific devices using CRBasic. • Set up Windows server 2012 r2 for 10 - 20 users.

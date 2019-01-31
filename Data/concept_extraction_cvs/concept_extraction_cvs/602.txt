@@ -1,0 +1,3 @@
+Teaching Assistant - Foundations II Python
+Code Fellows - Seattle, WA
+Provide one-on-one assistance to students, both in class and in weekly lab sessions. Curriculum includes classes and objects, functions and scope, Object-Oriented Design and Modeling, Test-Driven Development, and Git.

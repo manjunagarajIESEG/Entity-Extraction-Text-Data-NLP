@@ -1,0 +1,3 @@
+Software Engineer
+MarketSharp Software - La Crosse, WI
+JavaScript/Angular developer HTML/CSS developer C#/.NET developer Maintain existing Marketsharp CRM by implementing features and bug fixes. Develop new software projects to increase sales of business. Trello project management  Key Development Projects: • MarketSharp Connect - I am the lead front-end developer for MarketSharp Connect. A web based application for high level  lead tracking and performance metrics. It is the first product to expand outside of MarketSharp's core business and I have been on board through the whole life cycle of the project. This includes deciding technologies, architecture, development, and project management.

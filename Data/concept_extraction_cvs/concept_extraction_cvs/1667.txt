@@ -1,0 +1,3 @@
+Data Science Fellowship
+ Insight Data Science - Palo Alto, CA
+App Categorization for Pebble Watches: (www.pebbleappsearch.com) •    Designed an algorithm and interface for automatic app search and classification for Pebble Technology Corporation •    Conducted Hive query to extract relevant data and analyzed it using natural language processing techniques in Python •    Developed methodology for machine learning of patterns using Naïve Bayes, Logistic Regression, LDA, SVM, and KMeans techniques  •    Provided insights into app contents which will be used to clean the database and analyze the availability of apps compared to demand •    Deployed an interactive front end using the Flask library in Python with HTML and CSS on AWS servers

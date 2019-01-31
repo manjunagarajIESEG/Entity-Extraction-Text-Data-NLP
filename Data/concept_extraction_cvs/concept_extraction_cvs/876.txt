@@ -1,0 +1,3 @@
+Cyber Data Discovery Engineer/Analyst
+TeleCommunication Systems - Hanover, MD
+Responsibilities  • Develop and lead the engineer of a log analysis platform consisting of Splunk and ElasticSearch, Logstash, Kibana (ELK) stack to process large amount of data.  • Create Python script to automatically parse data from logs and PCAP to be feed into ELK  • Conduct network packet analysis on large amount of data to verify and track a pattern analysis. • Maintain & configure ElasticSearch components (Marvel, PacketBeats, FileBeats, & Shield)  Skills Used ElasticSearch, Kibana, Splunk, Python, Logstash

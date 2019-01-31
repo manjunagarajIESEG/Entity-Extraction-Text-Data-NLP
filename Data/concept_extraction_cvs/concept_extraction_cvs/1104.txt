@@ -1,0 +1,3 @@
+Principal Engineer
+Elekta Inc. - Sunnyvale, CA
+Responsibilities •    Helped in designing and implementing knowledge base systems utilizing Python and Big data technologies to predict enhancements and outcome from Radiotherapy treatments   •    Helped in Creating BI dashboards to provide visualization of actual outcomes and forecasting future model based on changes in the Oncology treatments   •    Designed common interfaces from various data sources to allow for better use of  Oncology related data

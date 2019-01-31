@@ -1,0 +1,3 @@
+VP
+Morgan Stanley, Trading System - New York, NY
+Developed Order Management Systems for equity, future and option securities. ● Developed market making and internal order crossing applications. ● Developed rule based order routing mechanism. ● Developed production order simulation tools, worked on performance measurement and improvement. ● Worked on FIXDMA order management system development. ● Worked on trading system production support and troubleshooting. ● Developed test cases using python to verify various trading flows.  Technologies: C++, Boost, Python, Trading system, FIX

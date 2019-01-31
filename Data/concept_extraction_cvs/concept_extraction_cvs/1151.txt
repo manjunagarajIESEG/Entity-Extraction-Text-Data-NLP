@@ -1,0 +1,3 @@
+Data Structures Coursework : Data Structures/Algorithms in Python
+University of Montana - Missoula, MT
+• Implemented abstract data structures and algorithms in Python. • Learned best programming practices in order to create clean, maintainable code.

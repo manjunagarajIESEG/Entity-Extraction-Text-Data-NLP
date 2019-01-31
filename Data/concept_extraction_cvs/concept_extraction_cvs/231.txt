@@ -1,0 +1,3 @@
+Python Developer
+TomoRain
+project. Project: Algorithm development in Python for Rainfall Map Reconstruction based on signal data from cellular networks (open-source version) Lab.: Institut de Recherche en Sciences et Techniques de la Ville (IRSTV)

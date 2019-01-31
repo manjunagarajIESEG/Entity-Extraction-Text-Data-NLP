@@ -1,0 +1,3 @@
+Software Engineer
+Teledyne Technologies Incorporated - Camarillo, CA
+Responsible for software development for FPA and imaging test systems.  This includes new projects as well as  maintenance on a growing platform for the ten years.  Responsible for all phases of development from quotes and estimates to configuration management and delivery.  Software involves image acquisition from various hardware platforms and lab equipment and analysis and reporting tailored to customer requirements.

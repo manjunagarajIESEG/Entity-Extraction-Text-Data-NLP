@@ -1,0 +1,3 @@
+Main Analyst
+IT Department, Cuban Telecommunications Company INC
+• Preparation and implementation of test cases for eCRM project using Python, PostgreSQL 9.1 and MongoDB. • Delivered Functional and User Acceptance Testing. • Selected an Agile Software Methodology to be used on ETECSA IT's development projects (SCRUM). • Created a Project Folder documentation, identification of tasks, activities, stages and diagrams of projects using agile methodologies to apply in concordance with SCRUM. • Involved in workshops / training / presentations to prepare IT Department teams to assume SCRUM and artifacts present in project folder.

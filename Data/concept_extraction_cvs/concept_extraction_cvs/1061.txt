@@ -1,0 +1,3 @@
+WaterSMART Intern
+Western Geographic Science Center U.S. Geological Survey - Tucson, AZ
+• Acquire and manage remotely sensed (MODIS) imagery for areas/periods of interest • Apply Python and R programming skills to automate select modeling processes and replicate existing data, images, and ERDAS models for new regions to show changes in agriculture over time

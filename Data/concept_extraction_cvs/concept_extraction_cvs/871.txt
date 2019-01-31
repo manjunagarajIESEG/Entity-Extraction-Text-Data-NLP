@@ -1,0 +1,3 @@
+Bioinformatics Applications Specialist
+Thomas Jefferson University and Hospital - Philadelphia, PA
+Responsibilities Collaborate with scientists at Jefferson and outside institutions to help them analyze their NGS data.  Design and implement Bioinformatics pipelines & workflows.  Skills Used Python, perl, Unix, IGV, samtools, varscan, annovar, GATK, OncoScan, CytoScan, NGS, RNA-Seq, ChIP-Seq, WES.

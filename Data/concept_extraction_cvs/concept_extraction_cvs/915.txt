@@ -1,0 +1,3 @@
+Python web developer
+Self-employed - Sacramento, CA
+Motivated by Python's clean style, explicit syntax, powerful and widely usage, I inspired myself digging into python and its related technologies, such as web crawler, big data manipulation(Panda), search engine algorithms(constant web crawling, indexing, documentation, user customization) using Janja2 and Google Webapp2, Django ecommerce website(https://github.com/fangkunjnsy/Django-multi-fuctional- website), including Html, CSS, JavaScript, JQuery/Ajax/API, BootStrap, Python web scrapy based front- end and Python, djcelery, SQLite, MongoDB, Celery asynchronous tasks queue/worker + RabbitMQ tasks manager based backend.

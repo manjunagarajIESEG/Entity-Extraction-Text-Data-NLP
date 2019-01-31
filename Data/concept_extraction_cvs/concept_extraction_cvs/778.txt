@@ -1,0 +1,3 @@
+QUALITY ASSURANCE ANALYST
+Speed Commerce
+Technology: PHP, MySQL, HTML, CSS, Javascript, Google Analytics, Paypal. Tasks/ Achievements: • Responsible for planning, designing, execution, revision & report of manual frontend tests for e-commerce sites such as shopjustice.com, yankeecandle.com, dressbarn.com, gethuawei.com, shopko.com, cache.com. •  SEO testing: tagging, titles, duplicate content, URLs, redirects & titles. • Testing of third-party implementations in sites: Paypal, Bazaarvoice, Google Analytics, Social Networks. • Testing of backend scripts for fulfillment process. • Responsible for planning, evaluation and delivery of new software features.

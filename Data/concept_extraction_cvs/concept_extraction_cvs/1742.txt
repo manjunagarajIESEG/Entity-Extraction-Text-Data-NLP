@@ -1,0 +1,3 @@
+General Atomics Software Intern
+Exposed to Python
+2014)    40 Hrs/week for 10 weeks ● Exposed to Python ● Debugged script which controlled IP addresses and Ports when data packets were sent over the network for the Unmanned Aircraft (Python)

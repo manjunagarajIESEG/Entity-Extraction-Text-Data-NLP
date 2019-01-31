@@ -1,0 +1,3 @@
+python/django developer
+DjangoStars
+2013.04 - for now Django Stars is team of star geeks with expertise in custom web application development with Python / Django, mobile and facebook apps development, geospatial systems (GIS), UI/UX and consulting [python, django, celery, postgresql]

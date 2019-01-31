@@ -1,0 +1,3 @@
+Python Developer (Consultant)
+Catalina Marketing - Saint Petersburg, FL
+Worked on an Global Targeting Solution (PaaS) application - Maintained and improved existing targeting application CAMEO - Supported user groups by handling target-related software issues/service requests, identifying/fixing bugs ( Python/ Python Web API on Heroku /Celery/RabbitMQ/SQL/ Netezza/ Oracle/ PostgreSQL/AMQP/ Virtual Machine/ Targeting/ JavaScript / UNIX )

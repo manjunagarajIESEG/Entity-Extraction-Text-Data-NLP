@@ -1,0 +1,3 @@
+Research Assistant
+EVELOP/RESEARCH FOR ROBOT MANIPULATOR SYNTHESIS
+Responsibilities Optimize algorithms for CAD software, e.g. path planning and dimensional synthesis of robot arm(manipulator), linkage motion analysis, inverse kinematics.  Accomplishments Paper published Software developed  Skills Used Mechanism design C++, Matlab, Python, Objective-C Kinematics 3D modeling

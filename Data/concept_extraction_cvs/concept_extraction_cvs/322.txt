@@ -1,0 +1,3 @@
+Junior Java Programmer
+Sathya Technologies - Hyderabad, Andhra Pradesh
+• Developed Employee Information and Payroll System Project using HTML, CSS, JavaScript, jQuery. • Worked on Airline Ticket Reservation Project through mobile using J2ME • Extensive use of Servlets, Filters and JDBC for Development and testing of new web application to manage and display the feed. • Hands on experience of JSP using Java Beans and Applets

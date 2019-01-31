@@ -1,0 +1,3 @@
+Center for Decision Technologies – Research Assistant
+Stevens Institute of Technology - Hoboken, NJ
+• Developed in autonomy iOS applications (Survey app, Coffee app), a python server with a MySQL server and a RESTful API • Presented my work to PhD. students and professors

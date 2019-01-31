@@ -1,0 +1,3 @@
+ETL developer
+Cavalier IT
+ETL Developer, CavalierIT– 11/2014 – 12/2015 •    Build 4 levels Risk Data Mart for Risk Weight Asset (RWA) application. •    Extract data from NoSQL database such as MongoDB using Python and JavaScript •    Develop sophisticated ETL mappings for data integration, data modeling  •    Using Performance tuning on SQL queries and ETL mappings •    Extract data from relational database such as Oracle 11g, MySQL •    Write UNIX Shell Script to pre-extract data, such as Sed, Awk

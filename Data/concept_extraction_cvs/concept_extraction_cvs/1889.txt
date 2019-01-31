@@ -1,0 +1,3 @@
+Python Developer
+Northeastern University - Boston, MA
+Accomplishments •    Developed a photomosaic builder, which generates a photographic mosaic given a target image and a set of tile images. •    Implemented a PageRank computing system on given 184K web documents of WT2g collection. •    Working on an information retrieval system using five different retrieval models given a subset of the TREC (AP89) corpora with 84678 web stories and 25 sample queries. •    Built several web crawlers for academic uses and personal interests.

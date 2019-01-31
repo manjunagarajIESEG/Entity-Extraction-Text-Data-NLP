@@ -1,0 +1,3 @@
+Python Mentor
+Thinkful - New York, NY
+Remote position. As a mentor, I guide my students through the basics of programming and web development in Python, Flask, and PostgreSQL. This emphasizes idiomatic Python, the design of functions and classes, and testing. The course also teaches the basic concepts of MVC, RDBMS databases, unit/integration/acceptance testing, and debugging. I do a lot of debugging, troubleshooting, and reading of code ­­along with pairing.  Accomplishments ●    One of my students, after working with me, became an Insight Data Science Fellow, an extremely competitive postdoctoral training fellowship for quantitative PhDs. Applicants must survive several rounds of weeding out. She'd previously applied and had been cut after the 2nd round.

@@ -1,0 +1,3 @@
+Software Engineer
+SocialWire / Manifest Commerce - Remote
+Technologies applied: Python, PostgreSQL, AWS, JavaScript * Web application (Python/flask, JavaScript/AngularJS) ** Server-side product infrastructure development (Python/flask, PostgreSQL). ** Server-side product feature development (Python/flask, PostgreSQL). ** Client-side product feature development (JavaScript/AngularJS). ** Production system operations (AWS, PostgreSQL). ** Web UI test harness/case development (JavaScript/Selenium WD). * Various infrastructure tasks (AWS,PostgreSQL, SaltStack).

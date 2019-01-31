@@ -1,0 +1,3 @@
+Programmeur
+ENSTA Bretagne - Brest (29)
+• Server Web en Python avec Django et MySQL • Pages de présentation sur Django en HTML

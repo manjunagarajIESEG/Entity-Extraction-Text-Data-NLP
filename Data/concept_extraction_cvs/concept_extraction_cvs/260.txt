@@ -1,0 +1,3 @@
+Senior Software Developer
+McKesson
+Duties: Application Developer ● Wrote applications using KnockOut JS,  Kendo UI, JQuery and RequireJs ● Wrote extensive amounts of JavaScript ● Worked with ASP.NET MVC 5 and SQL Server 2012 ● Used Visual Studio 2012 and 2013 for code development ● Worked in strict Agile methodologies environment ● Developed against user stories for new features and modifying extremely large Single Page Application (SPA). ● Application was written on ASP.NET MVC 5 framework ● Mentored other developers and taught classes in various languages, including ASP.NET, JQuery, JavaScript, Knockout JS, Kendo UI, and RequireJS ● Wrote RESTful WebAPI's for accessing data and connecting frontend logic via AJAX

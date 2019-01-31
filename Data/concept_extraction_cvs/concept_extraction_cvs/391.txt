@@ -1,0 +1,3 @@
+IT Specialist, IT Hardware Refurbisher
+Self Employed - Daly City, CA
+•    Extensive knowledge of Cisco router and switch command line interface •    Routing Protocols: OSPF, IGRP, EIGRP, RIPv2, BGP, IS-IS. Routed Protocols:            Telnet, SNMP, SMTP •    Router and switch security, standard and extended access list, port security. •    Layer 1-7 troubleshooting and monitoring.  •    Switching:  VLANs, VTP, STP, Layer 3 switching, PPP, NAT, PAT •    Basic Python scripting skills for automating network tasks. •    Wireless technology: 802.11 ac/g/n installation and optimization. •    Excellent Server and Desktop management skills.

@@ -1,0 +1,3 @@
+College Assistant Tutor
+New York City College of Technology CUNY, Brooklyn - New York, NY
+Interpreting electrical circuits and drawings to make technical calculations and designing electrical circuits to meet specified voltage and power requirements. •    This included using simulation software such as Multisim, Quartus II, Matlab and LABVIEW. •     Interpreting and drawing mechanical diagrams using AutoCAD and Microsoft Visio. •    Designing a bridge and calculating all static forces (stress and strain) •     Reviewing programming classes such as Python, Java, C, C++, SQL and Android. •     Mathematics (Algebra, Pre-calculus, and Calculus I), Physics (Algebra and Calculus Base)

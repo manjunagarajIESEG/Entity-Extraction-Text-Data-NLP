@@ -1,0 +1,3 @@
+Python Training
+Waynsys Inc. - New Jersey
+Responsibilities • Undergoing Python scripting training. • Incorporated strong OOPS knowledge. • Developed a project in Django framework. • The project is a Polling application which deals with the voting system of some questions with their choices. • Worked with Sublime Text and Wingware wing IDE for training. • Developed project using PyCharm IDE, PostgreSQL as backend language using pgAdmin tool. • Deployed project using Amazon Web Services EC2. • Worked on Ubuntu server. • Maintained all the project versions on Github

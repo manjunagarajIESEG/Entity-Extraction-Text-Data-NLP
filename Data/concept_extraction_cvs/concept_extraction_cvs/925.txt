@@ -1,0 +1,3 @@
+TEST AUTOMATION CONSULTANT
+REDBRICK HEALTH CORP - Minneapolis, MN
+Automated UI acceptance tests using Python (behave) and Ruby (Cucumber). Ran these tests across all test environments, analyze results, and presented findings to the quality and development teams. Worked with key persons throughout R+D to introduce quality in the continuous delivery strategy. • Developed framework for QA analysts to write automated tests using Gherkin syntax. • Integrated test automation efforts into continuous delivery process using TeamCity. • Realigned test automation practices to reflect consumer experience. • Worked within scrum teams in a continuous delivery setting.

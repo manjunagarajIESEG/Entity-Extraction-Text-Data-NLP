@@ -1,0 +1,3 @@
+Devops Engineer
+Slice - Palo Alto, CA
+• Automate anything and everything possible. • Lead efforts to migrate from RightScale to Chef environment. • Development of infrastructure automation in AWS (EC2, DynamoDb, Lambda, EBS, RDS, Dynamo, ELB, EIP etc) with AWS CloudFormation. • Development of Chef cookbooks for systems configuration management and software deployments.  • Use of vagrant for Chef cookbook testing. • Development of Fabric tasks to supplement Chef. • Build and maintain AWS AMI’s using tools like Packer. • Development of tools and systems 'glue' with Python and bash. • Migration from Amazon Linux to Ubuntu.

@@ -1,0 +1,3 @@
+Web Developer
+Silvics Solutions LLC
+I was able to work on a forestry app for Silvics utilizing web development languages such as Python, Django, Javascript, JQuery, HTML, and CSS tools such as Bootstrap, Eclipse, and Firebug  Education Partners        December 2013 - April 2015 Formerly CCMJ Consulting Technical Specialist • Solely integrated client data into SQL Server databases • Utilized SQL Server Management Studio for client integration • Worked with Adobe and HTML to create interactive forms • Provided customer technical support through Fresh Desk, a help desk software • Trained new technical specialists

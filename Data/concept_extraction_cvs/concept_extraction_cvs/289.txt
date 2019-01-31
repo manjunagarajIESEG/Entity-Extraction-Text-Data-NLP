@@ -1,0 +1,3 @@
+Firmware Engineer
+HP - Corvallis, OR
+Develop print engine control software for HP's industrial-scale web press based on thermal inkject technology.  Key technologies: C++, Linux, TCL, Python, directed graph signal processing, code inspections

@@ -1,0 +1,3 @@
+Après analyse
+Python
+A Sep2014            - Modélisation multi-milieux de transfert de polluants organiques persistants(C++). - Simulations de la dispersion de polluants dans l'atmosphère et les sols (Python). - Après analyse des résultats, proposition de solutions adéquates, en réduisant l'impact des polluants en Europe.

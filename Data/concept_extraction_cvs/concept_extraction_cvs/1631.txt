@@ -1,0 +1,3 @@
+Data Engineering Intern
+CBS Interactive - Bridgewater, NJ
+Content Body Ingestion: Parsed the html files containing review articles using python (BeautifulSoup, Regex) to get paragraph and word count, loaded the results in Avro format in HDFS. The outcome is to find the relationship between the article length and ad revenue generated per article. •

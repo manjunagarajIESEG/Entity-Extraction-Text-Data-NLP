@@ -1,0 +1,3 @@
+Visiting Researcher
+TCL Research America, Inc - San Jose, CA
+Responsibilities Product Name: Mobile Service Recommendation Responsibility: Designed and implemented web services on AWS using python for user intention mining and service recommendation.

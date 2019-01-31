@@ -1,0 +1,3 @@
+Python Developer
+EcoHealth Alliance
+Developed applications using Python and MySQL for database design • Created test cases during two week sprints using agile methodology • Designed data visualization to present current impact and growth • Developed Natural Language Processing and Machine Learning Systems

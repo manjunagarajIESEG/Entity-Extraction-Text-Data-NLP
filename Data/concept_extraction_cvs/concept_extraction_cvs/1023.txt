@@ -1,0 +1,3 @@
+Software WebApps Engineer - Trading Infra
+Systems and Analytics Software at TA Partners, LLC
+Trading Systems/Web Apps Infra. development, operations, and Trading Analytics software development. Languages: Frameworks: Python: Django, PHP: CakePHP, Javascript: Node.js. Build out retained trading strategy model from concept to interface. Integrate data feeds and execution platforms data streams into analytics platform.

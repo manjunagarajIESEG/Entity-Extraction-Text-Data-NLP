@@ -1,0 +1,3 @@
+Software QA automation Engineer
+Kaiser Permanente - Mountain View, CA
+• Manual testing, automation testing using TestNG & Java • Utilize testNG classes to produce test reports (in csv format) across OS platforms and browsers; provide test report in real time using testNG (1K lines of code) • Implementation of Hipchat API – designed and coded a BOT (900 lines of code) – to monitor test environment • Whitebox testing & code debug using testNG, Java & Eclipse • Selenium WebDriver, JUnit • Code management using Rally, HP QC, Maven, and Git • Agile methodology • Java, Linux, SQL, Javascript, Python • Mac, Windows

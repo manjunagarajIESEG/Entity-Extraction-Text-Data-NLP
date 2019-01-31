@@ -1,0 +1,3 @@
+Test Automation Engineer
+Wesgrow Software
+• Selenium-Python automation script development. • Identify regression scenarios and develop automation test scripts. • Creating new automated tests for new features with Selenium-Python framework. • Data-driven testing with production data-sets. • Execute automated smoke test and report results on daily basis. • Maintaining and improving existing automation test framework

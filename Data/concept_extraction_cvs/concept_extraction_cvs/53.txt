@@ -1,0 +1,3 @@
+Stage au Centre de recherche Henri Tudor
+Python
+Each-sur-Alzette, Luxembourg - Modélisation des pièces métalliques à l'aide d'Abaqus en programmant sur Python.  Aide à la réalisation d'un robot, dans le cadre d'une compétition à l'école Polytech'Nantes. Travail sur des outils de test de performance de l'exécutif temps-réel InTime pour l'entreprise GeneralHealtcare à L'école Polytech'Nantes, Nantes, France.

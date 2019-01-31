@@ -1,0 +1,3 @@
+Open Source Governance Intern, Global Technology Legal Compliance
+SAP Labs China - 上海市
+•   Inter-communication with many different product groups to ensure legal compliance of products before distributed. •   Organized the open source components data and maintained its quality (correctness, integrity and consistency). •   Implemented automation python scripts for data feeding, data cleansing and data maintaining tasks. •   Made suggestions on data management and built tools to boost working efficiency for daily tasks.

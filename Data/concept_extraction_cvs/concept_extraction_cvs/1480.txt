@@ -1,0 +1,3 @@
+Java Developer
+TEKTAK PVT. LTD - Kathmandu
+Conducted web development, bug analysis and resolution, and documentation for social networking web application.  • Web applications development based in Java Spring through team collaboration. • Implemented Spring Security, developed REST services, completed unit tests, and created Java Docs. • Technologies: Java, Spring MVC, Spring Security, Intellij Idea, Ubuntu, MySQL, HTML, JQuery, Apache Tomcat, Git, JUnit, Maven

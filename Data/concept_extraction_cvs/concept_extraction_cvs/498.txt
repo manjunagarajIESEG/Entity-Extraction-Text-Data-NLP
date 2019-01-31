@@ -1,0 +1,3 @@
+Java Developer
+www.maslennikov.us - Seattle, WA
+Responsibilities Self-study programming projects                 Implementation and maintenance of a Java GUI application using JFC/Swing API Testing Used GITHUB for code repository  Skills Used Java, Eclipse, git, windows

@@ -1,0 +1,3 @@
+Software Engineer II, QoS feature and Analytics
+EMC, Global Headquarter - Hopkinton, MA
+QoS) and Analytics feature, Core Technology Division    01/2015 - Present • Test-driven development for QoS and Data analytics feature of VNX storage systems (C/C++, Perl/Python, PostgreSQL, RESTful services) • Agile SCRUM, stories and tasks planning, version control & code stream management. Full software development lifecycle (SDLC) experience, continuous integration (Jenkins)

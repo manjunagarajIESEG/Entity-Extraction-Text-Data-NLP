@@ -1,0 +1,3 @@
+SOFTWARE DEVELOPER
+General Electric (GE) - Montréal, QC
+• Participant in the Edison Engineering Development Program (EEDP), one of General Electric's six corporate rotational programs fo- cused on developing technical excellence. • Implemented python scripting cases in robot framework to test custom hardware functionality • Conducted full-stack web development with the MEAN stack, Java, and Predix (GE cloud based platform) • Designed and assisted to build Windows application for energy metering and calibration.

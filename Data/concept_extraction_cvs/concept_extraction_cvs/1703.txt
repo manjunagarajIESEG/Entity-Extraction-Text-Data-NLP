@@ -1,0 +1,3 @@
+Sr Python Developer
+Peloton Cycle - New York, NY
+Responsibilities Integrated a forms processing library (wtforms) into an internally developed content management system built with CherryPy which was previously using doing per-controller validation and directing all form errors to a generic failure page. Bug fixes on an internally developed ORM. Troubleshooting of memory and performance problems.

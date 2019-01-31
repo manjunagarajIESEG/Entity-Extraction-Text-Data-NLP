@@ -1,0 +1,3 @@
+Reports Developer
+LenderLive
+Responsible for converting an encrypted legacy report delivery system into a new, maintainable system, via scripting code.  Researched a nosql bigdata using Hadoop with MapReduce, and a math layer utilizing the scipy module in Python.

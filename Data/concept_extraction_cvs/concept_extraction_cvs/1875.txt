@@ -1,0 +1,3 @@
+Data Analyst
+HuaAT Data Technology Co. Ltd - 上海市
+Built web scraper using Python. Pulled and organized publicly available data from a variety of sources online using web scraping methods. Manipulated and processed these data for modeling. • Initiated a Social Network Analysis program. Independently collected and analyzed 50,000 Sina Weibo users' profile and friend, follow relationship. Explored these data using Descriptive Statistics method and Complex Network theory. Data munging and Visualization in Python and Gephi

@@ -1,0 +1,3 @@
+Financial Software Engineer
+GREEN TREE Investment Management LLC - Saint Paul, MN
+Develop framework on Amazon Cloud for Mortgage-Backed Security models by utilizing C#, WPF, WCF, ASP.NET MCV, Silverlight, Excel, SQL Server, SSIS, Python and SharePoint.

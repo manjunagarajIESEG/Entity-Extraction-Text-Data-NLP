@@ -1,0 +1,3 @@
+Sr Software Engineer
+Schlumberger - Sugar Land, TX
+• Develop C++ plugins for Techlog with google unit tests and Python • Ocean Plug-in Lifecycle Certification • Update Company Folder with new plugin package

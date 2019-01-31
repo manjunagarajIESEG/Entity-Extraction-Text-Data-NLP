@@ -1,0 +1,3 @@
+Economically Viable Electroencephalogram Robotic Arm 	
+New Jersey Institute of Technology
+Responsibilities •    Research published in NJIT July 2015 symposium book •    Conducted researcher on biotechnology to create an affordable prosthetic arm •    Constructed the prosthetic arm using Autodesk Inventor    •    Developed an algorithm for motor control through Arduino and Raspberry Pi •    Formulated an algorithm to read brainwaves from EEG and to send it to the arm through      Bluetooth  Accomplishments Was able to research a better and more affordable robotic arm for users.  Skills Used Python C# Controls Autodesk Inventor

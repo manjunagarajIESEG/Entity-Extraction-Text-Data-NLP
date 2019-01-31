@@ -1,0 +1,3 @@
+Software test automation engineer
+Cisco Systems
+Develop test plans, configure test system, and write test automation scripts using TCL/Python for functional test for Cisco Nexus 5K, 6K series Nexus switches. * Develop topology based on test requirements, setup the test bed and implement test scripts for ipv6 unicast feature. * Execute sanity, regression test suits of L2/L3 protocol, and document software defects using bug tracking system. * Work closely with the development, SQA, and the support team to ensure a high quality product.

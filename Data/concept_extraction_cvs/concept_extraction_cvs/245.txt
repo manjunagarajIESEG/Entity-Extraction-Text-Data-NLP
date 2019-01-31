@@ -1,0 +1,3 @@
+Firmware Verification Tech
+Starkey Hearing Technologies - Eden Prairie, MN
+• Verify the functionality of the firmware using software tools, python scripts, hearing aids, development boards and measurement tools. • Work with Firmware engineers to test and validate new versions of Firmware used in Starkey Hearing Aids. • Clearly communicate issues with firmware developers and work with them to root-cause and resolve issues. • Test functionality and reliability of iphone based applications (TruLink) that work with Starkey hearing aids. • Used different custom software's like Kiwi, Jira and Test rail to test and document test process; develop and refine test procedures. • Work with firmware and development engineers in configuring devices and recreation of defects.

@@ -1,0 +1,3 @@
+Stage Concepteur Développeur
+Aistos
+Développement d'une application de diagnostic automobile pour Raspberry Pi (Python, wxPython, SQLite). - Acquis majeurs: Autonome ; organisation et gestion de projet.

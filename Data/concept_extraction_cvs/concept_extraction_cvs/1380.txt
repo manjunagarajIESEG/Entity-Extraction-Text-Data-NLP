@@ -1,0 +1,3 @@
+CAE Analyst (Finite Element Analyst)
+Cook Research Inc
+Design and finite element analysis of biomedical devices. Documentation and reports Duties    preparation. Ad-hoc material properties test and biomedical device prototypes experimental tests and measurements.  Projects    Cardiovascular Biomedical devices  ABAQUS (Finite Element Analysis), User-defined subroutines (Fortran), Scripting Skills (Python), Drawing (AutoCAD)

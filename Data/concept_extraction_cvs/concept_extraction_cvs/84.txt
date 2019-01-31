@@ -1,0 +1,3 @@
+Research Fellow
+N.C.S.R. Demokritos - Αθήνα
+• Supervised and collaborated with graduate students for research projects based on cognitive and interactive robotics. • Presented lectures and project progress in research committees for evaluation and intervention. • Developed in C++, Python, ROS, OpenCV and Robotic Matlab Toolbox.

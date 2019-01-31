@@ -1,0 +1,3 @@
+Jr. Software Engineer
+Hewlett Packard
+Design and implement a Python automation test framework for Android E2E testing using Selenium Webdriver and Google UiAutomator ● Integrated Android, iOS, Mac client automation with Jenkins for CI builds ● Collaborate with developers early on in the testing process to develop test plans and write test cases and automation scripts.

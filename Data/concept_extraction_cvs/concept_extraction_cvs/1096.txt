@@ -1,0 +1,3 @@
+BI technical consultant
+EJADA Ltd
+Credit Agricole Egypt Member of the team working on migrating the enterprise data warehousing, BI solution to reflect the changes of the migrating CBS (Core Banking System) from Oracle FLEXCUBE V6 to V12, in addition to build the bank operational reports, and the implementation of the Central Bank of Egypt reporting system.  My role is to develop new reports using OBIEE (BI Publisher and Analyses), preform SIT (System Integration Test) for the created reports.

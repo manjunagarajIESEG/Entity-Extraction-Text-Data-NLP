@@ -1,0 +1,3 @@
+WordPress Web Developer
+MCM Services Group, LLC - Eagan, MN
+Responsibilities Designed, developed, and deployed clients WordPress landing pages:  - LowtCaseLawyer.com - OnglyzaPain.com - BloodClotFilterWarning.com Customizing and modifying existing templates. Extended existing WordPress themes with HTML, CSS, JavaScript and PHP. Created custom widgets with jQuery libraries. Cross browser compatibility and testing. Provide internet related services including web site design, domain name registration, web hosting.  E-Commerce Web Design and Development - momtcheva.azurewebsites.net - Workflow tools included: WooCommerce, Cart Stock Reducer, YITH plugins, Jetpack and more.

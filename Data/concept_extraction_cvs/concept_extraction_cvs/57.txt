@@ -1,0 +1,3 @@
+Academic Projects
+Image Forensic
+Developed an image manipulation detection technique in Python(scikit-learn, Sklearn, Pandas, NumPy, Matplotlib ) using Logistic Regression and steganalytic features of the tempered image. I accomplished finding the tempered region of the image, image is original or not and the final pattern classifiers on the pixels of the image.

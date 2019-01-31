@@ -1,0 +1,3 @@
+Teaching Assistant
+St. Edward's University
+HHMI funded class about mycobacteriophage genomics. Responsible for making media for microbial cultures, regularly calculating dilutions, decontamination of glass  and disposal of waste via autoclave, organizing lab, programming in Python, using genome annotation resources, providing student and teacher assistance

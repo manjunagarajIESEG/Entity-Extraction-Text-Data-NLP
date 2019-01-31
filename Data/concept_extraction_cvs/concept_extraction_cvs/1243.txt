@@ -1,0 +1,3 @@
+GIS Intern
+City of Lansing - Lansing, MI
+•    Gained experience with ESRI ArcGIS products by adding data (as-builts for infrastructure, streets, sewers) to SDE database and Web Maps in order to share information with field workers and the public •    Documented my workflow for each project •    Provide Python programming support  Accomplishments Completed various projects and updated infrastructure web map to include all archived design plans.  Skills Used GIS, ArcGIS, Python, Geocoding, Documentation, Efficiency, Attention to detail, Responsibility

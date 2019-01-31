@@ -1,0 +1,3 @@
+Programming Intern
+Cross River Bank - Fort Lee, NJ
+Programmed using: C#, HTML, CSS, SQL ◦ Worked with Visual Studio and SQL Server Management Studio ◦ Automated the company's CFO's bank routines ◦ Communicated with the CFO regarding the project specifications and adjusted the program accordingly

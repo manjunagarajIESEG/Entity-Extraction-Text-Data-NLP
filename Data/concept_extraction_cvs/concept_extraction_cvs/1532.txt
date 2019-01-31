@@ -1,0 +1,3 @@
+Research Assistant
+Characterization of Lya Emitting Galaxies - Berkeley, CA
+Ryan Trainor • Analyzed a large data set consisting of over 1700 galaxy spectra surrounding Hyper Luminous Quasars. • Correlated the Lyman Alpha emission line to gas dynamics in and around the galaxies. • Created multiple Python Scripts in order to automate this analysis and to categorize their statistical significance.

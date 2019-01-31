@@ -1,0 +1,3 @@
+Lead Programmer
+South Eugene Robotics Team
+- Wrote code to control a robot both autonomously and under operator control  -  Java - Created target recognition systems using computer vision - Built closed loop control system using encoders and switches  -  PID - Adopted and improved an open-source robotics simulator - Debugged and troubleshooted complex systems - Modeled and prototyped key components - Autodesk Inventor, 3D Printing  S OFTWARE     Computer Programming: C++, Java, C, python, bash, MongoDB, git

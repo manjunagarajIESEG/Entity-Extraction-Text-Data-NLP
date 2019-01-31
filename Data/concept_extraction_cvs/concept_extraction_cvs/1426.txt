@@ -1,0 +1,3 @@
+Personality Insights Analyzer
+Personal Project
+Created a web application that takes user input and displays a quantified, visual, and narrative portrayal of their personality traits using IBM Watson. • Utilized Python Flask to build the application, IBM Bluemix, IBM Watson's Personality Insights API, Twitter API, MongoDB, and the Natural Language ToolKit Python libraries.

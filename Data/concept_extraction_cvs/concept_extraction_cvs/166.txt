@@ -1,0 +1,3 @@
+Research Assistant
+University of Michigan Health System
+• Working as a part of team developing sensors for the Europa mission. I am involved in analysis and visualization of data from the sensors and also writing machine learning algorithms for noise reduction. • Tools/Techniques: Python ( Pandas, Numpy, Matplotlib)

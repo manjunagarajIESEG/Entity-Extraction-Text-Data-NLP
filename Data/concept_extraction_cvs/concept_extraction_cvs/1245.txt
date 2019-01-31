@@ -1,0 +1,3 @@
+Remote Software Developer
+SERVOY
+Responsibilities: • Program business logic for Servoy's customers utilizing Agile Scrum methodology. • Aside from hands-on software development also, together the product owner team, work on the roadmap of these applications. • Provide support and consultation for other developers. • Fix and/or report issues found with Servoy's IDE and Framework. Projects: •  CURIS - Codename for BETA HealthCare Group's biggest developmental project to date. It consists of moving their claim's and policy's management system from a legacy platform (FoxPro) to a more future proof framework using Servoy. This system will contain BETA's new claims, underwriting, and risk information systems.

@@ -1,0 +1,3 @@
+Java Developer
+BCBAL
+Responsible for the development of front-end, middleware, and back-end components of critical applications. This includes analysis, design, coding, testing, and maintenance of the application. Responsible for design, develop, test and maintain a critical backend application. This middleware application controls the data flow between ECM systems and end user applications.  Tools: Java, JEE, Spring, HTML, CSS, JavaScript, jQuery, Dojo, Ajax, SiteMesh, Tiles, Jax ws, CXF, Oracle, Tomcat, WebSphere Application Server, Custom Frameworks, Eclipse, SVN,

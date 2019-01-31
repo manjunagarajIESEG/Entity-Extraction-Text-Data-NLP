@@ -1,0 +1,3 @@
+Stage de validation d'étude
+PSA Peugeot Citroën
+Conception d'une application de Contrôle et de mesure d'un microduromètre automatique en Python  Compétences

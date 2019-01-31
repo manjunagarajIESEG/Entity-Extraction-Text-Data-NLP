@@ -1,0 +1,3 @@
+Java Developer
+ATAS - Aequor Technologies
+Environment/Tools: Struts1.1, XML, Weblogic8.1, Oracle9i, Java Mail, Python  Key Responsibilities • Clarifications of requirements from the client, Resolved the technical issues. Involved in coding and done testing of various modules. The goal of this project was to create a custom site that will feature selected episodes of TV shows from 50 studios and/or other participating parties.

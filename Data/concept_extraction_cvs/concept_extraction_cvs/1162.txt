@@ -1,0 +1,3 @@
+Research Assistant
+Worcester Polytechnic Institute - Worcester, MA
+Responsibilities Working on a Data Science research paper “Probabilistic Inference of Internet Node Geolocation with Anomaly Detection”.  Applied probabilistic clustering techniques to find which IP Addresses belonging to a subnet are fit for IP Geolocation based on probabilities using R and Python.  Accomplishments Learned unsupervised techniques to glean insights from data. Learned to write statistical reports. Learned the nature of Pings (latency) measured between IP Addresses.  Skills Used R, Python, Statistics, Clustering, Data Visualization, Data Analyses,Data Exploration, LaTeX

@@ -1,0 +1,3 @@
+Java Developer
+IBM - Columbus, OH
+Enhanced and fixed defects of an internal website (Java) ● Created and altered SQL tables in SQL Server management 2008 and removing excessive codes and replaced them with codes that are suitable to multi-use functions. ● Created several servlets for J2EE website. ● Developed new add on functions to an existing Nationwide application (C#) ● Troubleshoot and fix bugs for Nationwide applications (C#) ● Part of an agile team (12 members)

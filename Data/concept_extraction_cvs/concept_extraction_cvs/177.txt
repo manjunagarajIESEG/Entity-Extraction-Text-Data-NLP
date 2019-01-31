@@ -1,0 +1,3 @@
+Software Systems Consultant, India
+ITC INFOTECH
+Formulated the Python code to implement the M2M protocol and control the robotic arm (Six Servo Motors) for

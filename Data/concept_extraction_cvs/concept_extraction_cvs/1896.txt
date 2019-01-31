@@ -1,0 +1,3 @@
+UI Architect, Sr. Javascript Developer
+Comcast - Englewood, CO
+Developing several Single Page Angular Apps utilizing Google Maps, D3, Web Sockets, Java, Node.JS and a variety of of other advanced technologies.

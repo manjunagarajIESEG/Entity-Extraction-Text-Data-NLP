@@ -1,0 +1,3 @@
+Quantitative Analyst, Research and Analysis Department
+Holdings - New York, NY
+•    Use Python, Matlab and R to model and report detailed credit assessments and systematic risk assessments for P2P loan markets •    Conduct risk reporting on primary shares and credit flow derivatives with VaR, CVaR and CoVaR •    Write SQL queries to examine data, perform data mapping, and conduct data analysis •    Provide reports to other departments and management on a request basis

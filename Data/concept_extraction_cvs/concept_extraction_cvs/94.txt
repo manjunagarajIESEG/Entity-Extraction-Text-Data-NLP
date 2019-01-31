@@ -1,0 +1,3 @@
+Senior Researcher and Python & C# Developer
+Cellebrite Mobile Synchronization
+Cellebrite's products extract, decode and analyze mobile device data in a forensically sound and legal manner. • In-depth research of various mobile applications • Content decoding from bit-level to application data, including restoration of deleted information • Analysis of proprietary file formats, file system structures and databases • Programming primarily in Python and C# • Design and maintenance of research infrastructure

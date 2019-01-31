@@ -1,0 +1,3 @@
+Principal Founder
+Survive The Season - Boston, MA
+Survive The Season is a mobile game application for Android devices. It is a variant of the "eliminator" football pool. The end product gracefully incorporates a surprising amount of moving parts into an app that is simple enough for casual fans to enjoy and compelling enough for hardcore fanatics. • Distributed mobile application over Google Play Store • Built complex system, using Python to query NFL data and for regular maintenance activities, Ruby on Rails for user interface • Fully responsive design allows game to be played in web browser over any device

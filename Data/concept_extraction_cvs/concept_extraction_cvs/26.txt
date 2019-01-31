@@ -1,0 +1,3 @@
+Backend Java Developer
+PROS
+• Currently working on "Stratus" - a cloud based Revenue Management product • Assisting in designing a RESTful Revenue Management application using JAX-RS • Gained experience working with Cassandra as the primary database • Used Map Reduce and Hadoop to implement a parallelizable Passenger demand forecaster • Also responsible for collaboratively monitoring system maintenance in Azure

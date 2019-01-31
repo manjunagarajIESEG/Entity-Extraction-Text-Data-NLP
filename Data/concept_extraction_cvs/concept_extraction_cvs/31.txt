@@ -1,0 +1,3 @@
+Signal Processing Team Leader - Optical Design
+University of California - Irvine, CA
+Worked with other undergraduate leaders to create appropriate experimental setup conditions in order to collect spectroscopic data. • Worked with Solidworks and Makerbot to 3D print tools necessary for data collection as well as problem-solved prior to production to save costs and time. • Created and executed vital multivariate analysis techniques across multiple platforms, including PARAFAC in Matlab, Principal Component Analysis in R, and Scaled Subtraction in Python and Matlab. • Created a "Pipeline" of the multivariate analysis techniques with clear steps for future team members to build upon my work.

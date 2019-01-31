@@ -1,0 +1,3 @@
+Research Assistant
+Collaborative Technology Laboratory
+•   Research  assistant  to  an  interdisciplinary  team  of  researchers  in  the  "CollabLab" •   Work  closely  with  graduate  students  to  create  web  applications  using  Flask •   Project  focusing  on  Natural  Language  Processing  using  the  Natural  Language  Python  Toolkit

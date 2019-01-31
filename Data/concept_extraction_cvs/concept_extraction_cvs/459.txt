@@ -1,0 +1,3 @@
+Quarter Project
+UCSD
+Congestion alleviation in networks using fibbing. Designed and implemented hybrid routing mechanism to detect congestion in networks and insert fake nodes in routing tables to enable use of multiple paths and alleviate congestion. Project done as part of graduate networking coursework. Wrote code in java, python and perl for this project.(Layer 3, Layer 2, SDN)

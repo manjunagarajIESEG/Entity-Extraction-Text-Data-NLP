@@ -1,0 +1,3 @@
+Test Automation Engineer
+Cisco Systems, Inc - San Jose, CA
+Details of Position: Working first for the Cloud Virtualization Group (CVG) that is part of the Cloud Technologies Office (CTO), providing a Python based testing infrastructure, and support for automated testing of an NFV solution. Then having shifted to the CNS (Cloud Network Solution)  group, to provide the same automation infrastructure, and to extend it for continuous integration testing with Jenkins. All scripting being done with Cisco provided, Python libraries and various open libraries, publicly accessible and available, version 2.7 and higher, but less that Python 3.0.

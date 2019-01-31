@@ -1,0 +1,3 @@
+Part-Time, Internship
+Creative Aero Engineering Solutions - Long Beach, CA
+• Developed a key and mouse input tracking application that replays the input in Linux environment using C++. • Implemented a prototype of motion predicting application by applying machine learning using Python and

@@ -1,0 +1,3 @@
+QAE
+MaxPlay - Austin, TX
+Responsibilities Develop new test automation and step definitions using Cucumber for their Game Engine  Skills Used Java, Cucumber, JetBrains, Python and JIRA

@@ -1,0 +1,3 @@
+Research Analyst
+Rocket Fuel - New York, NY
+• Building complex interactive data visualizations with D3.js • Data mining and web scraping with Python in order to tell interesting and compelling stories through research papers and blog posts • Building predictive models based on both first and third party data • Automation of analytical and research based tasks with Python • Developing Marketing Mix Models to optimize the allocation of spend across marketing initiatives and maximize ROI • Development of a deep understanding of Hadoop and real-time bidding infrastructures • Arming sales team with insightful analysis to engender thought leadership

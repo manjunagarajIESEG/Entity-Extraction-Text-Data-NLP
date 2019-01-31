@@ -1,0 +1,3 @@
+Developer, Bureau of Business and Economic Research, UNM
+Python
+Performed data analysis on New Mexico Crash Reports and automated the data cleaning process by writing Python code to connect to a database or read from an excel sheet, perform regular expression matching to every important field in order to eliminate gibberish content that has been entered in the database. Python, Pandas, Maria DB, MySQL. • Web developer at department and administered the lab, assisted faculty/students with computers and resolved various hardware and software issues.

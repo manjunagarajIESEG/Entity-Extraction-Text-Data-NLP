@@ -1,0 +1,3 @@
+IT Specialist
+BRASCUBA CIGARETTES S.A - Havana
+VMware infrastructure administration, configuration, fail-over configuration, provisioning and hardware upgrades planning. External storage appliances configuration to work with the infrastructure. •   Provided Unix mostly and Windows based systems administration, configuration, updates, backup and disaster recovery monitoring, troubleshooting malfunctions, systems performance monitoring and provisioning tasks. Created backup and automation scripts in bash and python. •   Worked in the LAN administration, planning and troubleshooting.

@@ -1,0 +1,3 @@
+Author, Practical Data Science Course
+Packt Publishing - Remote
+Responsibilities • Developing and teaching P​ractical Data Science ​online video course covering intermediate level machine learning techniques in Python and R

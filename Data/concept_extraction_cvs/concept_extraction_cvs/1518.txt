@@ -1,0 +1,3 @@
+Front end developer
+Zion Tech
+Developed and maintained trade mall system on web. -Technologies used: HTML, PHP, JavaScript -Database used: MySQL • Developed and maintained an user-facing application, optimizing applications for maximum speed and scalability. -Application drawing a graph in Android OS - Used tools: AngularJS, C++ • Developed System Integration for constructing an application and web site in the enterprise for the efficient work using Java, SQL and JavaScript. - including web templates, customization tools and web applications. Skills Languages: Java, C++, HTML5, JavaScript, Python  Tools: CATIA V5, Hypermesh, NX10.0, Matlab

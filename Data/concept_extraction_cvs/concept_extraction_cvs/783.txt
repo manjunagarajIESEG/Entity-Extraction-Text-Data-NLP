@@ -1,0 +1,3 @@
+Python Developer / Contract 
+Inview Corporation - Austin, TX
+o Front and back end development of technical user interface o MVC development of front end with Ember.js and jQuery o Created unit tests with Selenium o Extended and created RESTful web services with Python/Flask back end

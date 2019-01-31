@@ -1,0 +1,3 @@
+Lead Linux Engineer
+TLO - Boca Raton, FL
+Responsibilities Designed, coded. and implemented a system for maintaining and utilizing server-specific envrionment settings for Ubuntu Server instances.  Designed, coded, and implemented a system for monitoring file transfer jobs, and alerting when transfers were delayed.  Supported various internal web and background applications;  All utilizing Python, Django, and Bash in an Ubuntu Server 14.04 environment.  Skills Used Programming, DevOps, Linux Administration, troubleshooting

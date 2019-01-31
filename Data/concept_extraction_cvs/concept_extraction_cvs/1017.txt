@@ -1,0 +1,3 @@
+Software Developer Engineer
+Narra Systems LLC - Santa Clara, CA
+Responsibilities Customer Facing, Developer and Test Engineer  Accomplishments -Developed the base TCL API for NFast 2.0 release which is also used for the development of the TCL API for NFast 3.0 release - Developed the PERL API for NFast 2.0 release - Developed the PYTHON API for NFast 2.0 release - Team Member of the Performance Team from April - May 2011 - Started as team member of the Web Development Team from November 2011 and became Technical Lead from January 2012 to mid 2013 - Onsite support for Narra Systems since October 2012 for the US office  Skills Used Perl, TCL, Python, Javascript, JQuery, CSS, Unix

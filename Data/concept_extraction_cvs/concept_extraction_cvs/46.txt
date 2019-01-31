@@ -1,0 +1,3 @@
+Assistant ingénieur de recherche
+recherche - Laboratoire
+- Laboratoire de mécanique             Fraunhofer Institute, Allemagne •    Modélisation d'un procédé de mesure de contraintes résiduelles sous Abaqus. •    Transposition depuis Matlab vers Python d'un code de corrélation d'images. •    Participation active au sein de réunions hebdomadaires en anglais et allemand. Résultats: développement informatique, détermination de comportement mécanique.

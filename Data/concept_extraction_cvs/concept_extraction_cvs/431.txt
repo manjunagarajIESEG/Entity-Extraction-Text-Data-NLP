@@ -1,0 +1,3 @@
+Intern
+Telecom-SudParis - Paris (75)
+Paris Works: Train classifiers in OpenCV (opencv_traincascade) with different databases   Crop images (Python code)   Evaluation of classifiers

@@ -1,0 +1,3 @@
+Java Software Development Intern
+PEARSON VUE
+● Worked independently with Pearson VUE's API to improve the desktop application's UI using Java Swing, working with a large shared code base of over thousands of classes ● Exposed to modern agile software development methodologies ● Participated in a hackathon to improve the testing of UI components for Pearson VUE exams

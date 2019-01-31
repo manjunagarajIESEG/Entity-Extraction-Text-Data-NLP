@@ -1,0 +1,3 @@
+Quality Assurance Engineer
+TangoMe - San Jose, CA
+Responsibilities Focused on server testing for each monthly release and off-cycle bug fix release. Wrote unit tests for server components using python. Maintained the server health in the testing environments
