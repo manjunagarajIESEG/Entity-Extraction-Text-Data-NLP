@@ -190,10 +190,6 @@ orgdescriber1 <- function(org){
 df2[[2]] <- lapply(df2[[2]], orgdescriber1)
 
 
-
-
-
-
 # since company comes before "-", new function "orgdescriber2" was added to extract what is before "-"
 orgdescriber2 <- function(org2){
   org2 <- strsplit(org2, "-")
@@ -203,10 +199,19 @@ orgdescriber2 <- function(org2){
 df2[[2]] <- lapply(df2[[2]], orgdescriber2)
 
 
-# adding companies in the description basetable
-# df2$organisation2<-unlist(lapply(strsplit(as.character(df2$organisation), c("engineer","analyst","developer")), function(x) x[2]))
-df2$organisation2<-regmatches(df2$organisation,gregexpr("(?<=developer).*",df2$organisation,perl=TRUE)) 
-description$company<-df2$organisation2
+# change the results that are longer than 5 words (there are almost no company names with
+# more than 5 words) to missing
+wordcounter <- function(org3){
+  wordcount <- sapply(strsplit(org3, " "), length)
+  if (wordcount > 5){
+    org3 <- "missing"
+  }else{
+    org3 <- org3
+  }
+}
+
+df2[[2]] <- lapply(df2[[2]], wordcounter)
+
 
 
 ################SKILLS
