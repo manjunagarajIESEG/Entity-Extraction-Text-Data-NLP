@@ -19,11 +19,11 @@ if (!require("dplyr")) install.packages("dplyr", quiet=TRUE) ; library(dplyr)
 
 
 ## import all files in the directory
-path <- "C:/Users/mrudrappa/Desktop/SMA/concept_extraction_cvs/concept_extraction_cvs/*.txt"
+path <- "C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt"
 
 description <- readtext(path)
 
-stateabbreviation <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/stateabbreviation.xlsx")
+stateabbreviation <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/stateabbreviation.xlsx")
 
 #################Location
 
@@ -68,7 +68,7 @@ if (!require("ggplot2")) install.packages("ggplot2", quiet=TRUE) ; library(ggplo
 if (!require("maps")) install.packages("maps", quiet=TRUE) ; library(maps)
 
 #load US map data
-states_location <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/states_location.xlsx")
+states_location <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/states_location.xlsx")
 
 
 #Adding lantitude and longitude for the map
@@ -91,7 +91,7 @@ ggplot(state_count, aes(x = as.character(state_count$Var1), y = state_count$Freq
 
 #################Positions/Titles
 
-dictionary <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/Dictionary.xlsx")
+dictionary <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/Dictionary.xlsx")
 
 
 #reloading the data + cleaning for "position" column
@@ -142,12 +142,20 @@ x <- cld2::detect_language(description$text)
 df2 <- data.frame(description = as.character(description$text))
 description$language <- cld2::detect_language(as.character(df2[[1]]))
 
+
+
+
+
+
+
+
 #################Organization
 #re-loading/cleaning text files for organizations
 descriptionorg <- readtext(path)
 descriptionorg$text<-gsub("\\n", " ", descriptionorg$text)
 descriptionorg$text <- tolower(descriptionorg$text)
 descriptionorg$text<-gsub(c("/"), "", descriptionorg$text)
+descriptionorg$text<-gsub("\\("," ", descriptionorg$text)
 
 #creating df2 before inserting in the description basetable 
 df2 <- data.frame(description = descriptionorg$text)
@@ -161,9 +169,13 @@ df2 <- data.frame(description = descriptionorg$text)
 df2$organisation <- as.character(df2$description)
 jobdictionary <- dictionary$Position
 
+#options(show.error.location=TRUE)
+#df2 <- df2[120:125,]
+
 #using function to extract companies after job titles 
 orgdescriber1 <- function(org){
-  if(split <- strsplit(as.character(org),split=" ")[[1]]) {
+  if (str_detect(org, paste(jobdictionary, collapse = "|"))){
+    split <- strsplit(as.character(org),split=" ")[[1]]
     match <- unique (grep(paste(jobdictionary,collapse="|"),
                           split, value=TRUE))
     
@@ -173,19 +185,23 @@ orgdescriber1 <- function(org){
   } else {
     org <- "missing"
   }
-  
 }
 
 df2[[2]] <- lapply(df2[[2]], orgdescriber1)
 
-# since company comes before "-", new function "orgdescriber2" was added to extract what is before "-"
 
+
+
+
+
+# since company comes before "-", new function "orgdescriber2" was added to extract what is before "-"
 orgdescriber2 <- function(org2){
   org2 <- strsplit(org2, "-")
   org2 <- org2[[1]][1]
 }
 
 df2[[2]] <- lapply(df2[[2]], orgdescriber2)
+
 
 # adding companies in the description basetable
 # df2$organisation2<-unlist(lapply(strsplit(as.character(df2$organisation), c("engineer","analyst","developer")), function(x) x[2]))
