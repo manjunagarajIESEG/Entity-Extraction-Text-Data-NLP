@@ -63,6 +63,13 @@ for (i in 1:length(description$text)){
   
 }
 
+naconverter <- function(col){
+  ifelse(is.na(col), "missing", col)
+}
+
+description$city <- lapply(description$city, naconverter)
+description$state <- lapply(description$state, naconverter)
+
 #visualization
 if (!require("ggplot2")) install.packages("ggplot2", quiet=TRUE) ; library(ggplot2)
 if (!require("maps")) install.packages("maps", quiet=TRUE) ; library(maps)
@@ -132,21 +139,22 @@ description$position<-df$job
 
 #################Language
 
-# detecting languages other than English
+# detecting languages testing textcat and cld2 and finally using cld2
 install.packages("textcat")
 library(textcat)
 install.packages("cld2")
 library(cld2)
-r <- textcat(description$text)
-x <- cld2::detect_language(description$text)
+
+df2$language <- textcat(as.character(df2$description))
 df2 <- data.frame(description = as.character(description$text))
 description$language <- cld2::detect_language(as.character(df2[[1]]))
 
+table(df2$language, exclude = NULL)
+table(description$language, exclude = NULL)
+checkset <- description[is.na(description$language),]
+checkset2 <- df2[df2$language =="catalan", ]
 
-
-
-
-
+description$language <- lapply(description$language, naconverter)
 
 
 #################Organization
@@ -169,8 +177,7 @@ df2 <- data.frame(description = descriptionorg$text)
 df2$organisation <- as.character(df2$description)
 jobdictionary <- dictionary$Position
 
-#options(show.error.location=TRUE)
-#df2 <- df2[120:125,]
+
 
 #using function to extract companies after job titles 
 orgdescriber1 <- function(org){
@@ -199,20 +206,22 @@ orgdescriber2 <- function(org2){
 df2[[2]] <- lapply(df2[[2]], orgdescriber2)
 
 
-# change the results that are longer than 5 words (there are almost no company names with
-# more than 5 words) to missing
+# change the results that are longer than 7 words (there are almost no company names with
+# more than 7 words) to missing
 wordcounter <- function(org3){
   wordcount <- sapply(strsplit(org3, " "), length)
-  if (wordcount > 5){
+  if (wordcount > 7){
     org3 <- "missing"
   }else{
     org3 <- org3
   }
 }
 
+
 df2[[2]] <- lapply(df2[[2]], wordcounter)
 
 
+description$organisation <- df2$organisation
 
 ################SKILLS
 data <- readtext(path)
@@ -264,4 +273,63 @@ for (i in keywords) {
 final_table <- cbind(description,data[,2:19])
 
 r <- barplot(colSums(final_table[,10:27]),main = "Technical Skills",ylab = "count",las=2,ylim = c(0,1600))
+
+#################test
+
+# prepare comparison set 
+comparison_set <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/comparison_set.xlsx")
+comparison_set <- comparison_set[, 2:24]
+
+# prepare model_results
+comparison_docs <- c("100.txt", "101.txt", "102.txt", "103.txt", "104.txt", "105.txt", "106.txt", "107.txt",
+  "108.txt", "109.txt", "110.txt", "111.txt", "112.txt", "113.txt", "114.txt", "115.txt",
+  "116.txt", "117.txt", "118.txt", "119.txt")
+
+
+comparison_docs2 <- c("1100.txt", "1101.txt", "1102.txt", "1103.txt", "1104.txt", "1105.txt", "1106.txt", "1107.txt",
+                     "1108.txt", "1109.txt", "1110.txt", "1111.txt", "1112.txt", "1113.txt", "1114.txt", "1115.txt",
+                     "1116.txt", "1117.txt", "1118.txt", "1119.txt")
+
+
+model_result <- final_table[str_detect(final_table$doc_id, paste(comparison_docs, collapse = "|")),]
+model_result <- model_result[!str_detect(model_result$doc_id, paste(comparison_docs2, collapse = "|")),]
+model_result <- model_result[, -c(1,2, 5, 6)]
+
+# trimming trailing and leading blanks (would lead to problems in string comparison)
+model_result[[5]] <- lapply(model_result[[5]], trimws)
+
+# check whether these dataframes are equal
+result <- table(model_result==comparison_set)
+model_result==comparison_set
+
+
+
+# take the non-identical cells
+False <- as.numeric(result[1])
+
+# take the identical cells
+True <- as.numeric(result[2])
+
+# calculate the accuracy 
+Accuracy <- True / (True+False)
+
+
+
+# test without skills section
+comparison_set2 <- comparison_set[, 1:5]
+model_result2 <- model_result[, 1:5]
+
+
+# check whether these dataframes are equal
+result <- table(model_result2==comparison_set2)
+model_result2==comparison_set2
+
+# take the non-identical cells
+False <- as.numeric(result[1])
+
+# take the identical cells
+True <- as.numeric(result[2])
+
+# calculate the accuracy 
+Accuracy <- True / (True+False)
 
