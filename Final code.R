@@ -17,6 +17,43 @@ if (!require("stringr")) install.packages("stringr", quiet=TRUE) ; library(strin
 if (!require("ggplot2")) install.packages("ggplot2", quiet=TRUE) ; library(ggplot2)
 if (!require("dplyr")) install.packages("dplyr", quiet=TRUE) ; library(dplyr)
 
+if (!require("openNLP")) install.packages("openNLP", quiet=TRUE) ; library(openNLP)
+if (!require("NLP")) install.packages("NLP", quiet=TRUE) ; library(NLP)
+install.packages("openNLPmodels.en", dependencies=TRUE, repos = "http://datacube.wu.ac.at/")
+library(openNLPmodels.en)
+
+
+########## initial test with openNLP to extract organizations and locations
+
+## Need sentence and word token annotations.
+sent_token_annotator <- Maxent_Sent_Token_Annotator()
+word_token_annotator <- Maxent_Word_Token_Annotator()
+
+## import all files in the directory
+test_openNLP <- readtext("C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt")
+
+## Entity recognition for organizations and locations.
+entity_org <- Maxent_Entity_Annotator(kind="organization")
+entity_location <- Maxent_Entity_Annotator(kind="location", probs = TRUE)
+
+
+##function to check all job offers on organizations and location
+
+anno <- function(x){
+  
+  # x is the tweet or text
+  s <- as.String(x)
+  
+  a2 <- NLP::annotate(s, list(sent_token_annotator, word_token_annotator))
+  
+  organizations = list(s[entity_org(s,a2)])
+  location = list(s[entity_location(s,a2)])
+  
+  return(list(organizations,location))
+}
+
+organizations_locations <- rbindlist(lapply(test_openNLP[,2],anno))
+
 
 ## import all files in the directory
 path <- "C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt"
@@ -321,15 +358,15 @@ model_result2 <- model_result[, 1:5]
 
 
 # check whether these dataframes are equal
-result <- table(model_result2==comparison_set2)
+result2 <- table(model_result2==comparison_set2)
 model_result2==comparison_set2
 
 # take the non-identical cells
-False <- as.numeric(result[1])
+False2 <- as.numeric(result2[1])
 
 # take the identical cells
-True <- as.numeric(result[2])
+True2 <- as.numeric(result2[2])
 
 # calculate the accuracy 
-Accuracy <- True / (True+False)
+Accuracy2 <- True / (True+False)
 
