@@ -11,7 +11,7 @@ ui <- dashboardPage(
                    sidebarMenu(
                      menuItem("Top Skills",tabName = "d1"),
                      menuItem("Regions",tabName = "d2"),
-                     menuItem("Jobs in different State",tabName = "d3"))),
+                     menuItem("Jobs in different States",tabName = "d3"))),
   dashboardBody(tabItems(
     tabItem(tabName = "d1",
             fluidPage(titlePanel("TECHNICAL SKILLS"),
@@ -19,7 +19,7 @@ ui <- dashboardPage(
             sidebarPanel(
             selectInput("state1","select a state",
                         choices = unique(final_table$state),
-                        selected = "IL")),
+                        selected = "CA")),
           
             plotOutput("plot1")))),
              
@@ -41,7 +41,7 @@ ui <- dashboardPage(
 server <- function(input,output){
   output$plot1 <- renderPlot({
   data1 <- subset(final_table, state %in% input$state1)
-  plt <- barplot(colSums(data1[,10:27]),ylab = "count",las=2,ylim = c(0,1600))
+  plt <- barplot(colSums(data1[,10:27]),ylab = "count",las=2,ylim = c(0,250))
   text(x = plt, y = colSums(data1[,10:27]), label = colSums(data1[,10:27]), pos = 3, cex = 0.8, col = "black")
 })
   
