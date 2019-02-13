@@ -44,7 +44,7 @@ output:
 ### Introduction
 ####Why Do We Extract Information from Job Descriptions?
 <br />
-As future data scientists and analysts, we believe that knowing the latest trends of data science job market is a key to employment. Our goal of this project is to have better insights on most in-demand technical skills and positions and the regions and types of companies that are in need of data scientists.We used a raw dataset of 1911 job descriptions extracted from CVs and turned it into a basetable with 1911 observations and 27 variables (for details,please refer to the Methodology and Results tab).98% of job descriptions are in English (1871 observations), but on very rare occasions, they are also in French. For pre-processing and text mining, we used the following packages and techniques: tm_map, stringr, openNLP, Regex, SnowballC, slam, RWeka, textcat, cld2, and Matrix.
+As future data scientists and analysts, we believe that knowing the latest trends of data science job market is a key to employment. Our goal of this project is to have better insights on most in-demand technical skills and positions and the regions and types of companies that are in need of data scientists.We used a raw dataset of 1911 job descriptions extracted from CVs and turned it into a basetable with 1911 observations and 27 variables (for details,please refer to the Methodology and Results tab).98% of job descriptions are in English (1871 observations), but on very rare occasions, they are also in French. For pre-processing and text mining, we used the following packages and techniques: tm_map, stringr, openNLP, Regex, SnowballC, slam, RWeka, cld2, and Matrix.
 
 
 ### Methodology and Results
@@ -52,7 +52,7 @@ As future data scientists and analysts, we believe that knowing the latest trend
 <br />
 **OpenNLP**
 <br />
-We started with a test run with the openNLP package. However, we quickly realized that these pre-built models will not lead to great results in our particular case. One limitation of these NER models became obvious. If documents such as the job descriptions we were using, are containing many program names and software descriptions, it is almost impossible for the system to determine whether an entity is a company or just a skill. For example, if the person was working at Oracle in Redwood City, the system should detect Oracle as the company/employer. However, if the person was working with an Oracle database management system, it should not detect Oracle as the company/employer but as a skill. With this in mind, we changed our strategy from the pre-built models to a dictionary and rule-based approach. Therefore, we created a dictionary with the classifications we want to extract such as the job title the location and the skills. Moreover, we studied the raw text files in order to identify patterns and define rules on how to extract the entities from the unstructured text. As for some extractions we needed special characters we had to abandon some of the pre-processing steps we have seen in class.
+We started with a test run with the openNLP package. However, we quickly realized that these pre-built models will not lead to great results in our particular case. One limitation of these NER models became obvious. If documents such as the job descriptions we were using, are containing many program names and software descriptions, it is almost impossible for the system to determine whether an entity is a company or just a skill. For example, if the person was working at Oracle in Redwood City, the system should detect Oracle as the company/employer. However, if the person was working with an Oracle database management system, it should not detect Oracle as the company/employer but as a skill. In addition to this abiguity the job descriptions also contained mostly lists of programs, skills and tasks and no real sentences which makes it even more deifficult for the classical NER systems to correctly identify and classify the words in unstructured text. With this in mind, we changed our strategy from the pre-built models to a dictionary and rule-based approach. Therefore, we created a dictionary with the classifications we want to extract such as the job title the location and the skills. Moreover, we studied the raw text files in order to identify patterns and define rules on how to extract the entities from the unstructured text. As for some extractions we needed special characters we had to abandon some of the pre-processing steps we have seen in class.
 
 **Job Titles**
 <br />
@@ -90,7 +90,21 @@ Using different concept extraction techniques,we were able to better understand 
 **3.**Top 3 **technical skills**: Python,Java and SQL.
 
 
+
+
+
+#### Challenges 
+
+**1.** We were lacking the information about the origin of the documents and consequentially also some other background information.
+
+**2.** The topic was covered for ten minutes in class and unfortunately help on the internet is limited. If articles are available they mainly focus on applying the currently available pre-bult NER-systems on texts such as news articles or scientific papers which consist of full sentences. Therefore, we needed to find a solution that solves the problem by our own.
+
+
 ### Further Steps 
 #### How Can We Improve Our Current Deliverables?
-We can say that the model performs well on the given type (job description) of unstructured text. However, it is heavily dependent on the structure of these descriptions. Therefore, further developments or improvements should focus on generalisation. Furthermore, we were able to extract company names from the texts but did not have a chance to categorize them based on the industries. Getting top 5 industries that actively use data science will help us make better decisions when we apply for jobs.
+We can say that the model performs well on the given type (job description) of unstructured text. However, it is heavily dependent on the structure of these descriptions. Therefore, further developments or improvements should focus on generalisation. Like we have already mentioned before, the pre-built models were not suitable for our kind of problem. Our personal reasearch showed some possibilities that could change that. Firstly, it is possible to chain different pre-built NER-systems. However, this has two downsides in regards to our project. Most of the NER-systems are trained with the same dictionary and therefore per se lead to similar results. Moreover, the NER-systems such as spacyR and the Stanford coreNLP are not only partialy available in R. Secondly, we could have worked with a much larger dictionary to train our own model but this would have contradicted with the  task description that demanded the use of only a small dictionary.
+
+Furthermore, we were able to extract company names from the texts but did not have a chance to categorize them based on the industries. Getting top 5 industries that actively use data science will help us make better decisions when we apply for jobs.
+
+
 

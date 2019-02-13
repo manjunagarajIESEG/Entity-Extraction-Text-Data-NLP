@@ -12,7 +12,9 @@ if (!require("readtext")) install.packages("readtext", quiet=TRUE) ; library(rea
 
 
 # import all files in the directory
-description <- readtext("C:/Users/mrudrappa/Desktop/SMA/concept_extraction_cvs/concept_extraction_cvs/*.txt")
+description <- readtext("C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt")
+description$language <- cld2::detect_language(as.character(description[[2]]))
+
 
 # First we will delete non-recognizable characters, otherwise the tm package will get in trouble later. 
 # Note that this can also delete some emoticons
@@ -39,8 +41,18 @@ description <- tm_map(description,content_transformer(tolower))
 
 KEYWORDS <- c('hadoop','python', 'nosql' ,'html', 'spark' , 'sas', 'excel', 'aws', 'azure', 'java', 'tableau', 'matlab')
 
+description$job <- paste(strsplit(description[,2], " ")[[1]][1:4], colapse=" ")
+
+string1 <- "c developer in the house"
+
+install.packages("stringr")
+library(stringr)
 
 
+  
 
+string2 <- str_replace(string1, "developer", "developer,")
 
+solution <- strsplit(string2, ",")
+solution2 <- solution[[1]][1]
 
