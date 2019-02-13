@@ -1,9 +1,7 @@
 if (!require("readtext")) install.packages("readtext", quiet=TRUE) ; library(readtext)
+if (!require("data.table")) install.packages("rdata.table", quiet=TRUE) ; library(data.table)
+if (!require("readxl")) install.packages("readxl", quiet=TRUE) ; library(readxl)
 
-install.packages("data.table")
-library(data.table)
-library(readtext)
-library(readxl)
 
 for (i in c('SnowballC','slam','tm','RWeka','Matrix')){
   if (!require(i, character.only=TRUE)) install.packages(i, repos = "http://cran.us.r-project.org")
@@ -12,8 +10,9 @@ for (i in c('SnowballC','slam','tm','RWeka','Matrix')){
 
 # Stringr package to match the kewords
 if (!require("stringr")) install.packages("stringr", quiet=TRUE) ; library(stringr)
+if (!require("textcat")) install.packages("textcat", quiet=TRUE) ; library(textcat)
 
-
+if (!require("cld2")) install.packages("cld2", quiet=TRUE) ; library(cld2)
 if (!require("ggplot2")) install.packages("ggplot2", quiet=TRUE) ; library(ggplot2)
 if (!require("dplyr")) install.packages("dplyr", quiet=TRUE) ; library(dplyr)
 
@@ -30,7 +29,8 @@ sent_token_annotator <- Maxent_Sent_Token_Annotator()
 word_token_annotator <- Maxent_Word_Token_Annotator()
 
 ## import all files in the directory
-test_openNLP <- readtext("C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt")
+path <- "C:/Users/mrudrappa/Desktop/SMA/concept_extraction_cvs/concept_extraction_cvs/*.txt"
+test_openNLP <- readtext(path)
 
 ## Entity recognition for organizations and locations.
 entity_org <- Maxent_Entity_Annotator(kind="organization")
@@ -56,11 +56,11 @@ organizations_locations <- rbindlist(lapply(test_openNLP[,2],anno))
 
 
 ## import all files in the directory
-path <- "C:/Users/Remo/Documents/GitHub/SMAGroup1/Data/concept_extraction_cvs/concept_extraction_cvs/*.txt"
+
 
 description <- readtext(path)
 
-stateabbreviation <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/stateabbreviation.xlsx")
+stateabbreviation <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/stateabbreviation.xlsx")
 
 #################Location
 
@@ -112,7 +112,7 @@ if (!require("ggplot2")) install.packages("ggplot2", quiet=TRUE) ; library(ggplo
 if (!require("maps")) install.packages("maps", quiet=TRUE) ; library(maps)
 
 #load US map data
-states_location <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/states_location.xlsx")
+states_location <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/states_location.xlsx")
 
 
 #Adding lantitude and longitude for the map
@@ -126,16 +126,11 @@ plot(newmap, xlim = c(-110, -100), ylim = c(10, 50), asp = 1)
 points(description$long, description$lat, col = "red", cex = 0.5)
 
 
-#table-which state is looking for data analysts/engineers the most?
-state_count<-table(description$state)
-state_count<-as.data.frame(state_count) 
-library(ggplot2)
-ggplot(state_count, aes(x = as.character(state_count$Var1), y = state_count$Freq)) + geom_bar(stat="identity") + 
-  theme(axis.text.x = element_text(angle = 60, vjust = )) + labs(y = "Frequency", x= "States")
+
 
 #################Positions/Titles
 
-dictionary <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/Dictionary.xlsx")
+dictionary <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/Dictionary.xlsx")
 
 
 #reloading the data + cleaning for "position" column
@@ -177,10 +172,7 @@ description$position<-df$job
 #################Language
 
 # detecting languages testing textcat and cld2 and finally using cld2
-install.packages("textcat")
-library(textcat)
-install.packages("cld2")
-library(cld2)
+
 
 df2$language <- textcat(as.character(df2$description))
 df2 <- data.frame(description = as.character(description$text))
@@ -314,18 +306,18 @@ r <- barplot(colSums(final_table[,10:27]),main = "Technical Skills",ylab = "coun
 #################test
 
 # prepare comparison set 
-comparison_set <- read_excel("C:/Users/Remo/Documents/GitHub/SMAGroup1/comparison_set.xlsx")
+comparison_set <- read_excel("C:/Users/mrudrappa/Desktop/SMA/SMA-master/SMA-master/R code/comparison_set.xlsx")
 comparison_set <- comparison_set[, 2:24]
 
 # prepare model_results
 comparison_docs <- c("100.txt", "101.txt", "102.txt", "103.txt", "104.txt", "105.txt", "106.txt", "107.txt",
-  "108.txt", "109.txt", "110.txt", "111.txt", "112.txt", "113.txt", "114.txt", "115.txt",
-  "116.txt", "117.txt", "118.txt", "119.txt")
+                     "108.txt", "109.txt", "110.txt", "111.txt", "112.txt", "113.txt", "114.txt", "115.txt",
+                     "116.txt", "117.txt", "118.txt", "119.txt")
 
 
 comparison_docs2 <- c("1100.txt", "1101.txt", "1102.txt", "1103.txt", "1104.txt", "1105.txt", "1106.txt", "1107.txt",
-                     "1108.txt", "1109.txt", "1110.txt", "1111.txt", "1112.txt", "1113.txt", "1114.txt", "1115.txt",
-                     "1116.txt", "1117.txt", "1118.txt", "1119.txt")
+                      "1108.txt", "1109.txt", "1110.txt", "1111.txt", "1112.txt", "1113.txt", "1114.txt", "1115.txt",
+                      "1116.txt", "1117.txt", "1118.txt", "1119.txt")
 
 
 model_result <- final_table[str_detect(final_table$doc_id, paste(comparison_docs, collapse = "|")),]
@@ -369,4 +361,3 @@ True2 <- as.numeric(result2[2])
 
 # calculate the accuracy 
 Accuracy2 <- True / (True+False)
-
