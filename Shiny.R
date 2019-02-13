@@ -5,13 +5,16 @@ if(!require("shinydashboard")) install.packages("shinydashboard"); library("shin
 if(!require("tools")) install.packages("tools"); library("tools")
 
 
+
+
 ui <- dashboardPage(
   dashboardHeader(title = strong("ENTITY EXTRACTION ON JOB DESCRIPTION"),titleWidth = 650),
   dashboardSidebar(tags$style(HTML(".main-sidebar{width: 250px;}")),
                    sidebarMenu(
                      menuItem("Top Skills",tabName = "d1"),
                      menuItem("Regions",tabName = "d2"),
-                     menuItem("Jobs in different States",tabName = "d3"))),
+                     menuItem("Jobs in different State",tabName = "d3"),
+                     menuItem("Most In Demand Positions",tabName = "d4"))),
   dashboardBody(tabItems(
     tabItem(tabName = "d1",
             fluidPage(titlePanel("TECHNICAL SKILLS"),
@@ -31,7 +34,12 @@ ui <- dashboardPage(
     
     tabItem(tabName = "d3",
             fluidPage(titlePanel("Distribution Of jobs in different states"),
-          plotOutput("plot3")))          
+          plotOutput("plot3"))),
+    
+    tabItem(tabName = "d4",
+          mainPanel(  fluidPage(titlePanel("Most In Demand Positions"),
+                      plotOutput("plot4"))
+            ))
     
     
     )))
@@ -64,6 +72,23 @@ server <- function(input,output){
     
     
   })
+  
+  
+  output$plot4 <- renderPlot({
+    fLength <- function(str1, pat){
+      lengths(regmatches(str1, gregexpr(paste0("\\b", pat), str1, ignore.case = TRUE)))
+    }
+  sum(fLength(final_table$position, "developer"))
+  sum(fLength(final_table$position, "engineer"))
+  sum(fLength(final_table$position, "analyst"))
+  sum(fLength(final_table$position, "intern"))
+  positionf<- c(750,378,82,128)
+  positionm<- matrix(positionf,nrow=4,byrow = TRUE,dimnames=list(c("developer","engineer","analyst","intern"),row.names="freq"))
+  positionm<-as.data.frame(as.table(positionm))
+  ggplot(positionm, aes(x = as.character(positionm$Var1), y = positionm$Freq)) + geom_bar(stat="identity",width = 0.2) + 
+    theme(axis.text.x = element_text(angle = 60, vjust = )) + labs(y = "Frequency", x= "Positions")})
+  
+  
 }
 
 
